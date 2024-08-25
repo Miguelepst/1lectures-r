@@ -1,18 +1,44 @@
 ¿Qué es Git y cómo funciona? - La mejor explicación en español
 
-git config --global init.defaultBranch main
+ok: git config --global init.defaultBranch main
 
-$ git init --bare 1lectures-r-pc2
+ok: $ git init --bare 1lectures-r-pc2
 Initialized empty Git repository in 
 G:/1acumulacion-ftp/z-repositories/1lectures-r-pc2/
 
 
 
 clonar en repositorio Github, dentro de la carpeta deseada (.):
-git clone https://github.com/Miguelepst/1lectures-r.git .
+ok: git clone https://github.com/Miguelepst/1lectures-r.git .
 
-git clone  D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1/ .
 
+ok: git config --global core.autocrlf false
+
+git status
+
+git add .
+
+git status
+
+
+ok:  git config --local user.email "miguelepst@hotmail.com"
+ok:  git config --local user.name "Miguel"
+
+git commit -m "Mi primer commit pc2"
+
+
+git remote -v
+
+ok: git push --set-upstream origin main
+
+
+
+despues el repositorio bare local:
+ok: git remote add bare-pc2 G:/1acumulacion-ftp/z-repositories/1lectures-r-pc2
+	: $ git remote set-url bare-pc1 D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1
+
+hacer push 
+ok: git push bare-pc2
 
 
 
