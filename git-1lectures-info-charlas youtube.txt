@@ -1,6 +1,27 @@
 ¿Qué es Git y cómo funciona? - La mejor explicación en español
 
+git config --global init.defaultBranch main
 
+$ git init --bare 1lectures-r-pc2
+Initialized empty Git repository in 
+G:/1acumulacion-ftp/z-repositories/1lectures-r-pc2/
+
+
+
+clonar en repositorio Github, dentro de la carpeta deseada (.):
+git clone https://github.com/Miguelepst/1lectures-r.git .
+
+git clone  D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1/ .
+
+
+
+
+
+
+
+pc 2
+
+5-
 
 repositorio local "bare"
 D:\1acumulacion-ftp\z-repositories\1lectures-r-pc1
@@ -11,7 +32,7 @@ $ git config --local init.defaultBranch main
 fatal: --local can only be used inside a git repository
 
 
-$ git config --global init.defaultBranch main
+ok: $ git config --global init.defaultBranch main
 no muestra error
 
 
@@ -21,6 +42,111 @@ Initialized empty Git repository in D:/1acumulacion-ftp/z-repositories/1lectures
 
 clonar en repositorio vacio bare que acabo de crear en una carpeta vacia:
 git clone  D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1/ .
+
+
+git status
+
+git add .
+
+
+error warning:
+warning: LF will be replaced by CRLF.
+Depending on the editor you are using, a text file with LF wouldn't necessary be saved with CRLF: recent editors can preserve eol style. But that git config setting insists on changing those...
+
+Simply make sure that (as I recommend here):
+
+ok: git config --global core.autocrlf false
+
+ok: git add .
+
+ok: git status
+
+mi primer commit   (area de trabajo)
+git commit -m "Mi primer commit"
+
+
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+ok:  git config --local user.email "miguelepst@hotmail.com"
+ok:  git config --local user.name "Miguel"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Miguel G@DESKTOP-0ASVSI9.(none)')
+
+
+ok: git commit -m "Mi primer commit"
+
+
+ok: Miguel G@DESKTOP-0ASVSI9 MINGW64 /d/1acumulacion-ftp/1practica-diaria/1learn/1english/1lectures-r-pc1 (main)
+$ git status
+On branch main
+Your branch is based on 'origin/main', but the upstream is gone.
+  (use "git branch --unset-upstream" to fixup)
+
+nothing to commit, working tree clean
+
+
+enlazar repositoio origen : github
+enlazar repositorio bare  : bare         :ubicado en equipo local, lo pueden acceder por red. 
+
+consultar con:
+git remote -v
+
+$ git remote -v
+origin  D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1/ (fetch)
+origin  D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1/ (push)
+
+primero con github:
+git remote set-url origin https://github.com/Miguelepst/1lectures-r.git
+
+ok: git push --set-upstream origin main
+
+es para que automaticamente cuando escriba origin ya no sea necesario escribir, especificar  la rama main 
+ej:
+
+hacer push 
+ok: git push origin
+ok: $ git push origin
+Everything up-to-date
+
+git push      : por defecto hace el push a github, solicita autenticacion de usuario: email y contraseña de github 
+$ git push
+Everything up-to-date
+
+
+despues el repositorio bare local:
+git remote add bare-pc1 D:\1acumulacion-ftp\z-repositories\1lectures-r-pc1
+ok: $ git remote set-url bare-pc1 D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1
+
+hacer push 
+ok: git push bare-pc1
+
+volver hacer push:
+Miguel G@DESKTOP-0ASVSI9 MINGW64 /d/1acumulacion-ftp/1practica-diaria/1learn/1english/1lectures-r-pc1 (main)
+$ git push bare-pc1
+Everything up-to-date
+
+
+
+How to undo 'git fetch'
+https://stackoverflow.com/questions/35591887/how-to-undo-git-fetch
+
+You can undo all fetches from remote A simply by removing this remote:
+
+git remote remove A                       (A= origin u otro + path) 
+
+Now just add it again and fetch only single branch:
+git remote add A <path/to/repository>
+git fetch A <name of branch>
 
 
 4-
