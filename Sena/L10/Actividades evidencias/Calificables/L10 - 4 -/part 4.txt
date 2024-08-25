@@ -1,0 +1,39 @@
+Examples from Training Component Included:
+
+1. Talking about Technology:
+   - Innovative
+   - Develop
+   - Device
+   - Breakthrough
+   - Obsolete
+
+2. **Modals:**
+   - Could
+   - Should
+   - Must
+   - Would
+   - Might
+   - Have to
+
+3. Modal Conjugations:
+   - Could + past participle (e.g., "I could have studied languages...")
+   - Should + past participle (e.g., "I should have bought the blue shirt.")
+   - Must + past participle (e.g., "He must have studied a lot.")
+   - Would + past participle (e.g., "I would have danced with you...")
+   - Might + past participle (e.g., "She might have missed the bus.")
+
+4. Predictions:
+   - Will (e.g., "I believe anything is possible.")
+   - Going to (implied in aspirations)
+
+5. Expressions of Wishes and Hypothetical Situations:
+   - "I would like to..."
+   - "I dream of having two children."
+
+6. Descriptive Examples from Miguel's Database:
+   - Work experience in the electronic workshop and family store.
+   - Personal anecdotes, such as saving two girls from drowning.
+   - Hobbies and learning routines.
+   - Reflections on relationships and future goals.
+_
+Ln 145, Col 1 (1148 selected) Spaces: 3 UTF-8 CRLF Markdown 1271 words (170 selected) 3:22 PM 6/11/2024

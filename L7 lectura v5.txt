@@ -1,0 +1,83 @@
+Para crear una anécdota en inglés que incluya las 50 frases en mayúsculas y todos los tiempos verbales, aquí tienes un ejemplo. Fíjate en cómo las frases se insertan en el texto, algunas modificadas ligeramente para que el texto sea coherente:
+
+"9 ONCE UPON A TIME, there was a man named John. 1 CAREFULLY, he opened an old book that he found in the attic. As he 2 SLOWLY turned the pages, he 3 SIMPLY couldn't believe what he was seeing. It was a map that 4 EASILY showed the way to a hidden treasure.
+
+5 LOUDLY, he exclaimed, 'This is incredible!' and right away, he decided to go on an adventure. He 6 SUCCESSFULLY followed the map, but 7 TOO soon he arrived at a strange forest. He was 8 COMPLETELY lost. 10 MEANWHILE, his family had no idea where he had gone.
+
+11 SUDDENLY, a wise old owl appeared and spoke to him. 12 LATER on, John followed the owl through the woods. 13 AFTERWARDS, they reached a clearing where the treasure was buried. 14 WHEN John dug up the chest, 15 FINALLY he saw the glittering gold.
+
+16 AT THE END of the day, he returned home. 17 BY THE TIME he got back, it was already night. 18 BY THE WAY, he had an amazing story to tell. 19 BEFORE John had left, he had been poor. 20 FOR A LONG time, he had dreamed of finding treasure.
+
+21 I'M NOT SURPRISED that the story sounds unbelievable, 22 YOU'RE JOKING? Nope, it's true. 23 I CAN IMAGINE! Everyone exclaimed. 24 WHAT A NIGHTMARE, it would have been if he got lost forever. 25 SOUNDS AWFUL, but he was brave.
+
+26 SOUNDS TERRIBLE! But it isn't, 27 I DON'T BLAME YOU for thinking so though. 28 WOW, THAT'S AMAZING! the children said. 29 OH, so you found the gold? 30 I SEE, but how did you find your way back?
+
+31 WHAT YOU MEAN is that the owl helped you? 32 LUCKY YOU, to have such an encounter! 33 OH MY GOD! WERE YOU REALLY not scared? 34 SO, what did you do with the gold? 35 WHAT HAPPENED? with the owl?
+
+36 YOU CAN'T BE SERIOUS, you gave some gold to the owl? 37 SERIOUSLY, he nodded. 38 JUST like that? 39 ALREADY the owl has built a nest made of gold? 40 YET, you seem so calm.
+
+41 STILL, there is more treasure out there? 42 FOR AND SINCE that day, John has never stopped exploring. 43 AGO, many years passed, and he continues to tell his tale. 44 YESTERDAY, children sat down to listen to him. 
+
+45 THE OTHER DAY, LAST WEEK, I heard this story for the first time. 46 LAST MONTH, I met John and he showed me the map. 47 LAST YEAR, I started my own adventure, but 48 I USED TO think treasure hunting was only in stories.
+
+49 INDEED, it's all true, 50 I WOULD go on the same adventure if I could."
+
+Do let me know if you need any more details or adjustments to this anecdote!
+
+consulta: chat gp4
+
+crear  anécdota larga,
+no excluir las 50 de la lista, 
+ponerlas en mayusculas con su numeracion:
+1 CAREFULLY, 
+2 SLOWLY, 
+3 SIMPLY, 
+4 EASILY, 
+5 LOUDLY, 
+6 SUCCESSFULLY, 
+7 TOO, 
+8 COMPLETELY,
+9 ONCE UPON A TIME, 
+10 MEANWHILE, 
+11 SUDDENLY, 
+12 LATER, 
+13 AFTERWARDS, 
+14 WHEN, 
+15 FINALLY, 
+16 AT THE END,  
+17 BY THE TIME, 
+18 BY THE WAY, 
+19 BEFORE, 
+20 FOR A LONG, 
+21 I'M NOT SURPRISED, 
+22 YOU'RE JOKING?, 
+23 I CAN IMAGINE!, 
+24 WHAT A NIGHTMARE, 
+25 SOUNDS AWFUL, 
+26 SOUNDS TERRIBLE!, 
+27 I DON'T BLAME YOU, 
+28 WOW, THAT'S AMAZING! 
+29 OH, 
+30 I SEE, 
+31 WHAT YOU MEAN, 
+32 LUCKY YOU, 
+33 OH MY GOD! WERE YOU REALLY?, 
+34 SO, 
+35 WHAT HAPPENED?,  
+36 YOU CAN'T BE, 
+37 SERIOUS , 
+38 JUST, 
+39 ALREADY, 
+40 YET, 
+41 STILL, 
+42 FOR AND SINCE , 
+43 AGO, 
+44 YESTERDAY, 
+45 THE OTHER DAY LAST WEEK, 
+46 LAST MONTH, 
+47 LAST YEAR , 
+48 USED TO,
+49 indeed 
+50 I would
+que incluya todos los tiempos verbales, 
+level 1 de ingles

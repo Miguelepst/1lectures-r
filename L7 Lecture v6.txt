@@ -1,0 +1,381 @@
+To create a story incorporating all the listed phrases in uppercase, we'll need to weave a tale that can plausibly use all of these expressions in a context that makes sense. Given your instructions, I understand that the story should involve all verb tenses and be at an English level
+#
+Para crear una historia que incorpore todas las frases en mayúsculas, necesitaremos tejer un relato que pueda utilizar plausiblemente todas estas expresiones en un contexto que tenga sentido. Dadas tus instrucciones, entiendo que la historia debe involucrar todos los tiempos verbales y estar a un nivel de inglés.
+#
+
+1. Let's start the story:
+
+"9 ONCE UPON A TIME, there was a young boy who 1 CAREFULLY built a model airplane. He worked on it 2 SLOWLY, putting each piece together 3 SIMPLY and 4 EASILY. His dream was to fly it 5 LOUDLY across the park 6 SUCCESSFULLY. He tried many times and failed 7 TOO often. But 8 COMPLETELY determined, he kept trying.
+
+10 MEANWHIL, in the park, an old man watched the boy daily. 11 SUDDENLY, one day, the wind was perfect. 12 LATER, the boy threw the plane with all his might. 13 AFTERWARDS, he watched it soar. 14 WHEN the plane landed, the boy ran to it 15 FINALLY seeing his work fly. 16 AT THE END of the day, the boy was so happy.
+
+17 BY THE TIME he went home, the sun was setting. 18 BY THE WAY, he met the old man who smiled. 19 BEFORE he left, the old man gave him a tip to make the plane fly better. 20 FOR A LONG time, the boy had been waiting for someone to notice his efforts. 21 I'M NOT SURPRISED, the boy thought, as he felt the old man knew much about planes. "22 YOU'RE JOKING?," the boy said when the old man told him he had once been a pilot. "23 I CAN IMAGINE!" the boy exclaimed, imagining flying real airplanes.
+
+24 WHAT A NIGHTMARE, he thought, if the plane would have broken. 25 SOUNDS AWFUL if he would never have met the pilot. 26 SOUNDS TERRIBLE!, that he almost gave up. 27 I DON'T BLAME YOU, said the pilot, understanding the difficulty of pursuing dreams. 28 WOW, THAT'S AMAZING! exclaimed the boy when the pilot showed him an old photo of a plane he had flown.
+
+29 OH, how excited the boy was. 30 I SEE, said the boy, when the pilot explained aerodynamics. 31 WHAT YOU MEAN is that the shape is important, the boy realized. 32 LUCKY YOU, to have learned these things, the boy told the pilot. 33 OH MY GOD! WERE YOU REALLY a war pilot? asked the boy, amazed. 34 SO, the pilot answered his many questions.
+
+35 WHAT HAPPENED? Why did you stop flying? The boy inquired. "36 YOU CAN'T BE SERIOUS," the boy reacted to the story of the pilot's last flight. "37 I am SERIOUS," the pilot replied with a twinkle in his eye. They spent the whole afternoon discussing planes. Time passed 38 JUST as fast as the boy's plane flying in the wind. It was 39 ALREADY sunset and 40 YET, the boy wanted to talk more. 41 STILL, it was getting dark.
+
+42 FOR AND SINCE that day, the boy visited the old pilot. Many seasons had passed, 43 AGO, 44 YESTERDAY, and 45 THE OTHER DAY LAST WEEK. Now it was 46 LAST MONTH, then 47 LAST YEAR, but the boy never forgot the pilot's lessons. He 48 USED TO think he knew everything about planes until the pilot taught him more. 49 indeed, the boy often laughed recalling their first meeting. 
+50 I WOULD always remember, the boy thought, the day I really learned to fly."
+
+In the story, I have mixed various tenses: past simple for recounting the events, lo past perfect for previous experiences, present simple for general facts, and future tenses for prospective reflection. There's also use of the conditional with 'would', to ensure all requested elements are included.
+
+#
+:sin números:
+ONCE UPON A TIME, there was a young boy who CAREFULLY built a model airplane. He worked on it SLOWLY, putting each piece together SIMPLY and EASILY. His dream was to fly it LOUDLY across the park SUCCESSFULLY. He tried many times and failed TOO often. But COMPLETELY determined, he kept trying.
+
+MEANWHILE, in the park, an old man watched the boy daily. SUDDENLY, one day, the wind was perfect. LATER, the boy threw the plane with all his might. AFTERWARDS, he watched it soar. WHEN the plane landed, the boy ran to it FINALLY seeing his work fly. AT THE END of the day, the boy was so happy.
+
+BY THE TIME he went home, the sun was setting. BY THE WAY, he met the old man who smiled. BEFORE he left, the old man gave him a tip to make the plane fly better. FOR A LONG time, the boy had been waiting for someone to notice his efforts. I'M NOT SURPRISED, the boy thought, as he felt the old man knew much about planes. "YOU'RE JOKING?," the boy said when the old man told him he had once been a pilot. "I CAN IMAGINE!" the boy exclaimed, imagining flying real airplanes.
+
+WHAT A NIGHTMARE, he thought, if the plane would have broken. SOUNDS AWFUL if he would never have met the pilot. SOUNDS TERRIBLE, that he almost gave up. I DON'T BLAME YOU, said the pilot, understanding the difficulty of pursuing dreams. WOW, THAT'S AMAZING! exclaimed the boy when the pilot showed him an old photo of a plane he had flown.
+
+OH, how excited the boy was. I SEE, said the boy, when the pilot explained aerodynamics. WHAT YOU MEAN is that the shape is important, the boy realized. LUCKY YOU, to have learned these things, the boy told the pilot. "OH MY GOD! WERE YOU REALLY a war pilot?" asked the boy, amazed. SO, the pilot answered his many questions.
+
+WHAT HAPPENED? Why did you stop flying? The boy inquired. "YOU CAN'T BE SERIOUS," the boy reacted to the story of the pilot's last flight. "I am SERIOUS," the pilot replied with a twinkle in his eye. They spent the whole afternoon discussing planes. Time passed JUST as fast as the boy's plane flying in the wind. It was ALREADY sunset and YET, the boy wanted to talk more. STILL, it was getting dark.
+
+FOR AND SINCE that day, the boy visited the old pilot. Many seasons had passed, AGO, YESTERDAY, and THE OTHER DAY LAST WEEK. Now it was LAST MONTH, then LAST YEAR, but the boy never forgot the pilot's lessons. He USED TO think he knew everything about planes until the pilot taught him more. indeed, the boy often laughed recalling their first meeting. 
+
+I WOULD always remember, the boy thought, the day I really learned to fly.
+
+#
+:question cel chat gp4:
+crear  anécdota larga,
+no excluir las 50 de la lista, 
+ponerlas en mayusculas con su numeracion:
+1 CAREFULLY, 
+2 SLOWLY, 
+3 SIMPLY, 
+4 EASILY, 
+5 LOUDLY, 
+6 SUCCESSFULLY, 
+7 TOO, 
+8 COMPLETELY,
+9 ONCE UPON A TIME, 
+10 MEANWHILE, 
+11 SUDDENLY, 
+12 LATER, 
+13 AFTERWARDS, 
+14 WHEN, 
+15 FINALLY, 
+16 AT THE END,  
+17 BY THE TIME, 
+18 BY THE WAY, 
+19 BEFORE, 
+20 FOR A LONG, 
+21 I'M NOT SURPRISED, 
+22 YOU'RE JOKING?, 
+23 I CAN IMAGINE!, 
+24 WHAT A NIGHTMARE, 
+25 SOUNDS AWFUL, 
+26 SOUNDS TERRIBLE!, 
+27 I DON'T BLAME YOU, 
+28 WOW, THAT'S AMAZING! 
+29 OH, 
+30 I SEE, 
+31 WHAT YOU MEAN, 
+32 LUCKY YOU, 
+33 OH MY GOD! WERE YOU REALLY?, 
+34 SO, 
+35 WHAT HAPPENED?,  
+36 YOU CAN'T BE, 
+37 SERIOUS , 
+38 JUST, 
+39 ALREADY, 
+40 YET, 
+41 STILL, 
+42 FOR AND SINCE , 
+43 AGO, 
+44 YESTERDAY, 
+45 THE OTHER DAY LAST WEEK, 
+46 LAST MONTH, 
+47 LAST YEAR , 
+48 USED TO,
+49 indeed 
+50 I would
+que incluya todos los tiempos verbales, 
+en inglés level 1,
+no modificar las 50 frases.
+
+:to spanish:
+
+9 Había una vez, un joven muchacho que 1 CUIDADOSAMENTE construyó un modelo de avión. Trabajó en él 2 LENTAMENTE, ensamblando cada pieza 3 SIMPLEMENTE y 4 FÁCILMENTE. Su sueño era volarlo 5 RUIDOSAMENTE a través del parque 6 EXITOSAMENTE. Lo intentó muchas veces y falló 7 DEMASIADO a menudo. Pero 8 COMPLETAMENTE determinado, siguió intentándolo.
+
+10 MIENTRAS TANTO, en el parque, un anciano observaba al muchacho diariamente. 11 DE REPENTE, un día, el viento fue perfecto. 12 MÁS TARDE, el muchacho lanzó el avión con todas sus fuerzas. 13 DESPUÉS, lo vio elevarse. 14 CUANDO el avión aterrizó, el muchacho corrió hacia él 15 FINALMENTE viendo volar su trabajo. 16 AL FINAL del día, el muchacho estaba muy feliz.
+
+17 PARA CUANDO volvió a casa, el sol se estaba poniendo. 18 POR CIERTO, conoció al anciano que sonreía. 19 ANTES de irse, el anciano le dio un consejo para hacer volar mejor el avión. 20 DURANTE MUCHO tiempo, el muchacho había estado esperando que alguien notara sus esfuerzos. 21 NO ME SORPRENDE, pensó el muchacho, al sentir que el anciano sabía mucho sobre aviones. "22 ¿ESTÁS BROMEANDO?," dijo el muchacho cuando el anciano le contó que una vez había sido piloto. "23 ¡PUEDO IMAGINARLO!" exclamó el muchacho, imaginando volar aviones reales.
+
+24 QUÉ PESADILLA, pensó, si el avión se hubiera roto. 25 SUENA HORRIBLE si nunca hubiera conocido al piloto. 26 ¡SUENA TERRIBLE!, que casi se hubiera rendido. 27 NO TE CULPO, dijo el piloto, entendiendo la dificultad de perseguir sueños. 28 ¡VAYA, ESO ES INCREÍBLE! exclamó el muchacho cuando el piloto le mostró una antigua foto de un avión que él había volado.
+
+29 OH, cuán emocionado estaba el muchacho. 30 YA VEO, dijo el muchacho, cuando el piloto explicó la aerodinámica. 31 LO QUE QUIERES DECIR es que la forma es importante, se dio cuenta el muchacho. 32 QUÉ SUERTE la tuya, de haber aprendido estas cosas, le dijo el muchacho al piloto. 33 ¡DIOS MÍO! ¿REALMENTE FUERAS piloto de guerra? preguntó el muchacho, asombrado. 34 ASÍ, el piloto respondió a sus muchas preguntas.
+
+35 ¿QUÉ PASÓ? ¿Por qué dejaste de volar? inquirió el muchacho. "36 NO PUEDES ESTAR HABLANDO EN SERIO," reaccionó el muchacho a la historia del último vuelo del piloto. "37 LO DIGO EN SERIO," replicó el piloto con un brillo en su mirada. Pasaron toda la tarde hablando de aviones. El tiempo transcurrió 38 TAN rápido como el avión del muchacho volando en el viento. Era 39 YA atardecer y 40 AÚN así, el muchacho quería hablar más. 41 SIN EMBARGO, se estaba haciendo oscuro.
+
+42 DESDE aquel día, el muchacho visitó al viejo piloto. Habían pasado muchas estaciones, 43 HACE, 44 AYER, y 45 EL OTRO DÍA DE LA SEMANA PASADA. Ahora era 46 EL MES PASADO, luego 47 EL AÑO PASADO, pero el muchacho nunca olvidó las lecciones del piloto. 48 SOLÍA pensar que sabía todo sobre aviones hasta que el piloto le enseñó más. 49 de hecho, el muchacho a menudo se reía recordando su primer encuentro.
+50 SIEMPRE recordaría, pensó el muchacho, el día que realmente aprendí a volar.
+
+#
+:sin números:
+Claro, aquí tienes el párrafo sin los números y traducido al español:
+
+"ÉRASE UNA VEZ, un joven que CON CUIDADO construyó un modelo de avión. Trabajó LENTAMENTE, colocando cada pieza de manera SIMPLE y FÁCIL. Su sueño era volarlo RUIDOSAMENTE a través del parque con ÉXITO. Lo intentó muchas veces y falló DEMASIADO a menudo. Pero TOTALMENTE determinado, siguió intentándolo.
+
+MIENTRAS TANTO, en el parque, un anciano observaba al niño diariamente. DE REPENTE, un día, el viento era perfecto. MÁS TARDE, el niño lanzó el avión con todas sus fuerzas. LUEGO, lo vio elevarse. CUANDO el avión aterrizó, el niño corrió hacia él, VIENDO FINALMENTE volar su trabajo. AL FINAL del día, el niño estaba muy feliz.
+
+PARA CUANDO llegó a casa, el sol se estaba poniendo. POR CIERTO, conoció al anciano, quien sonrió. ANTES de que se fuera, el anciano le dio un consejo para hacer volar mejor el avión. Durante mucho tiempo, el niño había esperado que alguien notara sus esfuerzos. NO ME SORPRENDE, pensó el niño, al sentir que el anciano sabía mucho sobre aviones. "¿ESTÁS BROMEANDO?", dijo el niño cuando el anciano le contó que alguna vez había sido piloto. "¡PUEDO IMAGINARLO!", exclamó el niño, imaginándose volando aviones de verdad.
+
+QUÉ PESADILLA, pensó, si el avión se hubiera roto. SUENA HORRIBLE si nunca hubiera conocido al piloto. ¡SUENA TERRIBLE!, que casi se rindió. NO TE CULPO, dijo el piloto, entendiendo la dificultad de perseguir sueños. "¡VAYA, ESO ES INCREÍBLE!", exclamó el niño cuando el piloto le mostró una foto antigua de un avión que había volado.
+
+OH, cómo se emocionó el niño. YA VEO, dijo el niño, cuando el piloto explicó la aerodinámica. LO QUE QUIERES DECIR es que la forma es importante, se dio cuenta el niño. QUÉ SUERTE tienes, de haber aprendido estas cosas, le dijo el niño al piloto. ¡DIOS MÍO! ¿REALMENTE FUISTE piloto en la guerra? preguntó el niño asombrado. Entonces, el piloto respondió a sus muchas preguntas.
+
+¿QUÉ PASÓ? ¿Por qué dejaste de volar? Preguntó el niño. "NO PUEDES ESTAR HABLANDO EN SERIO", reaccionó el niño a la historia del último vuelo del piloto. "Yo sí HABLO EN SERIO", respondió el piloto con un brillo en sus ojos. Pasaron toda la tarde hablando de aviones. El tiempo pasó TAN rápido como el avión del niño volando con el viento. Era ya atardecer y AUN ASÍ, el niño quería hablar más. Pero ya estaba oscureciendo.
+
+DESDE ese día, el niño visitaba al viejo piloto. Muchas estaciones habían pasado, HACE... AYER, y ANTEAYER LA SEMANA PASADA. Ahora fue EL MES PASADO, luego EL AÑO PASADO, pero el niño nunca olvidó las lecciones del piloto. Solía pensar que lo sabía todo sobre aviones hasta que el piloto le enseñó más. De hecho, el niño a menudo se reía recordando su primer encuentro. "Siempre recordaría, pensó el niño, el día que realmente aprendí a volar."
+
+
+
+#
+sin modificar el párrafo agregar otro párrafo coherente con presente perfect: 
+
+párrafo:
+x
+
+#
+
+The relationship between the boy and the pilot grew stronger as time went on, and the boy's skills improved significantly. He has built several model airplanes since then, each more sophisticated than the last. The advice given to him by the pilot has been invaluable, with each tip and technique elevating his craft to new heights. Recently, the boy has even started to teach others in the park, sharing the wisdom he once received. He appreciates every moment of endeavour and believes that without the pilot's guidance, he wouldn't have achieved so much. Every time he watches one of his planes soar gracefully through the sky, he silently thanks the old pilot, the unexpected mentor who has had such a profound impact on his life.
+
+#
+:to spanish:
+La relación entre el niño y el piloto se fortaleció con el tiempo, y las habilidades del niño mejoraron significativamente. Desde entonces, ha construido varios modelos de aviones, cada uno más sofisticado que el anterior. Los consejos dados por el piloto han sido invaluables, con cada truco y técnica elevando su arte a nuevas alturas. Recientemente, el niño incluso ha empezado a enseñar a otros en el parque, compartiendo la sabiduría que una vez recibió. Aprecia cada momento de esfuerzo y cree que sin la orientación del piloto, no hubiera logrado tanto. Cada vez que ve uno de sus aviones volar grácilmente por el cielo, agradece silenciosamente al viejo piloto, el mentor inesperado que ha tenido un impacto tan profundo en su vida.
+
+##
+párrafo completo:
+
+ONCE UPON A TIME, there was a young boy who CAREFULLY built a model airplane. He worked on it SLOWLY, putting each piece together SIMPLY and EASILY. His dream was to fly it LOUDLY across the park SUCCESSFULLY. He tried many times and failed TOO often. But COMPLETELY determined, he kept trying.
+
+MEANWHILE, in the park, an old man watched the boy daily. SUDDENLY, one day, the wind was perfect. LATER, the boy threw the plane with all his might. AFTERWARDS, he watched it soar. WHEN the plane landed, the boy ran to it FINALLY seeing his work fly. AT THE END of the day, the boy was so happy.
+
+BY THE TIME he went home, the sun was setting. BY THE WAY, he met the old man who smiled. BEFORE he left, the old man gave him a tip to make the plane fly better. FOR A LONG time, the boy had been waiting for someone to notice his efforts. I'M NOT SURPRISED, the boy thought, as he felt the old man knew much about planes. "YOU'RE JOKING?," the boy said when the old man told him he had once been a pilot. "I CAN IMAGINE!" the boy exclaimed, imagining flying real airplanes.
+
+WHAT A NIGHTMARE, he thought, if the plane would have broken. SOUNDS AWFUL if he would never have met the pilot. SOUNDS TERRIBLE, that he almost gave up. I DON'T BLAME YOU, said the pilot, understanding the difficulty of pursuing dreams. WOW, THAT'S AMAZING! exclaimed the boy when the pilot showed him an old photo of a plane he had flown.
+
+OH, how excited the boy was. I SEE, said the boy, when the pilot explained aerodynamics. WHAT YOU MEAN is that the shape is important, the boy realized. LUCKY YOU, to have learned these things, the boy told the pilot. "OH MY GOD! WERE YOU REALLY a war pilot?" asked the boy, amazed. SO, the pilot answered his many questions.
+
+WHAT HAPPENED? Why did you stop flying? The boy inquired. "YOU CAN'T BE SERIOUS," the boy reacted to the story of the pilot's last flight. "I am SERIOUS," the pilot replied with a twinkle in his eye. They spent the whole afternoon discussing planes. Time passed JUST as fast as the boy's plane flying in the wind. It was ALREADY sunset and YET, the boy wanted to talk more. STILL, it was getting dark.
+
+FOR AND SINCE that day, the boy visited the old pilot. Many seasons had passed, AGO, YESTERDAY, and THE OTHER DAY LAST WEEK. Now it was LAST MONTH, then LAST YEAR, but the boy never forgot the pilot's lessons. He USED TO think he knew everything about planes until the pilot taught him more. indeed, the boy often laughed recalling their first meeting. 
+
+I WOULD always remember, the boy thought, the day I really learned to fly.
+
+
+1. presente simple:
+Day by day, the boy became more proficient with his hands, crafting planes of all designs. He learned quickly, applying every lesson the old pilot shared. Each model flew higher and stayed aloft longer, demonstrating the boy's growing expertise. With newfound confidence, he now DREAMS of building a real plane, just like the ones the pilot used to fly. In his heart, he believes it's not just a fantasy. With each successful launch, he FEELS the thrill of a pilot coursing through his veins. The park, once just a playground, now feels like the beginning of an AIRSTRIP, where one day his own invention will take off.
+
+:to spanish:
+Día tras día, el niño se volvía más hábil con sus manos, creando aviones de todos los diseños. Aprendió rápidamente, aplicando cada lección que el viejo piloto compartía. Cada modelo volaba más alto y se mantenía en el aire más tiempo, demostrando la creciente pericia del niño. Con una confianza renovada, ahora SUEÑA con construir un avión de verdad, justo como aquellos que el piloto solía volar. En su corazón, cree que no es solo una fantasía. Con cada lanzamiento exitoso, SIENTE la emoción de un piloto corriendo por sus venas. El parque, una vez solo un lugar de juegos, ahora se siente como el inicio de una PISTA DE ATERRIZAJE, donde algún día su propia invención despegará.
+
+2. presente continuo:
+Now, the boy is standing in the field, squinting towards the sky, and trying to perfect his throw. With every attempt, he is growing more skilled, the breeze lifting the plane a little higher, a little farther. His are arms swinging more confidently, his understanding of the wind becoming almost instinctive. Nearby, dogs are barking excitedly, chasing the shadows of the birds above, unaware of the boy's quiet determination. People are walking by, some stopping briefly to watch, as the boy's model airplane is gliding more smoothly with each throw. The pilot's advice is echoing in his ears, turning each movement into a lesson. He feels a mix of joy and concentration, knowing he is getting closer to mastering the flight of his plane.
+
+#
+:to spanish:
+Ahora, el niño está parado en el campo, entrecerrando los ojos hacia el cielo e intentando perfeccionar su lanzamiento. Con cada intento, se está volviendo más hábil, la brisa levanta el avión un poco más alto, un poco más lejos. Sus brazos se mueven con más confianza, su comprensión del viento se está volviendo casi instintiva. Cerca, los perros ladran emocionados, persiguiendo las sombras de las aves arriba, sin darse cuenta de la determinación tranquila del niño. La gente pasa caminando, algunos se detienen brevemente para observar, mientras el avión de modelo del niño se desliza más suavemente con cada lanzamiento. El consejo del piloto resuena en sus oídos, convirtiendo cada movimiento en una lección. Se siente una mezcla de alegría y concentración, sabiendo que está cada vez más cerca de dominar el vuelo de su avión.
+
+3. presente perfect:
+The relationship between the boy and the pilot grew stronger as time went on, and the boy's skills improved significantly. He has built several model airplanes since then, each more sophisticated than the last. The advice given to him by the pilot has been invaluable, with each tip and technique elevating his craft to new heights. Recently, the boy has even started to teach others in the park, sharing the wisdom he once received. He appreciates every moment of endeavour and believes that without the pilot's guidance, he wouldn't have achieved so much. Every time he watches one of his planes soar gracefully through the sky, he silently thanks the old pilot, the unexpected mentor who has had such a profound impact on his life.
+
+#
+: to spanish:
+La relación entre el niño y el piloto se hizo más fuerte con el paso del tiempo, y las habilidades del niño mejoraron significativamente. Desde entonces, ha construido varios modelos de aviones, cada uno más sofisticado que el anterior. Los consejos dados por el piloto han sido invaluables, con cada sugerencia y técnica elevando su arte a nuevas alturas. Recientemente, el niño incluso ha comenzado a enseñar a otros en el parque, compartiendo la sabiduría que una vez recibió. Aprecia cada momento de esfuerzo y cree que sin la guía del piloto, no habría logrado tanto. Cada vez que ve uno de sus aviones surcar grácilmente el cielo, agradece silenciosamente al viejo piloto, el mentor inesperado que ha tenido un impacto tan profundo en su vida.
+
+
+4. presente perfect continuos:
+Ever since that fateful afternoon, the boy had been coming to the park, using all the knowledge the old pilot shared with him. He has been tweaking and adjusting his model plane, using each visit to improve its flight. The boy has been applying the principles of aerodynamics, imagining how the air flows over the wings just as the pilot had explained. Through trial and error, the model has been getting better and better, flying higher and staying aloft longer each time. The boy has been learning more than just about planes; he's been learning about patience and perseverance. As time has gone by, the boy has been feeling closer to the dream of flight that once seemed so distant. The friendship with the old pilot has been growing stronger with each story and piece of advice, forming a bond tied to the dream of soaring skies.
+
+#
+: to spanish:
+Desde aquella tarde fatídica, el niño había estado yendo al parque, utilizando todo el conocimiento que el viejo piloto compartió con él. Ha estado ajustando y modificando su avión de modelo, utilizando cada visita para mejorar su vuelo. El niño ha estado aplicando los principios de la aerodinámica, imaginando cómo fluye el aire sobre las alas justo como el piloto le había explicado. A través del ensayo y error, el modelo ha ido mejorando cada vez más, volando más alto y permaneciendo en el aire más tiempo en cada intento. El niño ha estado aprendiendo más que sobre aviones; ha estado aprendiendo sobre la paciencia y la perseverancia. Con el paso del tiempo, el niño ha estado sintiéndose más cerca del sueño del vuelo que una vez pareció tan lejano. La amistad con el viejo piloto ha ido haciéndose más fuerte con cada historia y cada consejo, formando un lazo unido al sueño de surcar los cielos.
+
+5. past simple:
+As years slid by, the boy grew into a skilled pilot himself. Each flight he commanded was a tribute to the old man's wisdom. EVERY SUMMER, he'd return to the park, remembering the tentative launches of his youthful dreams. ONCE, he even spotted a child with a model plane, struggling as he once did. INSTINCTIVELY, he approached, ready to pass on the legacy of patience and perseverance. The cycle of teaching and learning continued, AS the young boy-turned-pilot became the mentor, creating a story that would echo THROUGH THE GENERATIONS.
+
+#
+: to spanish: 
+A medida que pasaban los años, el niño se convirtió en un hábil piloto también. Cada vuelo que comandaba era un tributo a la sabiduría del anciano. CADA VERANO, regresaba al parque, recordando los intentos iniciales de sus jóvenes sueños. UNA VEZ, incluso vio a un niño con un avión de modelo, luchando como él lo hizo en su día. INSTINTIVAMENTE, se acercó, listo para pasar el legado de paciencia y perseverancia. El ciclo de enseñanza y aprendizaje continuó, mientras el niño convertido en piloto se convirtió en el mentor, creando una historia que resonaría A TRAVÉS DE LAS GENERACIONES.
+
+
+6. Past Continuous (I was doing):
+The boy often returned to the park, hoping to show the old pilot his improved skills. Each throw was stronger than the LAST, and the plane flew HIGHER and FARTHER. He was GRATEFUL for the knowledge shared by the pilot, who HAD ALWAYS watched with pride. The boy's confidence GREW, and with it, the joy of fulfilling his dream. It had all STARTED with a model airplane and a chance meeting, but it LED to the boy's deepest passion for flight taking off.
+
+#
+: to spanish:
+El niño solía volver al parque, esperando mostrar al viejo piloto lo mucho que había mejorado sus habilidades. Cada lanzamiento era más fuerte que el anterior, y el avión volaba más ALTO y más LEJOS. Estaba AGRADECIDO por los conocimientos que le había brindado el piloto, quien SIEMPRE había mirado con orgullo. La confianza del niño CRECÍA, y con ella, la alegría de cumplir su sueño. Todo había EMPEZADO con un avión de modelo y un encuentro fortuito, pero CONDUJO a que la pasión más profunda del niño por volar despegara.
+
+7. Past Perfect (I had done):
+The boy had always believed flying was just a matter of strength, but he'd been wrong until the old pilot came along. He had never understood why his plane struggled against the breeze until that fateful day when the man with the silver hair explained the intricacies of lift and drag. Before the meeting, the boy had been unaware of the precise techniques required, yet the old pilot had seen potential in the thrown-together model aircraft. With the advice he'd been given, he had perfected the plane's design. The boy had fixed the wings and adjusted the weight distribution as suggested, and his plane had flown further than he had ever dreamed possible. His friendship with the pilot had not only taught him about aeronautics; it had become a treasure he knew he would cherish in all the years to come.
+#
+: to spanish: 
+El niño siempre había creído que volar era solo cuestión de fuerza, pero estaba equivocado hasta que llegó el viejo piloto. Nunca había entendido por qué su avión luchaba contra la brisa hasta aquel día fatídico en que el hombre de cabello plateado le explicó las complejidades de la sustentación y la resistencia. Antes del encuentro, el niño desconocía las técnicas precisas requeridas, sin embargo, el viejo piloto había visto potencial en el modelo de avión ensamblado a la ligera. Con el consejo que le habían dado, había perfeccionado el diseño del avión. El niño había arreglado las alas y ajustado la distribución del peso como se sugería, y su avión había volado más lejos de lo que jamás había soñado posible. Su amistad con el piloto no solo le había enseñado sobre aeronáutica; se había convertido en un tesoro que sabía que atesoraría en todos los años venideros.
+
+
+8. Past Perfect Continuous (I had been doing):
+FOR MONTHS BEFORE that fateful afternoon, the old pilot had been watching the boy TRYING HARD to fly his model airplane. He had seen the frustrations and the small triumphs, SIFTING THROUGH HIS OLD MEMORIES, the pilot often found himself REMINISCING ABOUT HIS OWN EARLY ATTEMPTS at flight. Those moments had BEEN SHAPING his advice, waiting for the perfect time to share his wisdom. The boy, unaware of the silent guidance he had BEEN RECEIVING, would soon understand that his perseverance HAD BEEN LEADING to more than just the success of his model plane; it HAD BEEN CREATING a bond between the novice and the veteran, a bond that WOULD CONTINUE to grow with each shared sunset and story.
+
+#
+: to spanish:
+Durante meses antes de esa fatídica tarde, el viejo piloto había estado observando al niño ESFORZÁNDOSE por hacer volar su avión de modelo. Había visto las frustraciones y los pequeños triunfos, REVOLVIENDO EN SUS VIEJOS RECUERDOS, el piloto a menudo se encontraba RECORDANDO SUS PROPIOS PRIMEROS INTENTOS de vuelo. Esos momentos habían ESTADO DANDO FORMA a su consejo, esperando el momento perfecto para compartir su sabiduría. El niño, ajeno a la guía silenciosa que había ESTADO RECIBIENDO, pronto entendería que su perseverancia había estado LLEVANDO a más que solo el éxito de su modelo de avión; había estado CREANDO un vínculo entre el novato y el veterano, un lazo que CONTINUARÍA creciendo con cada puesta de sol compartida e historia.
+
+9. Future Simple (I will do):
+One day, the young boy who had GROWN since his first lessons WILL build his own full-sized airplane. He WILL apply everything the old pilot TAUGHT him, down to the finest detail. His hands WILL work deftly, SURELY and confidently, as he remembers the old pilot's advice and the feeling of the model airplane cutting through the air. The future plane WILL roar to life on the runway, the culmination of years of dreams and determination. The boy, now a young man, WILL finally take to the skies, not just imagining but living the adventure he once only dreamed of. And perhaps, in some green park below, a child WILL watch and BEGIN to dream, just as he once did.
+
+# 
+:to spanish:
+Un día, el joven muchacho que había CRECIDO desde sus primeras lecciones CONSTRUIRÁ su propio avión a tamaño real. APLICARÁ todo lo que el viejo piloto le ENSEÑÓ, hasta el más mínimo detalle. Sus manos trabajarán hábilmente, de manera SEGURA y confiada, mientras recuerda los consejos del viejo piloto y la sensación del modelo de avión cortando el aire. El futuro avión rugirá en la pista, la culminación de años de sueños y determinación. El muchacho, ahora un joven, POR FIN se elevará a los cielos, no solo imaginando sino viviendo la aventura que una vez solo soñó. Y quizás, en algún parque verde abajo, un niño MIRARÁ y EMPEZARÁ a soñar, justo como él lo hizo en su momento.
+
+10. Future Continuous (I will be doing)
+Tomorrow, the boy will be visiting the park again, this time with a new design for his model. He will be testing it carefully, adjusting the wings and tail just as the old man advised. He will be standing there, looking up into the sky, anticipating the flight. With each gentle breeze, he'll be timing his throw, hoping that this time the airplane will be gliding even further. He will be listening for the sound of the wind, feeling the sun on his back, and preparing for the moment of release. The old man will be watching from his usual bench, ready to offer more advice and stories from his flying days. They will be sharing a silent bond, the old pilot and the young boy, united by their love of airplanes. As the sun dips lower, the boy will be sprinting across the grass, chasing after the soaring plane, his heart pounding with excitement. He'll be learning with every flight, driven by the dream that one day, he too will be flying a real plane, just like the pilot from the park.
+
+#
+: to spanish: 
+Mañana, el niño visitará el parque de nuevo, esta vez con un nuevo diseño para su modelo. Lo estará probando con cuidado, ajustando las alas y la cola tal como lo aconsejó el anciano. Estará allí de pie, mirando hacia el cielo, anticipando el vuelo. Con cada brisa suave, estará cronometrando su lanzamiento, esperando que esta vez el avión planeé aún más lejos. Estará escuchando el sonido del viento, sintiendo el sol en su espalda y preparándose para el momento de soltarlo. El anciano estará observando desde su banco habitual, listo para ofrecer más consejos e historias de sus días de vuelo. Estarán compartiendo un vínculo silencioso, el viejo piloto y el joven muchacho, unidos por su amor a los aviones. A medida que el sol desciende, el niño estará corriendo por la hierba, persiguiendo el avión que se eleva, su corazón latiendo con emoción. Estará aprendiendo con cada vuelo, impulsado por el sueño de que un día, él también estará volando un avión real, justo como el piloto del parque.
+
+11. Future Perfect (I will have done):
+As the years unfolded, the boy will have grown into a seasoned builder and pilot of not just model airplanes but real ones too. He will have taken all the lessons from the wise old pilot and applied them deftly. By then, he will have taught countless others how to build and fly, passing on not only the knowledge but also the patience and persistence he learned from the old man. The park will have seen many of his creations, each more intricate and refined than the last. And whenever he guides a plane into the sky, he will have remembered the joy in the old pilot's eyes, knowing he will have kept the legacy airborne.
+
+#
+: to spanish:
+A medida que pasen los años, el niño se habrá convertido en un constructor y piloto experimentado, no solo de aviones a escala sino también de aviones reales. Habrá tomado todas las lecciones del sabio y viejo piloto y las habrá aplicado con destreza. Para entonces, habrá enseñado a innumerables personas a construir y volar, transmitiendo no solo el conocimiento sino también la paciencia y la perseverancia que aprendió del anciano. El parque habrá visto muchas de sus creaciones, cada una más compleja y refinada que la anterior. Y siempre que guíe un avión hacia el cielo, se habrá acordado de la alegría en los ojos del viejo piloto, sabiendo que habrá mantenido el legado en el aire.
+
+12. Future Perfect Continuous (I will have been doing):
+By next year, the boy will have been meeting with the pilot regularly for quite some time, absorbing knowledge and honing his craft. He will have been learning not only about model airplanes but also about the principles of flight and the history of aviation. Week after week, he will have been applying these lessons, and his model planes will have been flying farther and with greater precision. The bond between the boy and the old pilot will have been strengthening through their shared passion, and the park will have been witnessing the growth of a young aviator's skill, inspired by the wisdom of an experienced mentor.
+
+#
+: to spanish:
+Para el próximo año, el niño habrá estado reuniéndose regularmente con el piloto durante bastante tiempo, absorbiendo conocimiento y perfeccionando su arte. No solo habrá estado aprendiendo acerca de los aviones de modelo, sino también sobre los principios del vuelo y la historia de la aviación. Semana tras semana, habrá estado aplicando estas lecciones, y sus aviones de modelo habrán estado volando más lejos y con mayor precisión. El vínculo entre el niño y el viejo piloto se habrá estado fortaleciendo a través de su pasión compartida, y el parque habrá sido testigo del crecimiento de la habilidad de un joven aviador, inspirado por la sabiduría de un mentor experimentado.
+
+**Condicional:**
+13. Present Conditional (I would do)
+IF ONLY the boy had known how his life would change from that first successful flight, he MIGHT HAVE spent less time worrying about failure and more time dreaming about the skies. If he HAD listened to the whispers of doubt, he MIGHT NEVER HAVE thrown his plane on that fateful day. If the pilot HADN'T shared his wisdom, the boy's model MIGHT STILL BE crashing to the ground. But life is full of these moments where IF you take a chance, amazing things CAN happen. Now, the boy often wonders WHAT MIGHT HAPPEN if he builds a bigger plane, or even, one day, flies a real one. The possibilities seem endless now that he's learned to believe in the magic of IF and MIGHT.
+
+#
+: to spanish:
+Si tan solo el niño hubiese sabido cómo cambiaría su vida desde aquel primer vuelo exitoso, quizás habría pasado menos tiempo preocupándose por el fracaso y más tiempo soñando con los cielos. Si hubiese escuchado a los susurros de la duda, tal vez nunca hubiese lanzado su avión en aquel día fatídico. Si el piloto no hubiese compartido su sabiduría, el modelo del niño quizás todavía estaría estrellándose contra el suelo. Pero la vida está llena de estos momentos donde, si te arriesgas, pueden ocurrir cosas asombrosas. Ahora, el niño a menudo se pregunta QUÉ PODRÍA OCURRIR si construye un avión más grande, o incluso, un día, vuela uno de verdad. Las posibilidades parecen infinitas ahora que ha aprendido a creer en la magia de los SI y los PODRÍA.
+
+
+14. Present Continuous Conditional (I would be doing)
+Now, if the boy were working on his plane right at this moment, he'd be trying new methods the pilot had taught him. He would be applying them diligently, hoping that by adjusting the tail JUST RIGHT, the plane might cut through the air MORE gracefully. If he were throwing his plane in the gentle breeze of the afternoon, he'd be watching it keenly, waiting for it to catch the wind and glide FURTHER than before. He'd be RUNNING towards it each time it landed, picking it up with newfound eagerness, and if the pilot were watching, he'd surely be nodding APPROVINGLY. If he looked closely enough, he'd catch a glimpse of the future in the boy's bright eyes, a future where he'd be flying real planes, just as the old pilot once had.
+
+#
+:to spanish:
+Ahora, si el niño estuviera trabajando en su avión justo en este momento, estaría probando nuevos métodos que el piloto le había enseñado. Estaría aplicándolos con diligencia, esperando que, al ajustar la cola JUSTO BIEN, el avión pudiera cortar el aire MÁS elegantemente. Si estuviera lanzando su avión en la suave brisa de la tarde, lo estaría observando atentamente, esperando que agarre el viento y planeé MÁS lejos que antes. Estaría CORRIENDO hacia él cada vez que aterrizara, recogiéndolo con renovado entusiasmo, y si el piloto estuviera mirando, seguramente estaría asintiendo APROBATORIAMENTE. Si observara lo suficientemente de cerca, captaría un destello del futuro en los brillantes ojos del niño, un futuro donde estaría volando aviones de verdad, justo como el viejo piloto una vez lo hizo.
+
+15. Present Perfect Conditional (I would have done):
+
+Indeed, the boy would have felt a profound sense of joy had he only known back then how much those lessons would shape his future. By the end of their time together, he would have learned the intricacies of not just flying model planes, but also the importance of perseverance. Had it not been for the old pilot's guidance, he might have given up on his dream, but instead, he would have approached each failure as a stepping stone to success. Had the wind not been just right on that fateful day, their paths might never have crossed, but as fate would have it, the boy would have been granted a mentor and a friend. The experience would have forever been etched in his memory, cherished as the time when he not only learned to make his plane soar, but also discovered the wings of his own potential.
+
+#
+:to spanish:
+En efecto, el niño habría sentido una profunda sensación de alegría si hubiera sabido en aquel entonces cuánto iban a moldear su futuro aquellas lecciones. Al final de su tiempo juntos, habría aprendido no solo las complejidades de volar aviones de modelo, sino también la importancia de la perseverancia. Si no hubiera sido por la guía del viejo piloto, podría haber renunciado a su sueño, pero en cambio, habría tomado cada fracaso como un peldaño hacia el éxito. Si el viento no hubiera soplado justo correctamente en aquel día fatídico, sus caminos tal vez nunca se habrían cruzado, pero como el destino quiso, al niño le fue otorgado un mentor y un amigo. La experiencia habría quedado grabada para siempre en su memoria, atesorada como el momento en que no solo aprendió a hacer volar su avión, sino que también descubrió las alas de su propio potencial.
+
+16. Present Perfect Continuous Conditional (I would have been doing):
+If the boy had been working on his model airplane SLOWLY and CAREFULLY, he would have been continuing his efforts for months. He would have been taking the old man's advice into account every day, ADJUSTING and PERFECTING the design INCESSANTLY. He would have been feeling grateful for the unexpected FRIENDSHIP and KNOWLEDGE that the old pilot was SHARING WILLINGLY. Every day, he would have been applying the lessons LEARNT diligently; the construction of the airplane would have been IMPROVING GRADUALLY as a result.
+
+# 
+: to spanish:
+Si el niño hubiera estado trabajando en su modelo de avión LENTAMENTE y CON CUIDADO, habría seguido esforzándose durante meses. Habría estado tomando en cuenta los consejos del anciano todos los días, AJUSTANDO y PERFECCIONANDO el diseño INCESANTEMENTE. Se habría sentido agradecido por la amistad y el conocimiento inesperados que el viejo piloto ESTABA COMPARTIENDO VOLUNTARIAMENTE. Todos los días, habría estado aplicando las lecciones APRENDIDAS con diligencia; la construcción del avión habría estado MEJORANDO GRADUALMENTE como resultado.
+
+17. Present Subjunctive (that I do)
+THE BOY, now devoted to his craft, wished that he might one day pilot a real aircraft. He hoped that the skills imparted by his elderly mentor would not only serve him for model planes but also for larger endeavors in the vast skies. Whenever he looked up, cloud gazing, he would imagine himself amongst them, deftly maneuvering through the air just as the birds do so gracefully. It was essential that he absorb every detail, for he believed that with enough knowledge and passion, his dream would eventually unfold into reality.
+
+#
+: to spanish:
+El niño, ahora entregado a su oficio, deseaba que algún día pudiera pilotar una aeronave real. Esperaba que las habilidades transmitidas por su anciano mentor no solo le sirvieran para los aviones de modelo, sino también para mayores empresas en los vastos cielos. Siempre que miraba hacia arriba, observando las nubes, se imaginaba entre ellas, maniobrando hábilmente por el aire tal como lo hacen los pájaros con tanta elegancia. Era crucial que absorbiera cada detalle, pues creía que con suficiente conocimiento y pasión, su sueño eventualmente se desplegaría en la realidad.
+
+
+18. Past Subjunctive (that I did)
+IF ONLY the boy HAD KNOWN how much that chance encounter would change his life. As weeks turned into months, the pilot's stories and tips BECAME an integral part of his daily routine. He would have never dared to dream THAT he would become so skilled at flying his model plane. It was AS IF the old pilot had passed on a secret key, a key THAT OPENED a door to a world where patience and persistence were the winds THAT lifted the boy's ambitions off the ground. In a way, TIME and the park HAD BECOME their shared runway, a place where history and aspirations could dance in the twilight together.
+
+#
+: to spanish:
+Si tan solo el chico hubiera sabido cuánto cambiaría su vida ese encuentro casual. A medida que las semanas se convertían en meses, las historias y consejos del piloto se convirtieron en una parte integral de su rutina diaria. Nunca se habría atrevido a soñar que se volvería tan hábil volando su avión a modelo. Era como si el viejo piloto le hubiera transmitido una llave secreta, una llave que abría la puerta a un mundo donde la paciencia y la persistencia eran los vientos que elevaban las ambiciones del chico del suelo. De alguna manera, el tiempo y el parque se habían convertido en su pista de aterrizaje compartida, un lugar donde la historia y las aspiraciones podían bailar juntas en el crepúsculo.
+
+19. Past Perfect Subjunctive (that I had done):
+Had the boy NOT MET the old pilot, he would have never truly understood the heart of flying. They had discussed principles and stories, which LENGTHTENED the boy's knowledge and DEEPENED his passion. The pilot's wisdom had PAVED the way for a future where the boy COULD imagine himself not just flying model planes, but piloting a real one. Each visit ADDED a layer to the boy's dreams, and INSIDE every lesson was a stepping stone towards an expansive sky of possibilities. He knew THAT IF he worked hard and FOLLOWED the pilot's advice, someday he WOULD be UP THERE, among the clouds, mastering the winds just like the stories he had been told.
+
+#
+: to spanish: 
+Si el niño NO HUBIERA CONOCIDO al viejo piloto, nunca habría comprendido verdaderamente el corazón de volar. Habían discutido principios e historias, lo que ALARGÓ su conocimiento y PROFUNDIZÓ su pasión. La sabiduría del piloto HABÍA ALLANADO el camino para un futuro donde el niño PODÍA imaginarse no solo volando modelos de aviones, sino pilotando uno real. Cada visita AÑADÍA una capa a los sueños del niño, y DENTRO de cada lección había un peldaño hacia un cielo expansivo de posibilidades. Sabía QUE SI trabajaba duro y SEGUIA el consejo del piloto, algún día ESTARÍA ALLÁ ARRIBA, entre las nubes, dominando los vientos tal como las historias que le habían contado.
+
+20. Imperative (do!):
+
+The old pilot became not only a teacher but a cherished friend. EVERY DAY, the boy would rush to the park, his heart pounding with each new story and piece of advice. AS IF by magic, the boy's model airplane began to fly higher and farther, much to his delight. One day, they decided to rebuild the plane together, making it more powerful and graceful. It seemed as though the boy’s airplane was not just a toy, but a symbol of an unbreakable bond formed under the vast canvas of the sky. The pilot would say, "ACT AS IF you are the plane, and let your dreams take flight." Through the seasons, their friendship and the airplane flourished side by side.
+
+#
+: to spanish: 
+El anciano piloto se convirtió no solo en maestro sino también en un amigo preciado. TODOS LOS DÍAS, el niño corría al parque, su corazón latiendo con cada nueva historia y consejo. COMO SI fuera por arte de magia, el avión de modelo del niño comenzó a volar más alto y más lejos, para su gran alegría. Un día, decidieron reconstruir el avión juntos, haciéndolo más poderoso y elegante. Parecía que el avión del niño no era solo un juguete, sino un símbolo de un lazo inquebrantable formado bajo el vasto lienzo del cielo. El piloto solía decir, "ACTÚA COMO SI fueras el avión y deja que tus sueños tomen vuelo". A lo largo de las estaciones, su amistad y el avión florecieron lado a lado.
+
+21. Infinitive (to do):
+The boy's model airplane became more than just a toy; it was a symbol of perseverance and learning. EVERY DAY he applied the old man's advice, tweaking the wings and adjusting the weight. EVENTUALLY, the plane began to perform amazing maneuvers that the boy had only ever dreamed of. The model wasn't JUST a bunch of parts glued together — it was a result of shared wisdom and a friendship that bridged GENERATIONS. The boy realized that, LIKE the old pilot's stories, it was not only about how high or fast the plane could go, but the love and dedication that gave it TRUE flight. It was NO WONDER then that the park became more than just a place to fly planes; it became a place where a young boy's ambitions took off and where an old pilot's memories landed gently like a well-flown aircraft at the end of its journey.
+
+#
+: to spanish: 
+El avión de modelo del niño se convirtió en algo más que un simple juguete; era un símbolo de perseverancia y aprendizaje. TODOS LOS DÍAS aplicaba los consejos del anciano, ajustando las alas y el peso. EVENTUALMENTE, el avión comenzó a realizar maniobras asombrosas que el niño solo había soñado. El modelo no era solo un montón de piezas pegadas — era el resultado de sabiduría compartida y una amistad que unía GENERACIONES. El niño se dio cuenta de que, AL IGUAL que las historias del viejo piloto, no se trataba solo de qué tan alto o rápido podía ir el avión, sino del amor y la dedicación que le daban VUELO de verdad. No era de EXTRAÑAR entonces que el parque se convirtiera en algo más que un lugar para volar aviones; se convirtió en un lugar donde las ambiciones de un joven despegaban y donde los recuerdos de un viejo piloto aterrizaban suavemente como una aeronave bien volada al final de su viaje.
+
+22. Present Participle/Gerund (doing):
+Enjoying his visits, the boy continued to practice flying his model airplane, incorporating every tip the old pilot gave him. Gradually, his plane started gliding through the air more smoothly, its flights longer and more graceful. The boy, watching it circle above him, felt as though he were touching the clouds himself. All the while, the pilot watched, his eyes reflecting the joy and excitement of each successful flight. It seemed as though, with each launch of the model airplane, the bond between the old pilot and the boy grew stronger, bridging the gap between generations through the shared love of flight.
+
+# 
+to spanish: 
+Disfrutando de sus visitas, el niño continuó practicando cómo volar su avión de modelo, incorporando cada consejo que el viejo piloto le daba. Gradualmente, su avión comenzó a deslizarse por el aire más suavemente, sus vuelos más largos y más elegantes. El niño, observándolo girar sobre él, se sentía como si él mismo estuviera tocando las nubes. Todo el tiempo, el piloto observaba, sus ojos reflejando la alegría y la emoción de cada vuelo exitoso. Parecía que, con cada lanzamiento del avión de modelo, el vínculo entre el viejo piloto y el niño se hacía más fuerte, salvando la distancia entre generaciones a través del amor compartido por el vuelo.
+
+23. Past Participle (done):
+ENCOURAGED by the pilot’s stories, the boy’s passion for aviation flourished. Every day PREVIOUSLY spent in struggles now TURNED into lessons in aeronautics and mechanics. Having BEEN taught the principles of lift and thrust, the boy MODIFIED his plane. The old pilot HAD SHARED his experience, and the boy, INSPIRED by the knowledge, had TRANSFORMED his simple model into something EXCEPTIONAL. It HAD GAINED a new shape and STRENGTH, mirroring the powerful machines that HAD CARRIED the pilot across skies in his youth. Now the model plane, much IMPROVED, GLIDED through the air, a testament to a friendship FORGED between generations and a dream FUELED by perseverance and guided by wisdom.
+
+#
+: to spanish: 
+Alentado por las historias del piloto, la pasión del niño por la aviación floreció. Cada día previamente pasado en luchas ahora se convirtió en lecciones de aeronáutica y mecánica. Habiendo sido enseñado los principios de sustentación y propulsión, el niño modificó su avión. El viejo piloto había compartido su experiencia, y el niño, inspirado por el conocimiento, había transformado su simple modelo en algo excepcional. Había ganado una nueva forma y fortaleza, reflejando las poderosas máquinas que habían llevado al piloto a través de cielos en su juventud. Ahora el modelo de avión, mucho mejorado, planeaba por el aire, un testimonio de una amistad forjada entre generaciones y un sueño alimentado por la perseverancia y guiado por la sabiduría.
+
+
+#---
+¡Por supuesto! Aquí tienes una lista de los tiempos verbales en inglés:
+
+**Indicativo:**
+1. Present Simple (I do)
+2. Present Continuous (I am doing)
+3. Present Perfect (I have done)
+4. Present Perfect Continuous (I have been doing)
+5. Past Simple (I did)
+6. Past Continuous (I was doing)
+7. Past Perfect (I had done)
+8. Past Perfect Continuous (I had been doing)
+9. Future Simple (I will do)
+10. Future Continuous (I will be doing)
+11. Future Perfect (I will have done)
+12. Future Perfect Continuous (I will have been doing)
+
+**Condicional:**
+13. Present Conditional (I would do)
+14. Present Continuous Conditional (I would be doing)
+15. Present Perfect Conditional (I would have done)
+16. Present Perfect Continuous Conditional (I would have been doing)
+
+**Subjuntivo:**
+17. Present Subjunctive (that I do)
+18. Past Subjunctive (that I did)
+19. Past Perfect Subjunctive (that I had done)
+
+**Imperativo:**
+20. Imperative (do!)
+
+**Infinitivo y Participios:**
+21. Infinitive (to do)
+22. Present Participle/Gerund (doing)
+23. Past Participle (done)
+
+Estos tiempos pueden ser usados en voz activa y pasiva, y también se pueden conjugar en forma afirmativa, negativa y interrogativa. Además, el inglés tiene construcciones adicionales para expresar matices de tiempo y modo, como el uso de modales (can, could, may, might, must, shall, should, will, would).
+
+
+
+

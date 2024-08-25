@@ -1,0 +1,13 @@
+
+
+###
+Para crear una video presentacion con diapositivas: 
+Enfoque:
+1. Mision (Texto plano).							   "Entender que te piden"
+1. Naraccion Respuesta Mision (Texto plano).  					   "Responder a lo que te piden"
+2. Audio narracion (Lectura practica pronunciacion).		   	           "Lectura correcta por IA como guia para practicar pronunciacion" 
+3. Vistas (imagenes, videos, dinamismos).                                          "copiar y pegar"
+4. Edicion e Integracion CupCut (video, audio de fondo, etc...).                   "Fusionar en un video todo mas transiciones dinamicas" 
+4. Presentacion terminada para publicar en youtube.                                "Terminar actividad"   
+
+

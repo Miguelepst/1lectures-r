@@ -1,0 +1,22 @@
+imitating movie dialogues.txt 
+titanic rose and jack v1.txt
+
+Dialogue name: Titanic 1
+
+Jack: Do you love him.
+Rose: Pardon me?.
+Jack: Do you love him?.
+Rose: You are being very rude. You shouldn't be asking me this.
+Jack: well It's a simple question. Do you love the guy or not?.
+Rose: This is not a suitable conversation.
+Jack: Why can't you just answer the question?.
+Rose: This is absurd. You don't know me, and I don't know you, and we are not having this conversation at all. You are rude, and uncouth and presumptuous and I am leaving now Jack Mr. Dawson it's been a pleasure, I sought you out to thank you and now I have thanked you.
+Jack: And you insulted me.
+Rose: Well, you deserved it.
+Jack: Right. 
+Rose: Right.
+Jack: I though you were leaving.
+Rose: I am. You are so annoying.
+Jack: Haha.
+Rose: Wait ... I don't have to leave. This is my part of the ship. You leave.
+Jack : Ohhhooo well, well, well. Now who's being rude.

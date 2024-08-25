@@ -1,0 +1,321 @@
+rutine 1 pc.txt, 
+version en ingles: eng rutine 1 pc.txt
+
+3--
+version traducida al ingles
+translate to casual english:
+
+
+
+## Routine
+
+### **4:00 AM**
+
+#### **AudioRelay**
+- Turn off the server mic in the mobile app: use the PC's wired headset mic.
+- Set the PC mic as default.
+- Connect the PC's AudioRelay to the phone.
+- Open Chrome with so.miguel@gmail.com.
+- Turn on Bluetooth and connect headphones to the phone. 
+- Open Chrome with the other account: miguelepst@gmail.com and copy the links from this account to the other account you'll use.
+- Show bookmarks in Chrome (miguelepst@gmail.com).
+- Open "1 setting pc.txt".
+
+### **Installing Browser Extensions**
+Install the following extensions without activating the so.miguel account sync:
+
+1. **Voice Control for ChatGPT x Mia**:
+   - Log in with so.miguel.
+   - Set the theme to dark.
+   - Delete chats and accept permissions.
+   - Put on the headset mic and check that it's capturing audio.
+
+2. **Install Say Pi**:
+   - Delete the so.miguel account from the phone.
+   - Create the so.miguel account again from the PC.
+   - Greet Pi with a call repeating the first message it sent you and choose the Pi AI # Pi4 voice.
+
+3. **Scroll Anywhere**:
+   - Configure it with "drag like on a smartphone". 
+   - Right-click and save changes.
+
+4. **Web Highlights**:
+   - Use as a highlighter for words or phrases on web pages.
+   - Set the favorite color to "purple".
+
+5. **WhisperAI**:
+   - Use the so.miguel account.
+   - Test the mic with this app.
+   - Update the Ai Pi page so this extension is included.
+
+6. **Read Pronunciations**:
+   - Configure the app.
+
+7. **TikTok Voice**:
+   - Pin it to the navigation bar.
+
+### **Practicing with Pi**
+- Start practicing with Pi, having it give you the same response, asking for the same response.
+- Practice listening and speech for 55 minutes; activate the 55 minute timer.
+
+### **43 Minutes**
+- Start recording in OBS.
+- With the Highlight extension, mark "new word".
+- With the Whisper extension, repeat pronunciation.
+
+### **MicMute App**
+- Activate and deactivate the operating system mic with the shortcut key: Ctrl + Alt.
+- Configure the mic to activate or deactivate: "wired headset" (microphone 2 - high definition).
+
+### **Pause and Review**
+- **48 Minutes**: Pause to search for and mark the strange word to familiarize or internalize. Ask Pi to include them in its repetitive responses.
+- Review every 5 minutes. Activate the 2 minute and 55 second timer to turn it off in two parts. In this section, re-listen to what Pi responded to you. For this review, you can pause the OBS recording and repeat out loud, imitating the tone.
+
+### **Thread Management**
+- Fix the Highlight extension and check that it's saving the words you've marked. Delete repeated words.
+- The browser should be maximized and the menu division expanded, viewing the threads you've created. These threads serve to identify 5 minute fragments or paragraphs: "P1, P2".
+- After creating a new thread, the message you send must have the paragraph ID (P1, P2) + the message to send.
+
+### **OBS Recording**
+- Select the area to record from OBS. Create a new section called "Ai Pi". Use the Alt key with the mouse to select the area to record; include the section where you write as well.
+
+### **Using Whisper**
+- Use Whisper to practice pronunciation and speech to text in your 5 minute review practice.
+- For the review, hang up the Pi AI call; at this point you don't need MicMute to activate or deactivate the mic.
+- Capture your responses in a notepad titled "Ai Pi - Identify Incorrect Pronunciations.txt".
+- To activate and deactivate the Whisper app mic, use the shortcut keys "Ctrl + Space".
+
+### **Timers**
+- Manage two timers: one for the full session exercise time (55 minutes) and one for 5 minute advance fragments to review. This can be divided into two 2 minute and 55 second periods.
+
+### **Fragment Identification**
+- For identifying 5 minute paragraph fragments, use "create new thread" plus the paragraph ID (P1, P2).
+- With the mic off ("MicMute"), wait for Ai Pi to finish speaking to mark and identify the new strange word found with Highlight.
+- Use the "New Thread" option to create a new 5 minute paragraph section. Send the paragraph ID ("P1:", "P2:") plus the last response Ai Pi gave you in the new thread.
+
+### **9:20 AM**
+- The wireless headphones are drained. Started at 4:00 AM; take this as an indication to also take a break. Pause everything and take a 15 minute break to sleep, closing your eyes while listening to review material or a podcast in English.
+
+### **OBS App (Windows)**
+- Configure the mic to use and the volume intensity. In the first recording, my voice was very low to the point of not being heard, and it had many silences and lasted 1 hour and 53 minutes. Raise the mic volume level to -15 or maximum level.
+
+### **5:20 AM**
+- Transcript file finished.
+
+### **Using Auto-Editor**
+- Use the Windows CMD program called "auto-editor", which runs on Python, to remove silences from videos.
+
+https://www.perplexity.ai/
+
+
+2--
+version 2 formateada de manera mas organizada por un Ai pero con la misma informacion 
+con la misma informacion sin modificarla clasifica y organiza la siguiente informacion:
+
+## Rutina
+
+### **4:00 AM**
+
+#### **AudioRelay**
+- Micrófono del servidor apagado en la app del móvil: usar micrófono de diadema alámbrico del PC.
+- Establecer micrófono del PC como predeterminado.
+- Conectar AudioRelay del PC al celular.
+- Abrir Chrome con so.miguel@gmail.com.
+- Encender Bluetooth y conectar auriculares al celular.
+- Abrir Chrome con la otra cuenta: miguelepst@gmail.com y copiar los enlaces de esta cuenta a la otra cuenta que vas a usar.
+- Mostrar marcadores en Chrome (miguelepst@gmail.com).
+- Abrir "1 setting pc.txt".
+
+### **Instalación de Extensiones de Navegador**
+Instalar las siguientes extensiones sin activar la sincronización de la cuenta so.miguel:
+
+1. **Voice Control for ChatGPT x Mia**: 
+   - Iniciar sesión con so.miguel.
+   - Fijar el tema en oscuro.
+   - Eliminar chats y aceptar permisos.
+   - Ponerte la diadema de micrófono y revisar que capture el audio.
+
+2. **Instalar Say Pi**: 
+   - Borrar la cuenta so.miguel desde el celular.
+   - Crear nuevamente la cuenta so.miguel desde el PC.
+   - Saludar a Pi con una llamada repitiendo el primer mensaje que te ha enviado y escoger la voz de Pi AI # Pi4.
+
+3. **Scroll Anywhere**: 
+   - Configurarlo con "drag like on a smartphone".
+   - Hacer clic en el botón derecho y guardar cambios.
+
+4. **Web Highlights**: 
+   - Usar como resaltador de palabras o frases en las páginas web.
+   - Configurar el color favorito "morado".
+
+5. **WhisperAI**: 
+   - Usar la cuenta so.miguel.
+   - Hacer prueba de micrófono con esta app.
+   - Actualizar la página Ai Pi para que esta extensión se incluya.
+
+6. **Read Pronunciations**: 
+   - Configurar la app.
+
+7. **TikTok Voice**: 
+   - Fijarlo en la barra de navegación con "pin".
+
+### **Ejercitación con Pi**
+- Empezar la ejercitación con Pi, haciendo que te entregue la misma respuesta, solicitándole la misma respuesta.
+- Ejercitar listening y speech durante 55 minutos; activa el temporizador por 55 minutos.
+
+### **43 Minutos**
+- Empezar grabación en OBS.
+- Con la extensión Highlight, marcar "new word".
+- Con la extensión Whisper, repetir pronunciación.
+
+### **MicMute App**
+- Activar y desactivar el micrófono del sistema operativo con la tecla de acceso rápido: Ctrl + Alt.
+- Configurar el micrófono a activar o desactivar: "de diadema alámbrico" (microphone 2 - high definition).
+
+### **Pausa y Repaso**
+- **48 Minutos**: Pausa para buscar y marcar la extraña palabra a familiarizar o interiorizar. Solicitar a Pi que las incluya en sus respuestas repetitivas.
+- Haz un repaso cada 5 minutos. Activa el temporizador por 2 minutos y 55 segundos para desactivarlo en dos partes. En esta sección, reescuchar lo que Pi te ha respondido. Para este repaso, puedes pausar la grabación en OBS y repetir en voz alta, imitando el tono.
+
+### **Gestión de Hilos**
+- Fija la extensión Highlight y revisa que esté guardando las palabras que has marcado. Elimina las palabras repetidas.
+- El navegador debe estar maximizado y la división del menú desplegada, visualizando los hilos que has creado. Estos hilos sirven para identificar fragmentos o párrafos de 5 minutos: "P1, P2".
+- Después de crear un nuevo hilo, el mensaje que envíes debe tener el ID del párrafo (P1, P2) + el mensaje a enviar.
+
+### **Grabación en OBS**
+- Selecciona el área a grabar desde OBS. Crea una nueva sección llamada "Ai Pi". Usa la tecla Alt con el mouse para seleccionar el área a grabar; incluye la sección donde escribes también.
+
+### **Uso de Whisper**
+- Usa Whisper para practicar pronunciación y speech to text en tu práctica de repaso de los 5 minutos de avance.
+- Para el repaso, cuelga la llamada de Pi AI; en este punto no necesitas MicMute para activar o desactivar el micrófono.
+- Captura tus respuestas en un block de notas titulado "Ai Pi - Identificar pronunciaciones incorrectas.txt".
+- Para activar y desactivar el micrófono de la app Whisper, usa las teclas de acceso rápido "Ctrl + Space".
+
+### **Temporizadores**
+- Maneja dos temporizadores: uno para el tiempo completo de la sesión de ejercitación (55 minutos) y el otro para fragmentos de avance de 5 minutos para repasar. Este puede estar dividido en dos tiempos de 2 minutos y 55 segundos.
+
+### **Identificación de Fragmentos**
+- Para la identificación de los fragmentos de párrafos de cinco minutos, usa "crear nuevo hilo" más el ID del párrafo (P1, P2).
+- Con el micrófono en off ("MicMute"), espera a que Ai Pi termine de hablar para marcar e identificar la nueva palabra extraña encontrada con Highlight.
+- Usa la opción "New Thread" para crear una nueva sección de párrafo de 5 minutos. Envía el ID del párrafo ("P1:", "P2:") más la última respuesta que te dio Ai Pi en el nuevo hilo.
+
+### **9:20 AM**
+- Los audífonos inalámbricos están descargados. Se empezó a las 4:00 AM; toma esto como un indicativo para también tomar un descanso. Pausa todo y toma un descanso de 15 minutos para dormir, cerrando los ojos mientras escuchas material de repaso o un podcast en inglés.
+
+### **OBS App (Windows)**
+- Configura el micrófono a usar y la intensidad del volumen. En la primera grabación, mi voz quedó muy baja al punto de no escucharse, y esta quedó con muchos silencios y duró 1 hora y 53 minutos. Sube el nivel de volumen del micrófono a -15 o al máximo nivel.
+
+### **5:20 AM**
+- Transcripción en archivo finalizada.
+
+### **Uso de Auto-Editor**
+- Usa el programa CMD de Windows llamado "auto-editor", que funciona con Python, para eliminar los silencios en los videos.
+
+
+
+
+1--
+version 1 de rutina:
+
+**4:00 AM**
+
+**AudioRelay**
+- Micrófono del servidor apagado en la app del movil: usar micrófono de diadema alámbrico del PC.
+- Establecer micrófono del PC como predeterminado.
+- Conectar AudioRelay del PC al celular.
+- Abrir Chrome con so.miguel@gmail.com.
+- Encender Bluetooth y conectar auriculares al celular.
+- Abrir Chrome con la otra cuenta: miguelepst@gmail.com y copiar los enlaces de esta cuenta a la otra cuenta que vas a usar.
+- Mostrar marcadores en chrome miguelepst@gmail.com
+- Abrir "1 setting pc.txt".
+
+
+Instalar las siguientes extensiones de navegador sin activar la sincronización de la cuenta so.miguel:
+
+1. **Voice Control for ChatGPT x Mia**: Iniciar sesión con so.miguel, fijar el tema en oscuro, eliminar chats y aceptar permisos. Ponerte la diadema de micrófono y revisar que capture el audio.
+
+2. **Instalar Say Pi**: Borrar la cuenta so.miguel desde el celular, crear nuevamente la cuenta so.miguel desde el PC, saludar a Pi con una llamada repitiendo el primer mensaje que te ha enviado y escoger la voz de Pi AI # Pi4.
+
+3. **Scroll Anywhere**: Configurarlo con "drag like on a smartphone", hacer clic en el botón derecho y guardar cambios.
+
+4. **Web Highlights**: Esta extensión es para usarla como resaltador de palabras o frases en las páginas web. Configurar el color favorito "morado".
+
+5. **WhisperAI**: Usar la cuenta so.miguel, hacer prueba de micrófono con esta app y actualizar la página Ai Pi para que esta extensión se incluya.
+
+6. **Read Pronunciations**: Configurar la app.
+
+7. **TikTok Voice**: Fijarlo en la barra de navegación con "pin".
+
+32 minutos.   
+
+Empezar la ejercitación con Pi, haciendo que Pi te entregue la misma respuesta, solicitándole la misma respuesta. Ejercitar listening y speech durante 55 minutos; activa el temporizador por 55 minutos.
+
+**43 minutos.**
+
+Empezar grabación en OBS.
+
+Con la extensión Highlight, marcar "new word".
+
+Con la extensión Whisper, repetir pronunciación.
+
+**MicMute app**: activar y desactivar el micrófono del sistema operativo con la tecla de acceso rápido: Ctrl + Alt. Configurar el micrófono a activar o desactivar: "de diadema alámbrico" (microphone 2 - high definition).
+
+
+Aquí tienes el texto corregido:
+
+---
+
+**48 Minutos.**
+
+Pausa todo para buscar y marcar la extraña palabra a familiarizar o interiorizar. Solicítale a Pi que las incluya en sus respuestas repetitivas.
+
+Haz un repaso cada 5 minutos. Activa el temporizador por 2 minutos y 55 segundos para desactivarlo en dos partes. En esta sección, vas a reescuchar lo que Pi te ha respondido. Para este repaso, puedes pausar la grabación en OBS, repetir en voz alte tempresente imitacion del tono.
+
+Fija la extensión Highlight y revisa que esté guardando las palabras que has marcado. No importa que no las marque con el color; es como una falla en la app. Elimina las palabras repetidas.
+
+El navegador debe estar maximizado y la división del menú debe estar desplegada, visualizando los hilos que hay o que has creado. Estos hilos sirven para identificar los fragmentos o párrafos de 5 minutos: "P1, P2". Después de crear un nuevo hilo, el mensaje que envíes debe tener el ID del párrafo (P1, P2) + el mensaje a enviar.
+
+Selecciona el área a grabar desde OBS. Crea una nueva sección llamada "Ai Pi" unfreezer. Usa la tecla Alt con el mouse para seleccionar el área a grabar; incluye la sección donde escribes también.
+
+usa whisper para practicar pronunciacion speech to text en tu practica de repaso de los 5 minutos de avance
+
+para el repaso debes colgar la llamada de Pi Ai, y en este punto no necesitat MicMute para activar o desactivar microfono.
+
+cautura tus respuestas en un block de notas Ai Pi identificar pronunciaciones incorrectas.txt 
+
+para activar y desactivar el microfono de la app Whisper usa las teclas de acceso repido "Ctrl + space" 
+
+cuando Ai Pi no tengsa audio de respuesta privia usa la extension tik tok para pegar el texto que deseas ecuchar.
+
+meneja dos temporizadores uno del tiempo completo de la session de ejercitacion 55 minutos 
+y el otro de fragmentos de avance de 5 minutos para repasar 
+este puede estar dividido en dos tiempos de 2 minutos 55 segundos.
+
+Usa Whisper para practicar pronunciación y speech to text en tu práctica de repaso de los 5 minutos de avance.
+
+Para el repaso, debes colgar la llamada de Pi AI, y en este punto no necesitas MicMute para activar o desactivar el micrófono.
+
+Captura tus respuestas en un block de notas titulado "Ai Pi - Identificar pronunciaciones incorrectas.txt".
+
+Para activar y desactivar el micrófono de la app Whisper, usa las teclas de acceso rápido "Ctrl + Space".
+
+cuando Ai Pi no tengsa audio de respuesta privia usa la extension tik tok para pegar el texto que deseas ecuchar.
+
+Maneja dos temporizadores: uno para el tiempo completo de la sesión de ejercitación (55 minutos) y el otro para fragmentos de avance de 5 minutos para repasar. Este puede estar dividido en dos tiempos de 2 minutos y 55 segundos.
+
+Para la identificación de los fragmentos de párrafos de cinco minutos, usa "crear nuevo hilo" más el ID del párrafo (P1, P2).
+
+Con el micrófono en off ("MicMute"), puedes esperar a que Ai Pi termine de hablar para marcar e identificar la nueva palabra extraña encontrada con Highlight.
+
+Usa la opción "New Thread" para crear una nueva sección de párrafo de 5 minutos. Envía el ID del párrafo ("P1:", "P2:") más la última respuesta que te dio Ai Pi en el nuevo hilo.
+
+**9:20 AM**
+
+Los audífonos inalámbricos están descargados. Se empezó a las 4:00 AM; toma esto como un indicativo para también tomar un descanso. Pausa todo y toma un descanso de 15 minutos para dormir, cerrando los ojos mientras escuchas material de repaso o un podcast en inglés.
+
+**OBS app (Windows) de grabación**: configura el micrófono a usar y la intensidad del volumen. En la primera grabación, mi voz quedó muy baja al punto de no escucharse, y esta quedó con muchos silencios y duró 1 hora y 53 minutos. Sube el nivel de volumen del micrófono a -15 o al máximo nivel.
+
+**5:20 AM**: Transcripción en archivo finalizada.
+
+Usa el programa CMD de Windows llamado "auto-editor", que funciona con Python, para eliminar los silencios en los videos.
+
+**5:20 AM**: Transcripción en archivo finalizada.

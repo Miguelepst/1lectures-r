@@ -1,0 +1,114 @@
+#
+
+writing and corrections.txt
+#
+
+question 5:chat gpt: Show me another way to say the same thing English A2:
+Hey there! Morning! 😄 So, yesterday was a bit weird for me. I thought the meeting was at 11 am, but then I realized it was actually at 10 pm. That's why I double-checked the time with you. But, unfortunately, the link was wrong this time. No biggie though, we'll nail it next time! Thanks a bunch, and have an awesome day! 🌟
+
+
+question 5:chat gpt: Show me another way to say the same thing English A2:
+Hey there, buddy! Morning! 😄
+Yeah, you know what? Yesterday felt a bit odd to me too. I had set it for 11 am in my planner, but something seemed off. That's why I double-checked about the meeting time. Ended up switching it to 10 pm. But hey, wrong link this time, no biggie! We'll nail it next time, alright? Thanks a bunch, buddy! Have an awesome day ahead! 🌟👍
+
+
+question 4:chat gpt: Show me another way to say the same thing English A2:
+Hey there! Good morning! 😄
+Yeah, buddy, you were spot on. Yesterday felt a bit odd for me too because when I marked it in my calendar, it seemed like 11 am. That's why I double-checked about the meeting time. Then I switched it to 10 pm. But, alas, it seems I got the wrong link this time. No sweat, though, my friend. Next time, we'll nail it. Thanks a bunch, buddy. Have an awesome day! 🌟
+
+
+
+
+#
+question 3:chat gpt: 
+chat gpt: Please add the following corrections to the second paragraph:
+
+Hi, my bro. Good morning! 🤭 
+Yeah, my friend, you're right, 
+that was a little strange for me yesterday 
+because when I set it in my schedule, the time looked like 11am. 
+Is that why I was asking again about the scheduled time of the meeting? 
+Then I changed the time to 10pm. 
+But yeah, it's the wrong link for this time, 
+but don't worry, my bro, 
+the next time, we'll get it. 
+Thank you, my bro, 
+I hope you have a wonderful day 🤗🙏
+
+#
+
+question 2:chat gpt: 
+Please show me the whole mistakes in the following paragraph, how Should be where necessary, indicate the errors with numbers:
+
+Sure, here are the mistakes and corrections:
+
+1. "Hi my bro good morning, 🤭," - Should be "Hi, my bro. Good morning! 🤭,"
+2. "yeah my friend you're right," - Should be "Yeah, my friend, you're right,"
+3. "that was a little strange for me yesterday," - Correct
+4. "because when I set it in my schedule, in my scheduled the time looks like 11am," - Should be "because when I set it in my schedule, the time looked like 11am,"
+5. "is that why I was asking again about the schedule time of the meeting." - Should be "Is that why I was asking again about the scheduled time of the meeting?"
+6. "Then I change the time to 10pm." - Should be "Then I changed the time to 10pm."
+7. "But, yeah is the wrong link for this time," - Should be "But yeah, it's the wrong link for this time,"
+8. "but don't worries my bro," - Should be "but don't worry, my bro,"
+9. "the next time, we'll get it." - Correct
+10. "Thank you my bro," - Should be "Thank you, my bro,"
+11. "I hope you have a wonderful day 🤗🙏" - Correct
+
+
+
+#
+Question 1: chat gpt: show me the sentences correct into the following paragraph:
+Hi, my bro, good morning! 
+Yeah, my friend, you're right; 
+that was a little strange for me yesterday. 
+Because when I set it in my schedule, 
+the time looked like 11am, 
+which is why I was asking again about the scheduled time of the meeting. 
+Then I changed the time to 10pm. 
+But yeah, it's the wrong link for this time. 
+But don't worry, my bro, 
+next time we'll get it. 
+Thank you, my bro. 
+I hope you have a wonderful day! 🤗🙏"
+
+
+
+
+
+Original without correction:
+Hi my bro good morning, 🤭, 
+yeah my friend you're right, 
+that was a little strange for me yesterday, 
+because when I set it in my schedule, 
+in my scheduled the time looks like 11am, 
+is that why I was asking again about the schedule time of the meeting. 
+Then I change the time to 10pm. 
+But, yeah is the wrong link for this time, 
+but don't worries my bro, 
+the next time, we'll get it. 
+Thank you my bro, 
+I hope you have a wonderful day 🤗🙏
+
+
+original in spanish:
+Hola mi hermano, buenos dias, 🤭, si my hemano tu tienes razon, eso fue un poco estraño para mi ayer, porque cuando fije el tiempo en mi horario, en mi horario la hora era 11am, 
+es por eso que te pregunte nuevamente sobre la hora de la reunion en el horario, entonces cambie la hora de la reunion a 10pm.
+pero si, es el enlace equivocado para este tiempo, pero no nos preocupemos mi hermano, la prosima vez lo lograremos. gracias mi hermano, y espero que tengas un maravilloso dia  🤗🙏    
+
+last version in spanish:
+Hola, hermano. ¡Buenos días! 🤭
+Sí, amigo mío, tienes razón,
+ayer eso fue un poco extraño para mí
+porque cuando lo programé en mi agenda, la hora parecía ser las 11 am.
+¿Es por eso que preguntaba de nuevo sobre la hora programada de la reunión?
+Entonces cambié la hora a las 10 pm.
+Pero sí, es el enlace equivocado para esta hora,
+pero no te preocupes, hermano,
+la próxima vez lo lograremos.
+Gracias, hermano,
+espero que tengas un día maravilloso 🤗🙏
+
+
+
+
+###

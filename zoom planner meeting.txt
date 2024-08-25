@@ -1,0 +1,152 @@
+instantáneas de los cambios, Lo mas reciente arriba "HEAD" - Lo mas antiguo en lo profundo al fondo.
+(->>>) cursor (donde estoy), (#-) : apertura nuevo tema o subtema, (-#) : cierre nuevo tema o subtema, (#) comentario, (:) explicacion de comando,  (>) pausas
+Comando               #Explicaion -->  (alt+z: linea sin salto de linea)
+
+```json ZOOM PLANNER MEETING
+{
+{"LIFO":28/05/2024" # *--------# Start (HEAD): 
+                    #
+
+
+                    -                      
+                    #
+<:)                 # session fin                                                       
+#:3) --/--/2024     # sesion de estudio/practica: "ZOOM PLANNER MEETING" 
+:)>                 # session inicio #:2) 31/05/2024
+                    #
+                    -        
+                    #
+
+
+
+                    -                      
+                    #
+<:)                 # session fin                                                       
+#:3) --/--/2024     # sesion de estudio/practica: "ZOOM PLANNER MEETING" 
+:)>                 # session inicio #:2) 31/05/2024
+                    #
+                    -        
+                    #
+
+
+Marcie's English Conversation Circle
+Activo              :Estado: Activi, Pendiente, En espera de la fecha y hora.                     
+Scheduled           :Friday, 31 May⋅9:00 – 10:30am Weekly on Friday
+https://us02web.zoom.us/j/89530888199
+		     Marcie's English Conversation Circle
+	             Friday, 31 May⋅9:00 – 10:30am
+                     Weekly on Friday
+                     2 guests
+                     2 yes
+                     carlos
+                     Organiser
+                     Miguel Gutiérrez
+                     For full details, including the address, and to RSVP see: https://us02web.zoom.us/j/89530888199
+		     Carlos (Venezuela) 10:33 AM
+https://www.meetup.com/marcies-esl-conversation-circle/events/300280830/
+                     30 minutes before
+                     carlos
+                     There have been changes made to details of this event that are only reflected on this calendar
+
+
+
+
+
+                    -                      
+                    #
+<:)                 # session fin                                                       
+#:2) 31/05/2024     # sesion de estudio/practica: "ZOOM PLANNER MEETING"
+:)>                 # session inicio #:1) 28/05/2024 
+                    #
+                    -        
+                    #
+
+
+                    ##
+                    International House Sydney - (C29) Upper-Intermediate Level Free English Class (Online)
+                    https://ihsydney-au.zoom.us/j/85476109506
+                    re-starting again the next Jun 27 until August 1 2024
+                    (C29) Upper-Intermediate Level Free English Class (Online)
+                    Tuesday and Thursday at 6:00pm (Sydney time zone)
+                    ##
+International House Sydney - (C29) Upper-Intermediate Level Free English Class (Online)
+EE                  :Estado: Pendiente, En espera de la fecha y hora.                     
+Scheduled           :next Jun 27 until August 1 2024 
+		    International House Sydney - (C29) Upper-Intermediate Level Free English Class (Online)
+                    Thursday, 27 June⋅3:00 – 4:00am
+                    International House Sydney - (C29) Upper-Intermediate Level Free English Class (Online)
+https://ihsydney-au.zoom.us/j/85476109506
+                    re-starting again the next Jun 27 until August 1 2024
+                    (C29) Upper-Intermediate Level Free English Class (Online)
+                    Tuesday and Thursday at 6:00pm (Sydney time zone)
+                    30 minutes before
+                    ##
+                    [5/28, 12:48 PM] Carlos Curso Inglés Nature / Venezuela Yoga: The good news is they re-starting again the next Jun 27 until August 1
+                    [5/28, 12:49 PM] Carlos Curso Inglés Nature / Venezuela Yoga: And the time zone fit better with your country Uzbekistan.
+                    [5/28, 12:50 PM] Carlos Curso Inglés Nature / Venezuela Yoga: This is the link for International House Sydney
+                    (C29) Upper-Intermediate Level Free English Class (Online)
+                    https://ihsydney-au.zoom.us/j/85476109506
+                    Tuesday and Thursday at 6:00pm (Sydney time zone)
+                    [5/28, 12:52 PM] Carlos Curso Inglés Nature / Venezuela Yoga: Please, use this website to compare  your country and Sydney time zone
+                    Just, write the name of your city in the light-blue bar.
+                    https://www.timeanddate.com/worldclock/converter.html?iso=20240627T080000&p1=240&p2=58
+                    [5/28, 12:53 PM] Carlos Curso Inglés Nature / Venezuela Yoga: International House Sydney - (C29) Upper-Intermediate Level Free English Class (Online)
+                    [5/28, 12:55 PM] Carlos Curso Inglés Nature / Venezuela Yoga: https://ihsydney-au.zoom.us/j/85476109506
+                    [5/28, 1:23 PM] Alibek Friend From Euro: Thank you for detailed information 🤠
+                    #
+                    #
+                    #
+cancelado           :Estado: ,28/05/2024:cancelado, Pendiente, En Espera(EE) de la fecha y hora.                     
+Scheduled           :HOY 28/05/2024 5pm hora Colombia
+Teacher Christy - American English Pronunciation
+                    Tuesday, 28 May⋅12:00 – 1:00pm
+                    Weekly on Tuesday
+                    Online event
+                    3 guests
+                    2 yes, 1 awaiting
+                    carlos
+                    Organiser
+                    Miguel Gutiérrez
+                    Miguel Gutiérrez Mi Número
+                    Online event
+                    https://us02web.zoom.us/j/84212675271  
+                    30 minutes before   
+                    carlos
+                    Created by: Miguel Gutiérrez    
+                    #
+                    WhatsApp Carlos 
+link changed        Hi, my bro. How are you?
+                    Today's class was changed to the afternoon 5:00pm Colombia time zone
+                    I will share the Zoom link with you, please wait.
+                    Intonation Practice with teacher Christi
+https://us02web.zoom.us/j/83026292803 
+                    #
+                    Sorry guys. I think teacher Christi is unavailable this afternoon.
+                    Maybe, she can explain the ways tomorrow, at the same time.
+                    Anyway, you can "meet her" in her YouTube channel. This is the playlist where she explains how to pronounce with American accent.
+                    https://www.youtube.com/playlist?list=PL4nY1pIIn5eZJGxfQetN1L0Ocj8Lzcdhi 
+                    https://www.adastraspeech.com/
+                    #
+                    #
+                    #
+Activo              :Estado: Activo
+Subscription link here if anyone want to join it.
+The UUCA program    : 
+                    The UUCA program is one of the place that I improved my English exponentially.
+                    Because is based on American Accent reading comprehension. A wide variety of topics. I am grateful with all my teacher in UUCA. That's why I help them every time it's possible.
+                    I will put the subscription link here if anyone want to join it.
+http://eepurl.com/hoc53D
+
+
+
+
+
+                    
+                    
+                    #  
+<:)                 # session fin                                                       
+#:1) 28/05/2024     # sesion de estudio/practica: "ZOOM PLANNER MEETING"
+}
+                      
+```                      
+ZOOM PLANNER MEETING 

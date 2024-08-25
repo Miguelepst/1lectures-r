@@ -1,0 +1,654 @@
+instantáneas de los cambios, Lo mas reciente arriba "HEAD" - Lo mas antiguo en lo profundo al fondo.
+(->>>) cursor (donde estoy), (#-) : apertura nuevo tema o subtema, (-#) : cierre nuevo tema o subtema, (#) comentario, (:) explicacion de comando,  (>) pausas
+Comando               #Explicaion -->  (alt+z: linea sin salto de linea)
+
+```json BASE DE DATOS Miguel Gutierrez    "ENTENDIENDO a Miguel Gutiérrez"
+{
+{" LIFO": 31/05/2024" # *--------# Start (HEAD): 
+                      #
+
+ /_/\
+( o.o )
+ > ^ <
+"""""""
+
+Cuales son todos los componentes que pueden conformar la vida de un individuo 
+dame un listado sin explicación solo las categorías y sub-categorias para crear un perfil IA
+
+Claro, aquí tienes un listado de categorías y sub-categorías que pueden conformar la vida de un individuo:
+
+1. Datos Personales
+   - Nombre
+   - Fecha de Nacimiento
+   - Lugar de Nacimiento
+   - Género
+   - Estado Civil
+
+2. Familia
+   - Padres
+   - Hermanos
+   - Cónyuge
+   - Hijos
+   - Otros Parientes
+
+3. Educación
+   - Nivel Educativo
+   - Instituciones
+   - Títulos y Certificaciones
+
+4. Experiencia Laboral
+   - Puestos
+   - Empresas
+   - Duración
+   - Logros
+
+5. Salud
+   - Historia Médica
+   - Alergias
+   - Medicamentos
+   - Seguros Médicos
+
+6. Finanzas
+   - Ingresos
+   - Gastos
+   - Inversiones
+   - Deudas
+
+7. Vivienda
+   - Dirección
+   - Tipo de Vivienda
+   - Propiedad o Alquiler
+
+8. Relaciones Sociales
+   - Amigos
+   - Compañeros de Trabajo
+   - Mentores
+
+9. Intereses y Hobbies
+   - Deportes
+   - Lectura
+   - Música
+   - Viajes
+
+10. Cultura y Valores
+    - Idiomas
+    - Tradiciones
+    - Creencias
+
+11. Tecnología y Dispositivos
+    - Teléfonos
+    - Computadoras
+    - Aplicaciones Usadas
+
+12. Transporte
+    - Vehículos Propios
+    - Medios de Transporte Usados
+
+13. Mascotas
+    - Tipo
+    - Nombre
+    - Edad
+
+14. Metas y Aspiraciones
+    - Personales
+    - Profesionales
+    - Financieras
+
+15. Rutinas Diarias
+    - Horarios
+    - Actividades
+    - Hábitos
+
+16. Comunidad y Voluntariado
+    - Grupos Comunitarios
+    - Actividades de Voluntariado
+
+17. Consumo de Medios
+    - Libros
+    - Películas
+    - Programas de TV
+    - Noticias
+
+18. Viajes y Experiencias
+    - Destinos
+    - Duración
+    - Propósito
+
+19. Documentos y Registros
+    - Identificaciones
+    - Contratos
+    - Licencias
+
+20. Eventos y Celebraciones
+    - Fiestas
+    - Reuniones
+    - Conmemoraciones
+
+
+
+
+
+
+
+                      -                      
+                      #
+<:)                   # session fin                                                       
+#:2) --/--/2024       # sesion de estudio/practica: "BASE DE DATOS Miguel Gutierrez"
+:)>                   # session inicio #:1) 31/05/2024
+                      #
+                      -        
+
+
+BASE DE DATOS Miguel Gutierrez.txt version inicial: v1 
+
+BASE DE DATOS perfil Miguel Gutierrez
+
+
+clasificacion o categoricacion: 
+Datos Personales 
+Educación 
+Lugares donde ha vivido 
+Relaciones 
+Trabajo 
+Hobbies e Intereses 
+Comida Favorita 
+Mascotas 
+Anécdotas
+
+
+A cuál de las siguientes categorías: Datos Personales, Educación, Lugares donde ha vivido, Relaciones, Trabajo, Hobbies e Intereses, Comida Favorita, Mascotas, Anécdotas
+hace parte este párrafo, sino hace parte del alguna categoria genére una nueva categoría:
+
+
+                    BASE DE DATOS Miguel Gutierrez
+the database of Miguel Gutiérrez:                    
+
+## Datos Personales
+    a la presente fecha: 31/05/2024 poseo la siguiente información  
+    - Nombre: Miguel Gutiérrez
+    - Nacionalidad: Colombiano
+    - Lugar de nacimiento: Cartago, Valle del Cauca (vivió el primer año)
+    - Residencia actual: Cartagena 
+    - Edad: 44 años (nació el 04/08/1979)
+    - Sexo: Masculino
+    - Peso: 75 kilos
+    - Altura: 1.70 metros
+    - Color de piel: trigueño
+    - Contextura: delgada
+    - Orientación sexual: heterosexual
+    - estado civil actual: soltero
+    mi correo electrónico es:
+    miguelepst@hotmail.com 
+    y miguelepst@gmail.com
+    mi número de celular es: +57 que indicativo del país colombia y el número de celular y WhatsApp es 312 4872877.
+    mi documento de identidad es: 4441234
+    no presente el servicio militar mis padres pagaron por mi libreta militar.
+    vivo en el barrio el pozon de la ciudad de cartagena bolivar 
+    mi dirección es: manzana 118 lote 6 sector 19 de febrero. 
+    mi famila esta compuesta por mi madre mi hermana la hija de mi hermana y el marido de mi hermana. 
+
+    #
+    #
+    Mas informacion sobre mi:
+    - buen hijo
+    - buen amante con mis relaciones de pareja
+    - amoroso
+    - tierno
+    - sentimental, determinadas películas pueden hacerme llorar con facilidad. Tengo otra anécdota referida a este tema que me pasó cuando estaba con mis compañeros de clase en la universidad, pero la mencionaré después.
+    - cobarde para el dolor, no me gustan las inyecciones. Prefiero tomar una pastilla o un jarabe cuando estoy enfermo, pero ni modo cuando toca toca.
+    - los deportes extremos no son lo mío.
+    - los tatuajes, bueno, aún no tengo el primero, no se mas adelante.
+    - las orejas, sí me las perforé una vez, pero actualmente no uso aretes.
+    - me dejé crecer el cabello una vez también. Lo tuve bien largo, por debajo de mis hombros y dure como tres años eso fue cuando estaba en apartado trabajando en mi propio taller.
+## Educación
+    Me gradué de la universidad a los 25 años como ingeniero de sistemas en la Universidad Simón Bolívar de Barranquilla.
+    Me gradué de la técnica en electrónica a los 19 años de edad.
+    #
+    Técnico en Electrónica, Centro Inca, Barranquilla, en el 2017, empecé a estudiar la carrera como técnico en electrónica, durando 2 años.
+    Estudié ingeniería de sistemas en Barranquilla. Me gradué en el año 2005. Hice un diplomado en ingeniería de software. La carrera duró 11 semestres. Estudiaba en las noches, cuando mis padres tenían un restaurante y yo en el día les ayudaba con los domicilios. Mi idea al principio era estudiar ingeniería electrónica, pero era muy costosa esa carrera. A la final decidí que la ingeniería de sistemas está muy relacionada con la tecnología y me podía servir de herramienta para mis labores en electrónica. Por ejemplo, hacer un algoritmo para un robot o un brazo robotico en una fábrica es por eso que me motivó hacer esta carrera. Finalmente, me gradué como ingeniero de sistemas en la Universidad Simón Bolívar de Barranquilla.
+
+    Me ha costado mucho aprender las habilidades que actualmente he aprendido. Si me ha tomado mucho tiempo y esfuerzo. ¿Qué me ha resultado fácil, algo que deseara aprender?, es decir, tener alguna habilidad empírica que me facilite el proceso de aprendizaje, no ha sido mi caso,  Siento que estoy en el común de la mayoría de las personas, siento que ha sido todo lo contrario. Ha sido como querer aprender, hacer lo que ha sido al principio muy difícil de aprender. En una época me rendía y retomaba, la razón era la anterior explicación, por supuesto no pasaba a otro nivel. Solo perdía el tiempo para después retomar y dejarlo por sentirlo difícil y no ver resultados de progresos evidentes en lo que pretendía aprender. Esto me sucedía con todo lo que pretendía aprender cuando tenía la edad de 15 a 30 años.
+## Lugares donde ha vivido                    
+    - Cartago, Valle del Cauca (primer año de vida)
+    - Apartadó (3 años)
+    - Cartagena (hasta los 22 años)
+    - Bogotá (3 años)
+    - Apartadó (12 años)
+    - Cartagena (primero viví 15 años y volví a mis 41 años de edad y ya llevo viviendo 4 años aquí hasta la fecha).
+    
+
+    Viaje a Apartadó: duró 3 años.
+    Después viaje a: Cartagena, hasta hoy.
+    22 años viaje a Bogotá.
+    26 años viaje a Apartadó y duró 12 años.
+    A mis 41 años, nuevamente volví a Cartagena, soy más residente de Cartagena que cualquier otra ciudad hasta el momento.
+
+    paso todo el día en la casa pendiente de todo lo que pueda requerirse hacer, porque como les comenté anteriormente, la casa de mi madre está dividida en dos partes: una es un negocio o tienda que vende muchas variedades para los vecinos o sus hogares y la segunda parte es la vivienda, se puede decir que es vivienda y empresa al mismo tiempo.
+## Relaciones
+    - Unión libre con Marli (3 años)
+    - Unión libre con Alejandra (4 años)
+
+    A mis 23 años, unión libre que duró tres años con Marli en Cartagena.
+    A mis 30 años, segunda unión libre con Alejandra en Apartadó, que duró 4 años.
+
+    Mi pensamiento sobre las relaciones de pareja: 
+    estar solo es fantástico, pero estar en pareja es todo un desafío. Para mí, estar solo no es malo, pero estar en pareja es todo un reto.
+    Es por eso que sí me gustaría tener una pareja nuevamente, y no tener hijos es más fácil que tenerlos, ese es otro gran reto que me gustaría experimentar. Sueño con tener dos hijos.
+    Claro que hubo una época en la que estar solo lo veía como un problema, ahora lo veo como una bendición por todos los aspectos, pero me gustaría tener un problema de ese tipo algún día y saber manejarlo en pareja con amor, que es la mejor forma de manejarlo todo.
+## Trabajo
+    - Técnico Electrónico con taller propio en Apartadó (10 años), trabajó para empresas reconocidas como Almacenes Éxito, Hyundai, Sankey, las cuales eran clientes de su taller. 
+    - Actualmente trabaja con su familia en una tienda de variedades (ferretería y desechables para comidas)
+
+    Mi trabajo: actualmente trabajo con mi familia y poseemos una tienda de variedades en el área de ferretería y desechables para comidas.
+    He trabajado: en Apartadó, estuve trabajando en mi propio taller como técnico electrónico durante diez años. También trabajé para empresas reconocidas como Almacenes Éxito, Hyundai, Sankey, atendiendo las garantías de sus artículos electrónicos desde mi taller, el taller se llamaba servicios y soluciones Miguel Gutiérrez. Soy una persona muy agradecida.
+
+    Lo que hago actualmente: mi familia tiene un almacén que vende variedades para nuestros vecinos. Es una tienda que vende una gran variedad de cosas, como:
+    desechables para comidas, servilletas, pitillos, destornilladores, bombillos, accesorios eléctricos como cables, suiches, tomas de corriente, clavos. Es como una mini ferretería.
+    La tienda está en nuestra propia vivienda. Ayudo con las labores de venta y de la casa, y al mismo tiempo aprovecho el tiempo libre que el oficio me brinda para practicar y aprender a hablar inglés asistiendo a reuniones o clases virtuales. Por supuesto, también comparto mucho tiempo con la familia.
+
+    Estos son algunos de los productos que vendemos en la ferretería:
+    cintas eléctricas, herramientas como destornilladores, metros, accesorios eléctricos para el hogar como suiches de luz, enchufes, tomas de corriente, bombillos, consumibles para comida como desechables para empacar comida. También vendemos brochas. La verdad es que es una gran variedad de artículos.
+## Hobbies e Intereses
+    - Cantar
+    - Tocar guitarra
+    - Tocar piano
+    - Escuchar música
+    - Bailar
+    - Ir al gimnasio
+    - Aprender inglés
+    - Viajar a Estados Unidos
+    - Tener novia estadounidense o asiática que hable inglés
+    - Continuar aprendizaje de programación
+    - Generar más ingresos como programador virtual
+    #
+    Mis hobbies son: cantar, tocar la guitarra, tocar el piano, escuchar música, bailar, ir al gimnasio, aprender a hablar inglés.
+
+    Intereses
+    Lo que más me gustaría hacer en el futuro no muy lejano:
+    - Viajar a los Estados Unidos y conocer todos esos sitios famosos que he visto por la televisión desde niño.
+    - Tener una novia que sea nativa de los Estados Unidos, una gringa. También me gustan mucho las de China y Japón, pero deben saber hablar inglés, porque yo no pienso aprender a hablar otro idioma con la ayuda de Dios lograré aprender a hablar inglés.
+    - Continuar con mi proceso de aprendizaje de programación. El inglés es otra herramienta que me ayudará en este proceso. Actualmente lo tengo pausado porque siento que cuando hago muchas cosas al mismo tiempo no me rinde ninguna de ellas. Espero estar en un buen nivel de inglés en el que esté estable para poder retomar el proceso de aprendizaje sin soltar el inglés, ya que es otro nuevo aspecto que hace parte de mi diario vivir. Al saber esto, también tengo la esperanza de poder generar más ingresos económicos como programador virtual. Tengo entendido que ganan muy bien y cuando saben inglés ganan mucho más. Lo bueno de esto es que cuando de verdad logras saber hacer algo, lo haces con facilidad. No te cuesta mucho esfuerzo hacerlo y resulta hasta divertido que te paguen un montón de dinero por hacerlo. El problema es cuando no sabes hacerlo o cuando medio lo sabes hacer. Este estado no ayuda mucho, es muy duro. Te toca maltratarte mucho.
+    - De niño deseaba ir a Japón, pero de adulto me enteré que hay muchos terremotos allí y ya como que no estoy muy interesado en ir allí.
+
+    Mis metas a corto plazo: generar ingresos con el idioma inglés, ya sea como profesor de inglés empezando desde los niveles básicos A1, A2 y medida que avance en mi nivel de inglés enseñar en niveles más avanzados o otro tipo de actividad que saber el idioma inglés me facilite hacerla de manera virtual sin tener que moverme de mi hogar o desplazarme a otro sitio. Por ejemplo, si me toca viajar a los Estados Unidos, me gustaría que desde allí pueda hacer el trabajo sin necesidad de moverme a una oficina.
+
+What I like in a woman as a partner:
+    Lo que me gusta en una mujer como pareja:
+    - Educada
+    - Respetuosa
+    - Agradecida con Dios con la vida
+    - Que no pueda ocultar su enamoramiento, su amor hacia mí, que esto le resulte imposible, inclusive cuando esté enojada conmigo, que me vea hermoso para su gusto.
+    - De espíritu joven, claro que si está joven, mucho mejor. Mi padre le llevaba 20 años de más a mi madre y ella lo amaba. Hay muchas mujeres que ven al hombre mayor más interesante no solo por la herencia, ojo con eso, muchachas, ja ja ja.
+    - Que sea delgada, con cuerpo de guitarra, con bonito rostro, cara bonita, ojos bonitos, bonita sonrisa, bonita cola, que se vea fantástica en vestido de vallo, cabello largo, que sea sexualmente activa pero solo conmigo, si que sea fiel, que no me ponga los cuernos.
+    - Que hable inglés, que sea del continente asiático o tenga rasgos de allá, o que sea de los Estados Unidos, nativa de ese idioma.
+    - Que disponga de mucho tiempo para mí para la familia, que no esté más en el trabajo que con su familia.
+
+    otros gustos:
+    Sobre comida:
+    Me gusta el arroz, es muy común comer arroz todos los días. Me gustan los huevos, la carne de res, pero no comerla todos los días.
+    Comida a la carta que me gusta mucho: Bandeja paisa, cazuela de mariscos, bandeja paiza: La Bandeja Paisa es un plato emblemático de la gastronomía colombiana, típico de la región de Antioquia y representativo de Colombia. Este plato consiste en una combinación abundante de ingredientes que incluyen frijoles, arroz blanco, carne de res, chicharrón, huevo frito, chorizo, plátano maduro, aguacate, arepa y hogao. Es conocido por su variedad de sabores y texturas, siendo una opción sustanciosa y tradicional en la cocina colombiana. La Bandeja Paisa se caracteriza por su riqueza culinaria y su origen en la región paisa, siendo un plato que refleja la diversidad y la tradición gastronómica de Colombia.
+
+    + Prefiero el clima medio, no los extremos. Por ejemplo, no me gusta cuando es muy caliente el clima y tampoco me gusta cuando es muy frío.
+
+    En una época, mi pasión era la electrónica:
+    Tanto que mi dirección de correo electrónico hace referencia a mi idea de negocio en esta área. Mi email es: miguelepst@hotmail.com. Epst quiere decir: Empresa Provedora de Servicios Técnicos. Era como una EPS de la salud en Colombia, pero mi idea era con la salud de los electrodomésticos, los cuales poseen un tiempo de vida también. Yo me imaginaba una EPST a nivel nacional con IPST (IPST: Son Instituciones Prestadores de Servicios de Salud Técnico) sucursales de la epst repartidas por el resto de las ciudades de Colombia, con muchos clientes afiliados a estas.
+    No supe cómo cristalizar esta idea, cómo poder hacerlo realidad. Lo máximo que llegué a tener fue un taller que prestaba servicio de garantías en Apartadó, Antioquia, por 10 años.
+    Y la economía de las utilidades estaba bajando por varias razones. Fue entonces cuando llegó el COVID-19, la pandemia, y empeoró la situación. Al verme afectado tres veces mi salud con riesgo de muerte en la tercera vez, un vecino, hermano de la persona a la que le pagaba el arriendo, desafortunadamente no pudo superar el COVID-19.
+    En vista de estar lejos de mi familia porque en ese entonces estaba soltero, solo contaba con la muy buena fe de una vecina que me dio la mano aquella tercera vez que me dio el COVID-19. Estando la situación en este estado, cerré el taller logrando quedar a paz y salvo con todos los clientes primero.
+
+    Aprender a tocar guitarra eléctrica:
+    Tengo rutinas diarias para aprender a tocar un solo en la guitarra eléctrica de la canción "Sweet Child o' Mine" del grupo musical Gun's Roses, el cual es tocado por el guitarrista Slash. Es todo un desafío este solo porque incluye varias habilidades técnicas a desarrollar, como velocidad, precisión, fuerza en los dedos, habilidad, sincronización de ambas manos y habilidad auditiva para hacer los diferentes efectos en cada sonido. Aún no domino esta rutina y no he salido de la parte del solo más difícil para mí. Yo dividí el solo en partes más pequeñas para atacar y decidí empezar por la parte más difícil para mí y, al lograr esta parte con estabilidad, procederé con las otras partes hasta completar hacer todo el solo en mi guitarra eléctrica. Llevo 7 meses practicándolo diariamente, ya logro hacerlo, pero a veces lo hago accidentalmente y otras veces me equivoco. No es estable aún, no me siento seguro y confiado haciéndolo. Continúo invirtiendo 15 minutos diariamente y, en ocasiones, un día a la semana, media hora o una hora completa.
+
+    Aprender a tocar piano:
+    Pero actualmente solo toco una canción en esta actividad. Logré alcanzar tocar esta canción a los 6 meses. Ahora solo la practico tocándola 5 veces y la uso como herramienta para practicar ejercicios de vocalización. Esta canción fue todo un desafío. Primero empecé aprendiendo a usar mi mano derecha, que hace el punteo melódico de la canción, y una vez estaba algo estable con esta habilidad, empecé con la mano izquierda, que es la mano que hace el acompañamiento del punteo con los acordes. El proceso parecía imposible, pero ahora ya es más fácil para mí y hasta logro tocarla sin mirar el teclado del piano. La canción es del cantante venezolano Ricardo Montaner y se llama "Un Mundo Ideal", fue la banda sonora de la película "Aladdin" de Disney. Hoy en día solo le invierto como 5 minutos para tocarla, esas cinco veces, porque ya la he aprendido a tocar en el piano.   
+
+    Aprender a cantar: 
+    Aprender a cantar es otra de mis rutinas diarias. A cada una de estas actividades le dedico 15 minutos sin fallar un día. Si fallo un día, al otro día hago la rutina dos veces. Mi dificultad actual es hacer la parte de los tonos altos en la mayoría de las canciones que me gustan. Le dedico 15 minutos diarios y hasta más cada día. Estoy aprendiendo a cantar la canción "Wherever You Will Go" de la banda musical The Calling. Mi idea es lograr saber cantar una sola canción y listo con eso sería más que suficiente para mí como cantante. No más con eso ya cumpliré mi meta de cantante y esta canción es una de mis favoritas, por eso la he escogido. Me gusta mucho la melodía y el tono de voz del cantante. La letra es algo nostálgica, es una balada romántica de tipo rock-pop.
+
+    Aprender a hablar en inglés:
+    Mi rutina diaria para aprender, hablar en inglés,  antes de dormirme,  es ver el canal de YouTube "Aprendiendo Inglés con Películas", el cual dura en promedio 20 a 30 minutos. Adicional a esto, a  veces invierto más de 4 horas al día haciendo prácticas en aplicaciones, clases virtuales y conversacionales.
+    Después, veo un episodio de alguna serie que sea de mi interés. Actualmente, he completado dos series en inglés, la primera fue "Futurama" que es comedia al estilo caricaturas similar a los Simpson y la segunda fue "Friends" otra comedia, pero sobre un grupo de 6 personas que eran amigos. Ahora estoy viendo la serie "American Dad" de 2005, la cual es muy divertida también del estilo comedia. Cada episodio dura en promedio 30 minutos. Después, apago la televisión y me voy a dormir.
+
+    Mi filosofía es aprender a hacer lo difícil y lograr hacerlo fácil para después mantener ese nivel sin invertirle mucho tiempo. Cuando esté muy estable en el nivel, mirar dar otro paso con otro nuevo desafío que me pueda hacer incluso más fuerte en la habilidad de saber hacer algo muy bien. Si es un proceso de disciplina que toma tiempo madurar.
+
+    Normalmente despierto a las 6 am, siempre y cuando no haya trasnochado mucho al acostarme el día anterior. Como estoy muy comprometido con mi proceso de aprendizaje de hablar inglés, lo primero que hago es tomar mi celular y escuchar un canal de noticias en inglés, como News Fox, o escuchar un pódcast de Spotify en inglés,  o escuchar una tarea en la que esté trabajando para alguna clase de inglés. Esto lo hago aun  estando acostado en mi cama.
+
+    Después hago algo de estiramiento en mi cama, me levanto de mi cama, tomo una ducha, me aseo, me cepillo los dientes,  me visto, salgo de mi apartamento y voy a la casa de mi madre, que está al lado de mi apartamento. En la casa de mi madre hago mi rutina diaria de aplicación Duolingo para practicar mi inglés nuevamente, la cual incluye tres exámenes: un examen para saltar a un nivel superior, otro para pasar a nivel dorado alguna lección ya realizada y el tercer examen es el de repasar y corregir los errores que he tenido en los otros dos exámenes. Siempre empiezo por el test de corregir errores cometidos, después paso a tratar de saltar el nivel y, por último, hago la parte de pasar a nivel dorado alguna clase ya realizada. La condición para terminar cualquier prueba o examen es cometer tres errores. Claro que primero hago la sección básica de escucha y pronunciación, la cual es la más breve y me toma menos de 5 minutos, con esta práctica aseguro la racha del día en Duolingo. Tengo una racha de 683 días, lo cual según la aplicación hace parte del 12% de todos los usuarios que integran dicha aplicación, lo cual es mucho porque esta aplicación fue la primera y más popular para aprender inglés a nivel mundial.
+    Todo esto lo hago mientras espero el desayuno, a veces el desayuno no lo hace mi madre,  se lo compramos a una vecina, pero en mi casa normalmente como huevos con pan o tajadas de plátano más una taza de café en mi desayuno. 
+## Comida Favorita
+    - Arroz (se consume diariamente)
+    - Huevos
+    - Carne de res
+    - Bandeja paisa
+    - Cazuela de mariscos
+
+    Sé hacer arroz
+    Sé cocinar huevos 
+    Sé cocinar tajadas de plátano
+    Sé cocinar carne 
+    He hecho frijoles también, pero puede que ya lo haya olvidado, hace mucho rato que no toco la cocina, lo mismo con las sopas. 
+    Pero no soy muy amante de cocinar.
+
+    Me gusta el arroz, es muy común comer arroz todos los días. Me gustan los huevos, la carne de res, pero no comerla todos los días.
+    Comida a la carta que me gusta mucho: Bandeja paisa, cazuela de mariscos.
+
+    La Bandeja Paisa es un plato emblemático de la gastronomía colombiana, típico de la región de Antioquia y representativo de Colombia. Este plato consiste en una combinación abundante de ingredientes que incluyen frijoles, arroz blanco, carne de res, chicharrón, huevo frito, chorizo, plátano maduro, aguacate, arepa y hogao. Es conocido por su variedad de sabores y texturas, siendo una opción sustanciosa y tradicional en la cocina colombiana. La Bandeja Paisa se caracteriza por su riqueza culinaria y su origen en la región paisa, siendo un plato que refleja la diversidad y la tradición gastronómica de Colombia.
+    #
+## Mascotas
+    - Loro llamado Paco (llegó accidentalmente hace 7 meses)
+    Tengo actualmente una mascota: es un pequeño lorito, lo llamamos Paco y mi madre es la abuela de Paco. Yo soy el tío de Paco, y así el resto de familiares también tienen una relación familiar igual con el periquito.
+
+    El llegó por accidente a nuestro hogar, claro. Primero llegó a la casa de mi hermana, y Alexandra, la hija de mi hermana, es decir, mi sobrina, quería quedarse con él.
+    Pero de verdad no podía porque ella pasa más tiempo en la calle estudiando. En ese caso, ella se lo dio a mi madre, y yo vivo junto a mi madre. Desde entonces, hace 7 meses, convivimos con Paco todos los días. No le puede faltar su manzana, claro que come casi de todo: yuca, papa, banana, cualquier fruta. Pero eso sí, es algo ruidoso. A veces pasa haciendo ruido algunos momentos más que otros.
+    Lo queremos mucho. Nos gusta mucho las aves.
+## Anécdotas
+    1. A los 15 años, viajó en bicicleta con amigos de Cartago a Pereira (2 horas ida, 3 horas vuelta)
+
+    Anécdota:
+    Cuando tenía 15 años, viví un tiempo en Cartago. A veces solía montar bicicleta con mis amigos en el barrio y fuera del barrio éramos como seis muchachos en bicicletas. Una vez fuimos en bicicleta a otra ciudad llamada Pereira. Nos demoramos dos horas en ir y tres en regresar. Fue algo extremo a esa edad, adolescentes.
+    No le dijimos a nuestros padres porque nos iban a castigar. Esta etapa de mi vida en Cartago la recuerdo con gratitud. Me gustó cuando eso sucedió. Mi madre era la que ingresaba el dinero.
+
+    2. Vendió 3 estaciones de calor para reparar celulares por 100000 pesos, pero consideró cobrar más
+    Anécdota: en la fecha 28/05/2024
+    Un conocido del barrio, que trabaja como técnico reparando celulares, me preguntó si aún tenía para la venta tres estaciones de calor para reparar celulares. Yo le dije que sí. Luego, él me preguntó: "¿En cuánto me las vas a vender?". Yo le dije: "¿Cuánto me ofreces por ellas?". Él me dijo: 100000 pesos. Entonces, yo le dije que se las llevaría al otro día, y así lo hice.
+    Pero a mí me pareció que me ofreció muy poco y vi una oportunidad de cobrarle 100000 pesos y, además, pedirle que me diera un celular de segunda mano, claro, en buen estado. Él aceptó darme el celular, pero solo con 50000 pesos, es decir, la mitad de los 100000 pesos. Pero yo no acepté su propuesta y me devolví con las estaciones de calor para mi casa.
+    Y aquí es donde comienza la parte graciosa de la presente anécdota, con mi madre, quien estaba muy atenta de saber por qué me devolví con las estaciones. Yo le dije que me estaba ofreciendo la mitad de lo acordado más un celular, y yo no lo acepté. Yo quería los 100000 pesos completos más el celular, pero él no aceptó. Yo pretendía ser más astuto que él, y aquí es donde mi madre, mi propia madre, comienza a hacerme bullying diciéndome que yo no soy ese tipo de persona que enreda a otras personas con palabras.
+    En sí, era un bullying positivo, pero debido a que no soy una persona de mucho mundo exterior, lo cual es verdad, pero fue muy gracioso porque ella no paraba de reír, lo cual a mí me causó mucha gracia también, y reímos juntos.
+    Pero dentro de mí, pensé: mi madre me conoce y puede que piense que hice un mal negocio porque no soy ese tipo de personas que puede enredar a otras personas con sus palabras. Mi tendencia es más a ser un buen escuchador y no hablar mucho. Entonces, fue muy gracioso que pretendiera serlo, y claro, fue normal que no lograra convencer a la otra persona de pagarme los 100000 pesos más un celular.
+
+
+    3. Se hizo una cicatriz en la muñeca derecha al quedar atrapado en la llanta delantera de una bicicleta
+    Anécdota :
+    Tengo una cicatriz que ya no es muy notoria en la muñeca de mi mano derecha. Les describiré lo que me sucedió. Fue en una de mis aventuras de adolescente en Cartago con uno de mis amigos. Los dos salimos en bicicleta a la ciudad más cercana, que se llama Zaragoza, a unos 30 minutos del pueblo donde estábamos. Así se llama el pueblo donde mi familia vivía en ese momento.
+    Decidimos ir a Apartado porque habían pistas de bicicleta para hacer saltos en las rampas. Nos divertimos mucho y nos cogió la tarde para regresar. Entonces, de regreso, yo traía a mi amigo en la barra de la bicicleta y decidimos cambiar. Ya me tocaba a mi trepar en la barra de la bicicleta mientras él pedaleaba la bicicleta. En el trayecto había un hueco que él no logró evadir, y en ese momento mi mano quedó atrapada en la llanta delantera de la bicicleta.
+    Eso fue terrible porque, además de estar atrapado, no podía soltar mi mano y me dolía mucho. Nos caímos, pero yo no podía soltar mi mano. Nos tocó caminar el resto del recorrido con mi mano atrapada entre la llanta delantera de la bicicleta. Veinte minutos después llegamos a la primera casa del pueblo, y fue allí donde, con una herramienta, logramos soltar la llanta delantera y liberar mi mano. Fue así como me hice la cicatriz.
+
+
+    4. Salvó a dos niñas de ahogarse en el mar (26/05/2024)
+    Anécdota: en la fecha 26/05/2024:
+    Mi tía Gloria vino a visitarnos. Ella vive en otra ciudad, en Cartago, Valle del cauda, pero en avión, la distancia se reduce a 45 minutos. Se quedó con nosotros 25 días.
+    Y el 26/05/2024, de despedida, faltando tres días para irse a su ciudad donde vive con su hija Leydi, mi hermana decidió darle un regalo de despedida llevándola a la playa junto con toda la familia. La anécdota sucedió en la playa.
+    Estábamos compartiendo y disfrutando mucho en familia. Ya habíamos bañado varias veces. Después de reposarme del almuerzo, que fue un delicioso pescado frito con arroz de coco, el solo recordarlo me hace agua la boca nuevamente. Ese almuerzo estuvo muy rico.
+    Entonces yo decidí meterme al mar nuevamente, pero como casi no voy al mar, tenía la intención de quedarme un muy buen rato dentro del mar, bañándome y disfrutando del paisaje, disfrutando de las suaves olas. Es muy fantástico.
+    Y lo asombroso de la anécdota es que había tres niñas, y dos de ellas se estaban ahogando. Yo las salvé.
+    Pero al principio no creí que se estuvieran ahogando hasta que les pregunté: "¿Es en serio?" Fue cuando pude ver más en detalle sus miradas. Y una de ella escupió un leve vómito y comenzó a llorar. Fue entonces cuando reaccioné de manera muy rápida y tomé de la mano a la que estaba más asustada.
+    Pude llevarla a un lugar más seguro donde la niña podía tocar tierra y caminar hacia la arena. Luego regresé por la otra niña que estaba menos asustada. La tomé de la mano y hice lo mismo. La tercera niña sabía nadar y era un poco más alta, así que salió por su cuenta. Me sentí muy contento y agradecido con Dios en ese momento por permitirme vivir esa experiencia de poder hacer un bien a otro ser humano de esa magnitud.
+    Otro de los aspectos que facilitó mi tarea fue mi altura, donde estábamos. El nivel del agua no era muy alto para mí y podía tocar tierra. De otro modo sería muy difícil, porque tengo entendido que una persona que se está ahogando puede hacer ahogar a otra persona que intenta salvarla.
+    Gracias a Dios, todo terminó bien, y con las siguientes palabras de mi madre: Mijo, Dios quería que tú estuvieras aquí por esa razón.
+
+    5. anécdota con mis compañeros de clase en la universidad, estábamos en la clase de psicología y la profesora decidio enseñarnos sobre el tema de inteligencia artificial por medio de la pelicula IA, en donde a una madre que tiene a un hijo en coma le asignan un hijo robot con inteligencia artificial y de verdad esa pelicula me pareció muy dramática, no pude controlar mi llanto, llorava y me reia con mis compañeros de clase al mismo tiempo, guao 
+    eso si que nunca lo podré olvidar.
+
+    5. Anécdota con mis compañeros de clase en la universidad, estábamos en la clase de sicología y la profesora decidió enseñarnos sobre el tema de inteligencia artificial por medio de la película "IA", en donde a una madre que tiene un hijo en coma le asignan un hijo robot con inteligencia artificial.
+    Y de verdad, esa película me pareció muy dramática y triste. No pude controlar mi llanto, lloraba y me reía con mis compañeros de clase al mismo tiempo. Guao, eso sí que nunca lo podré olvidar.
+    
+
+/////////////////////
+////////////////////
+//////////////////
+
+Traduccion: 
+
+Miguel Gutierrez's Database:
+Personal Information
+
+    As of the present date: 05/31/2024, I have the following information:
+    Name: Miguel Gutiérrez
+    Nationality: Colombian
+    Place of Birth: Cartago, Valle del Cauca (lived there the first year)
+    Current Residence: Cartagena
+    Age: 44 years old (born on 08/04/1979)
+    Sex: Male
+    Weight: 75 kilograms
+    Height: 1.70 meters
+    Skin Color: Olive
+    Build: Slim
+    Sexual Orientation: Heterosexual
+    Current Marital Status: Single
+    Email: miguelepst@hotmail.com and miguelepst@gmail.com
+    Cell Phone Number: +57 (Colombia) 312 4872877 (also for WhatsApp)
+    ID Number: 4441234
+    Did not serve in the military; my parents paid for my military card.
+    I live in the El Pozón neighborhood of Cartagena, Bolívar
+    Address: Manzana 118 Lote 6 Sector 19 de Febrero
+    My family consists of my mother, my sister, my sister’s daughter, and my sister’s husband.
+
+More About Me
+
+    Good son
+    Good lover in relationships
+    Loving
+    Tender
+    Sentimental; certain movies can make me cry easily. I have another story about this from when I was with my classmates at university, but I’ll mention it later.
+    Cowardly about pain; I don’t like injections. I prefer taking a pill or syrup when I’m sick, but when it’s necessary, it’s necessary.
+    Extreme sports are not my thing.
+    I don’t have any tattoos yet; maybe in the future.
+    I pierced my ears once, but I don’t wear earrings now.
+    I once let my hair grow very long, below my shoulders, and kept it for about three years. This was when I was working in my own workshop in Apartadó.
+
+Education
+
+    Graduated from university at 25 years old as a systems engineer from Simón Bolívar University in Barranquilla.
+    Graduated with a technical degree in electronics at 19 years old.
+    Technician in Electronics, Centro Inca, Barranquilla, in 2017. I started studying for the technical degree in electronics, which took 2 years.
+    Studied systems engineering in Barranquilla. Graduated in 2005. Took a diploma course in software engineering. The degree lasted 11 semesters. I studied at night while helping my parents with their restaurant during the day. Initially, I wanted to study electronic engineering, but it was too expensive. I decided on systems engineering because it was closely related to technology and could help me in my electronics work. For example, creating an algorithm for a robot or robotic arm in a factory motivated me to pursue this career. Finally, I graduated as a systems engineer from Simón Bolívar University in Barranquilla.
+
+It has taken me a lot of effort to learn the skills I currently have. It has taken much time and effort. I feel like I am in the same situation as most people; it has been the opposite. It has been about wanting to learn and doing what seemed very difficult to learn at first. At times, I would give up and then restart, which hindered progress. This happened with everything I tried to learn between the ages of 15 and 30.
+Places I Have Lived
+
+    Cartago, Valle del Cauca (first year of life)
+    Apartadó (3 years)
+    Cartagena (until 22 years old)
+    Bogotá (3 years)
+    Apartadó (12 years)
+    Cartagena (lived here for 15 years initially, returned at 41 years old, and have been living here for 4 years until now)
+
+Travel Journey:
+
+    Lived in Apartadó for 3 years.
+    Then moved to Cartagena until today.
+    At 22, moved to Bogotá.
+    At 26, moved to Apartadó for 12 years.
+    At 41, returned to Cartagena, where I’ve lived the longest.
+
+I spend all day at home, attending to anything that needs doing, as my mother’s house is divided into two parts: one is a business or store selling various items to neighbors, and the other is the residence, making it both a home and a business.
+Relationships
+
+    Common-law relationship with Marli (3 years)
+
+    Common-law relationship with Alejandra (4 years)
+
+    At 23, a common-law relationship with Marli in Cartagena lasted three years.
+
+    At 30, a second common-law relationship with Alejandra in Apartadó lasted four years.
+
+My thoughts on relationships:
+Being alone is fantastic, but being in a relationship is a challenge. Being alone is not bad, but being in a relationship is a challenge. That’s why I would like to have a partner again. Not having children is easier than having them, but I would like to experience that challenge. I dream of having two children. There was a time when I saw being alone as a problem, but now I see it as a blessing. However, I would like to face that problem someday and manage it with love, which is the best way to handle everything.
+Work
+
+    Electronic Technician with own workshop in Apartadó (10 years), worked for well-known companies like Almacenes Éxito, Hyundai, Sankey, which were clients of his workshop.
+    Currently works with family in a variety store (hardware and disposable food items)
+
+My work: I currently work with my family, and we own a variety store in the area of hardware and disposable food items. I have worked in Apartadó in my workshop as an electronic technician for ten years. I also worked for well-known companies like Almacenes Éxito, Hyundai, Sankey, attending to their electronic item guarantees from my workshop, named "Servicios y Soluciones Miguel Gutiérrez." I am very grateful.
+
+What I do currently: My family has a store that sells various items to our neighbors. It’s a shop that sells a wide variety of things like disposable food items, napkins, straws, screwdrivers, light bulbs, electrical accessories like cables, switches, sockets, and nails. It’s like a mini hardware store. The store is in our home. I help with sales and housework, and at the same time, I use the free time the job gives me to practice and learn English by attending virtual meetings or classes. I also spend a lot of time with my family.
+
+These are some of the products we sell in the hardware store:
+electrical tapes, tools like screwdrivers, measuring tapes, home electrical accessories like light switches, plugs, sockets, bulbs, food consumables like disposable food packaging. We also sell paintbrushes. It’s a wide variety of items.
+Hobbies and Interests
+
+    Singing
+    Playing guitar
+    Playing piano
+    Listening to music
+    Dancing
+    Going to the gym
+    Learning English
+    Traveling to the United States
+    Having a girlfriend from the US or Asia who speaks English
+    Continuing programming learning
+    Generating more income as a virtual programmer
+
+My hobbies: singing, playing the guitar, playing the piano, listening to music, dancing, going to the gym, learning to speak English.
+
+Interests:
+What I would most like to do in the near future:
+
+    Travel to the United States and see all the famous places I’ve seen on TV since I was a child.
+    Have a girlfriend who is a native of the United States, a "gringa." I also really like women from China and Japan, but they must speak English because I don’t plan to learn another language. With God’s help, I will learn to speak English.
+    Continue my programming learning process. English is another tool that will help me in this process. I currently have it paused because I feel that when I do many things simultaneously, none of them progress well. I hope to reach a good level of English so I can resume learning without dropping English, as it’s now a new aspect of my daily life. Knowing this, I also hope to generate more income as a virtual programmer. I understand they earn well, and those who know English earn even more. The good thing is that when you really know how to do something, you do it easily. It doesn’t take much effort and is even fun to get paid a lot for doing it. The problem is when you don’t know how to do it or only partially know how. This state doesn’t help much; it’s very tough. You have to struggle a lot.
+    As a child, I wanted to go to Japan, but as an adult, I learned about the many earthquakes there, and now I’m not so interested.
+
+My short-term goals: generate income with English, either as an English teacher starting from basic levels A1, A2, and as I advance in my English level, teaching higher levels, or another activity that knowing English facilitates virtually without having to leave home or move elsewhere. For example, if I have to travel to the United States, I’d like to work from there without needing to move to an office.
+
+What I like in a woman as a partner:
+
+
+**What I Like in a Woman as a Partner:**
+- Polite
+- Respectful
+- Grateful to God and life
+- Can't hide her love and affection for me, even when angry with me, she still finds me attractive.
+- Young at heart, though if she is actually young, even better. My father was 20 years older than my mother, and she loved him. Many women find older men more interesting, not just for inheritance, keep that in mind, girls, ha ha ha.
+- Slim, with an hourglass figure, a pretty face, beautiful eyes, a nice smile, a beautiful butt, looks fantastic in a long dress, has long hair, sexually active but only with me, faithful, not unfaithful.
+- Speaks English, preferably from Asia or has Asian features, or is from the United States, a native English speaker.
+- Has plenty of time for me and the family, not spending more time at work than with family.
+
+**Other Preferences:**
+
+**Regarding Food:**
+- I like rice; it's very common to eat rice every day. I like eggs, beef, but not eating it every day.
+- Favorite dishes: Bandeja paisa, seafood casserole.
+
+**The Bandeja Paisa**:
+The Bandeja Paisa is an iconic dish in Colombian cuisine, typical of the Antioquia region and representative of Colombia. This dish consists of a hearty combination of ingredients including beans, white rice, beef, pork crackling, fried egg, chorizo, ripe plantain, avocado, arepa, and hogao. It's known for its variety of flavors and textures, being a substantial and traditional option in Colombian cooking. The Bandeja Paisa is characterized by its culinary richness and its origin in the Paisa region, reflecting the diversity and gastronomic tradition of Colombia.
+
+**Preferred Climate**:
+- I prefer mild weather, not extremes. For example, I don't like very hot weather, nor do I like very cold weather.
+
+**Former Passion: Electronics**:
+At one point, my passion was electronics:
+- So much so that my email address refers to my business idea in this area. My email is: miguelepst@hotmail.com. EPST stands for Empresa Proveedora de Servicios Técnicos. It was like a health EPS in Colombia, but my idea was about the health of appliances, which also have a lifespan. I envisioned a national EPST with IPST (Instituciones Prestadoras de Servicios de Salud Técnico) branches spread across other cities in Colombia, with many customers affiliated with them.
+- I didn’t know how to bring this idea to life. The most I achieved was a workshop providing warranty service in Apartadó, Antioquia, for 10 years.
+- The economy of the profits was declining for various reasons. Then COVID-19 came and worsened the situation. After being affected three times with my health at risk of death the third time, a neighbor, brother of the person I rented from, unfortunately, couldn't overcome COVID-19.
+- Seeing I was far from my family because I was single at the time, I only counted on the goodwill of a neighbor who helped me that third time I got COVID-19. Given this situation, I closed the workshop, making sure to clear all accounts with customers first.
+
+**Learning to Play Electric Guitar**:
+I have daily routines to learn to play a solo on the electric guitar from the song "Sweet Child o' Mine" by Guns N' Roses, played by the guitarist Slash. It’s quite a challenge as the solo includes several technical skills to develop, like speed, precision, finger strength, dexterity, hand synchronization, and auditory skills to make the different effects in each sound. I haven't mastered this routine yet and haven't moved past the most difficult part for me. I divided the solo into smaller parts to tackle and decided to start with the hardest part for me, and once I achieve this part steadily, I'll proceed with the other parts until I can play the entire solo on my electric guitar. I've been practicing it daily for 7 months, I can do it sometimes, but other times I make mistakes. It's not stable yet, and I don't feel secure and confident doing it. I continue to invest 15 minutes daily and occasionally half an hour or an hour once a week.
+
+**Learning to Play Piano**:
+But currently, I only play one song in this activity. I managed to play this song after 6 months. Now I only practice it by playing it 5 times and use it as a tool for practicing vocalization exercises. This song was quite a challenge. First, I started learning to use my right hand, which does the melodic picking of the song, and once I was somewhat stable with this skill, I started with my left hand, which accompanies the picking with chords. The process seemed impossible, but now it’s easier for me, and I can even play it without looking at the piano keyboard. The song is by Venezuelan singer Ricardo Montaner, called "A Whole New World," which was the soundtrack of Disney's movie "Aladdin." Nowadays, I only invest about 5 minutes to play it, those five times, because I’ve already learned to play it on the piano.
+
+**Learning to Sing**:
+Learning to sing is another of my daily routines. I dedicate 15 minutes to each of these activities without missing a day. If I miss a day, the next day I do the routine twice. My current difficulty is hitting the high notes in most of the songs I like. I dedicate 15 minutes daily and sometimes even more each day. I’m learning to sing the song "Wherever You Will Go" by the band The Calling. My goal is to be able to sing just one song, and that would be more than enough for me as a singer. Just that will fulfill my goal of being a singer, and this song is one of my favorites, which is why I chose it. I love the melody and the singer’s voice tone. The lyrics are somewhat nostalgic, a romantic rock-pop ballad.
+
+**Learning to Speak English**:
+My daily routine for learning to speak English, before going to bed, is to watch the YouTube channel "Learning English with Movies," which lasts on average 20 to 30 minutes. In addition to this, I sometimes invest more than 4 hours a day practicing on apps, taking virtual and conversational classes.
+Then, I watch an episode of a series that interests me. So far, I’ve completed two series in English, the first was "Futurama," which is a comedy similar to "The Simpsons," and the second was "Friends," another comedy about a group of 6 friends. Now I’m watching the series "American Dad" from 2005, which is also very funny and in the comedy style. Each episode lasts about 30 minutes. Afterward, I turn off the TV and go to sleep.
+
+**My Philosophy**:
+My philosophy is to learn to do difficult things and make them easy to then maintain that level without investing much time. When I’m very stable at that level, I look to take another step with a new challenge that can make me even stronger in the skill of knowing how to do something very well. It’s a process of discipline that takes time to mature.
+
+I usually wake up at 6 am, as long as I haven’t stayed up too late the previous night. Since I’m very committed to my process of learning to speak English, the first thing I do is take my phone and listen to an English news channel like Fox News, or listen to an English podcast on Spotify, or listen to an assignment I’m working on for an English class. I do this while still lying in bed.
+
+Then, I do some stretching in bed, get up, take a shower, brush my teeth, dress up, leave my apartment and go to my mother’s house, which is next to my apartment. At my mother’s house, I do my daily Duolingo practice to improve my English again, which includes three tests: one to jump to a higher level, another to pass a lesson to gold level, and the third is to review and correct the mistakes I’ve made in the other two tests. I always start with the test to correct mistakes, then I try to jump the level, and finally, I do the part to pass a class to gold level. The condition to finish any test or exam is to make three mistakes. Of course, first I do the basic listening and pronunciation section, which is the shortest and takes me less than 5 minutes. With this practice, I ensure my daily streak on Duolingo. I have a streak of 683 days, which according to the app is part of the 12% of all users who are in the app, which is a lot because this app was the first and most popular for learning English worldwide.
+I do all this while waiting for breakfast, sometimes my mother doesn’t make breakfast, we buy it from a neighbor, but at home, I usually have eggs with bread or slices of plantain plus a cup of coffee for breakfast.
+
+**Favorite Food**:
+- Rice (consumed daily)
+- Eggs
+- Beef
+- Bandeja paisa
+- Seafood casserole
+
+**Cooking Skills**:
+- I can cook rice
+- I can cook eggs
+- I can cook plantain slices
+- I can cook meat
+- I have cooked beans too, but I might have forgotten how, it’s been a long time since I last cooked, same with soups.
+- But I’m not very fond of cooking.
+
+**Pet**:
+
+## Pets
+
+- **Parrot named Paco (arrived accidentally 7 months ago)**
+
+I currently have a pet: a small parrot we call Paco, and my mother is Paco's grandmother. I am Paco's uncle, and the rest of the family members have a similar relationship with the parakeet.
+
+He arrived at our home by accident. First, he arrived at my sister's house, and Alexandra, my sister's daughter, my niece, wanted to keep him. But she really couldn't because she spends most of her time out studying. So, she gave him to my mother, and I live with my mother. Since then, 7 months ago, we've been living with Paco every day. He can't go without his apple, though he eats almost everything: yuca, potato, banana, any fruit. But yes, he's a bit noisy. Sometimes he makes noise more at some moments than at others.
+
+We love him very much. We really like birds.
+
+## Anecdotes
+
+1. **At 15, biked with friends from Cartago to Pereira (2 hours one way, 3 hours return)**
+
+**Anecdote:**
+
+When I was 15 years old, I lived in Cartago for a while. Sometimes I used to ride bikes with my friends in the neighborhood and outside the neighborhood. There were about six of us on bikes. One time we rode to another city called Pereira. It took us two hours to go and three hours to come back. It was quite extreme at that age, as teenagers. We didn't tell our parents because they would have punished us. I remember this time in Cartago with gratitude. I liked it when it happened. My mother was the one who provided the money.
+
+2. **Sold 3 heat stations for cell phone repair for 100,000 pesos but considered asking for more**
+
+**Anecdote: dated 28/05/2024**
+
+A neighbor who works as a cell phone repair technician asked me if I still had three heat stations for sale. I said yes. Then he asked, "How much will you sell them for?" I replied, "How much will you offer for them?" He said 100,000 pesos. So, I told him I would bring them to him the next day, and I did.
+
+But I thought he offered too little and saw an opportunity to charge him 100,000 pesos and also ask for a second-hand cell phone in good condition. He agreed to give me the cell phone but only with 50,000 pesos, half of the 100,000 pesos. But I didn't accept his offer and went back home with the heat stations.
+
+And here's where the funny part of the story begins, with my mother, who was very curious to know why I came back with the stations. I told her he was offering me half of what we agreed on plus a cell phone, and I didn't accept. I wanted the full 100,000 pesos plus the cell phone, but he didn't agree. I tried to be smarter than him, and that's where my mother, my own mother, started teasing me, saying I'm not the type of person to trick others with words.
+
+It was positive teasing, but because I'm not much of an outgoing person, which is true, it was very funny because she couldn't stop laughing, which made me laugh too, and we laughed together.
+
+But inside, I thought: my mother knows me and might think I made a bad deal because I'm not the type of person who can trick others with words. My tendency is more to be a good listener and not talk much. So, it was very funny that I tried to be that way, and of course, it was normal that I couldn't convince the other person to pay me the full 100,000 pesos plus a cell phone.
+
+3. **Got a scar on the right wrist from being caught in the front wheel of a bicycle**
+
+**Anecdote:**
+
+I have a scar that is no longer very noticeable on my right wrist. I'll describe what happened. It was one of my teenage adventures in Cartago with one of my friends. We both went out on bikes to the nearest city called Zaragoza, about 30 minutes from the town where we were. That's the name of the town where my family lived at that time.
+
+We decided to go to Apartado because there were bike tracks for jumping ramps. We had a lot of fun, and it got late for us to return. So, on the way back, I had my friend on the bike bar, and we decided to switch. It was my turn to ride on the bike bar while he pedaled. On the way, there was a hole he couldn't avoid, and at that moment, my hand got caught in the front wheel of the bike.
+
+It was terrible because, besides being trapped, I couldn't free my hand, and it hurt a lot. We fell, but I couldn't free my hand. We had to walk the rest of the way with my hand trapped in the front wheel of the bike. Twenty minutes later, we arrived at the first house in town, and it was there that, with a tool, we managed to free the front wheel and release my hand. That's how I got the scar.
+
+4. **Saved two girls from drowning in the sea (26/05/2024)**
+
+**Anecdote: dated 26/05/2024**
+
+My aunt Gloria came to visit us. She lives in another city, in Cartago, Valle del Cauca, but by plane, the distance is reduced to 45 minutes. She stayed with us for 25 days. 
+
+And on 26/05/2024, as a farewell gift, three days before she was to return to her city where she lives with her daughter Leydi, my sister decided to give her a farewell gift by taking her to the beach with the whole family. The anecdote happened at the beach.
+
+We were sharing and enjoying a lot as a family. We had already swum several times. After resting from lunch, which was a delicious fried fish with coconut rice, just remembering it makes my mouth water again. That lunch was very tasty.
+
+So, I decided to go back into the sea, but since I don't often go to the sea, I intended to stay in the water for a long time, bathing and enjoying the scenery, enjoying the gentle waves. It's very fantastic.
+
+And the amazing part of the anecdote is that there were three girls, and two of them were drowning. I saved them.
+
+But at first, I didn't believe they were drowning until I asked them, "Are you serious?" That's when I could see their looks in more detail. And one of them spat out a bit of vomit and started crying. That's when I reacted very quickly and took the most scared one by the hand.
+
+I managed to take her to a safer place where she could touch the ground and walk towards the sand. Then I went back for the other girl who was less scared. I took her by the hand and did the same. The third girl knew how to swim and was a bit taller, so she got out on her own. I felt very happy and grateful to God at that moment for allowing me to live that experience of doing good to another human being of that magnitude.
+
+Another aspect that made my task easier was my height, where we were. The water level wasn't very high for me, and I could touch the ground. Otherwise, it would have been very difficult because I understand that a drowning person can drown another person trying to save them.
+
+Thank God everything ended well, and with the following words from my mother: "Son, God wanted you to be here for that reason."
+
+5. **Watched the movie AI in university psychology class and cried**
+
+**Anecdote:**
+
+I had an anecdote with my classmates at university. We were in a psychology class, and the professor decided to teach us about artificial intelligence through the movie "AI," where a mother with a son in a coma is assigned a robot son with artificial intelligence. 
+
+And honestly, that movie seemed very dramatic and sad. I couldn't control my tears. I cried and laughed with my classmates at the same time. Wow, that's something I'll never forget.
+
+
+
+
+
+
+                      #  
+<:)                   # session fin                                                       
+#:1) 31/05/2024       # sesion de estudio/practica: "BASE DE DATOS Miguel Gutierrez"
+}

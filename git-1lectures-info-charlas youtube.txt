@@ -1,0 +1,446 @@
+¿Qué es Git y cómo funciona? - La mejor explicación en español
+
+
+
+repositorio local "bare"
+D:\1acumulacion-ftp\z-repositories\1lectures-r-pc1
+
+
+
+$ git config --local init.defaultBranch main
+fatal: --local can only be used inside a git repository
+
+
+$ git config --global init.defaultBranch main
+no muestra error
+
+
+$ git init --bare 1lectures-r-pc1
+Initialized empty Git repository in D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1/
+
+
+clonar en repositorio vacio bare que acabo de crear en una carpeta vacia:
+git clone  D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1/ .
+
+
+4-
+
+git fetch
+
+cambios pendientes por bajar 
+fech:
+nos permite bajar y comparar con lo que se tiene antes de hacer el pull
+
+pull:  baja
+Fetch: nos permite bajar y comparar con lo que se tiene antes de hacer el pull. 
+
+siempre es muy bueno utilizarlo por que cuando estamos trabajando con un equipo nosotros no sabemos que cosas hay nuevas.
+es la mejor practica que se tiene para git siempre realizar un fech antes de un pull 
+para hacer siempre las comparaciones en nuestro local
+y asi poder evitar los conflitos
+los conflictos si se pueden resolver pero siempre nos toman halgo de tiempo para darle la solucion.
+
+primero el Fetch antes del pull:
+con el fin de que nuestros cambios siempre se vean afectados antes en nuestro local
+antes de subirlos a nuestro github
+
+quiero saber que ha cambiado, pero no necesaria mente quiero que aparezca aqui 
+porque yo estoy trabajando en algo 
+yo estoy en una estructura 
+y no quiero que afecte para nada a lo que yo estoy haciendo 
+sin embargo quiero enterarme que cambios ha habido 
+y esta es la tipica frace de git qwue te dice: 
+HAZ UN FETCH
+hagan fetche al proyecto que ha habido cambios.
+o revisen los cambios
+
+git fetch origin                   : inclusive podemos espesificar la rama en la que queremos hacer FETCH
+git fetch github                   : git fetch origin nombre-rama  
+                                   
+: pero al hacerlo sin especificar la rama,
+nos trae automaticamente 
+todos los cambios que ha habido en todas las ramas de nuestro repositorio (proyecto) 
+
+pero no los carga directamente en nuestro codigo "esta es la ventaja"
+sino que:
+para saber que ha traido podemos utilizar el siguiente comando:
+git branch -r
+  github/master
+  origin/master
+
+y despues nosotros podemos:
+
+git diff origin/master
+
+
+y a qui me dice exactamente en donde ha cambiado.
+por ejemplo en el archivo contacto.html ha habido estos cambios.
+de esta forma yo puedo ya ser mas consiente 
+de que si quiero unirme directamente unirme con esa rama 
+de que, si quiero hacer un merge 
+de que si puedo resolver ese conflicto
+o todavia voy a avanzar a hacer cosas antes de hacer un conflicto
+a diferencia de un pull que automaticamente lo junta todo
+el fetch nos da esta ventaja de que trae todo 
+pero nosotros tenemos la decicion de que
+todavia no quiero juntar esto porque voy a cambiar esto
+o quiero correguir esto o algo asi.
+entonces despues de haber tomado la decicion ya podriamos hacer despues de un git fetch un 
+git merge origin/main  (por ejemplo) 
+que se mezcle todo con el main mi rama actual 
+ahora si ya trae todo lo demas que teni contacto.
+y todo esto lo hace directamente el 
+git pull 
+pero no siempre, pero no siempre vamos a querer nosotros que estos cambios se reflejen en nuetro repositorio local
+
+
+la rama principal de GitHub se llama: main
+
+como cambiarle el nombre a la rama principal master de nuestro repositorio local 
+para que quede igual a "main" que en github:
+
+git branch -M main   : quiere decir que a la rama que esta por defecto activada (master) le pondra main
+ 
+si hago un git branch de las ramas para ver cuantas hay:
+git branch
+
+ahora que ya me nivele con el directorio github ahora si es sencillo hacer un git push
+git push origin main 
+
+sol-error:
+git push --set-upstream origin main
+
+es para que automaticamente cuando escriba origin ya no sea necesario escribir, especificar  la rama main 
+ej:
+git push origin
+
+y ahy esta ya estoy alineado directamente aqui con el reposotorio 
+
+git add blog.html   : solo sube los cambios de blog.html, no todos los cambios 
+
+tipico git que ya conocemos
+git commit -m "cambios en blog"
+
+git push origin 
+
+y ya esta.
+son formas de trabajar.
+
+ref: Tutorial Git y Github para principiantes - Git básico desde Cero.
+https://www.youtube.com/watch?v=uhzD2X2vKR0&t=3450s
+
+
+
+$ git pull github master
+
+
+
+
+
+-3
+
+crear un repositorio de la carpeta "1lectures"
+lectures-repository/1lectures
+
+lectures-repository: repositorio de la carpeta "1lectures"
+1lectures: carpeta auto-up-load to en terabox
+o debo auto-up-load el repositorio local contenedor de 1lectures (lectures-repository) ???
+posible mente es mejor opcion
+
+
+Git+GitHub: Primeros comandos git config git help
+https://www.youtube.com/watch?v=EaJP9Wnfr3o
+	git --version
+	clear
+	git help
+	git help commit 
+
+	q: letra que es quit en git, para cerrar pantallas (:)
+
+	lo primero es decirle a git quienes somos, quien soy, identificamer, para que el sepa quien va a creer un repositorio. 
+	ejemplo: yo soy Miguel y este es mi correo electronico.
+
+global: se relaciona con la maquina y todos los repositorios creados en la maquina, so lo se configura o crea una vez.
+	git config --global user.name "Miguel"
+	git config --global user.email "miguelepst@gmail.com"
+
+	ok:usare este 
+	local: se relaciona con el repositorio en particular, debes crearlo por cada repositorio que crees. 
+	git config --local user.name "Miguel"
+	git config --local user.email "miguelepst@gmail.com"
+
+	como hacer cierto tipo de seguridad en mi repositorio.
+
+	donde estan esos registros que configuramos:
+	git config --global -e
+	git config --local -e
+
+
+	fatal: --local can only be used inside a git repository
+
+
+	para salir de editor de git: presionar (: + q + enter), sin salvar la informacion.
+
+	esto crea el archivo de config "valido para git"
+
+Git+GitHub: Primeros comandos git config git help
+https://www.youtube.com/watch?v=EaJP9Wnfr3o
+
+
+ok: git-bash.exe : desde git-bash
+ok: ruta: Miguel G@DESKTOP-0ASVSI9 MINGW64 /d/1acumulacion-ftp/z-repositories
+
+ok: git init --bare 1lectures-r-pc1
+             # "Es como inicializar un repositorio remoto
+                pero en local en otra carpeta defirente a la del projecto en tu mismo pc"
+
+hint: Using 'master' as the name for the initial branch. This default branch name
+hint: is subject to change. To configure the initial branch name to use in all
+hint: of your new repositories, which will suppress this warning, call:
+hint:
+hint:   git config --global init.defaultBranch <name>
+hint:
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+hint: 'development'. The just-created branch can be renamed via this command:
+hint:
+hint:   git branch -m <name>
+Initialized empty Git repository in D:/1acumulacion-ftp/z-repositories/1lectures-r/
+
+esta es la ruta del repositorio:
+Initialized empty Git repository in 
+"D:/1acumulacion-ftp/z-repositories/1lectures-repository/"
+
+
+ok: folders backed up "Terabox"
+View backup progress
+z-repositories
+(D:\1acumulacion-ftp\z-repositcries)
+
+
+clonar en repositorio vacio bare que acabo de crear en una carpeta vacia:
+git clone  D:/1acumulacion-ftp/z-repositories/1lectures-r-pc1/ .
+
+
+
+ok: Miguel G@DESKTOP-0ASVSI9 MINGW64 /d/1acumulacion-ftp/1practica-diaria/1learn/1english/1lectures
+$ git clone  D:/1acumulacion-ftp/z-repositories/1lectures-r/ .
+Cloning into '.'...
+warning: You appear to have cloned an empty repository.
+done.
+
+ok: se hiso un truco, se vacio el contenido de la carpeta, se paso la informacion del proyecto 1lectures a otra ubicacion temporal 
+ok: se creo el repositorio y finalmente se volvio a pasar la informacion de del proyecto a la carpeta que ya posee ".git" relacion al repositorio del proyecto 1lectures.
+ok: coloco "1lectures" para que windows lo posicione visalmente como el primero enla lista de directorios, facilidad de identificacion.
+
+
+consulto verifico configuracion:
+	git config --local -e
+
+[core]
+        repositoryformatversion = 0
+        filemode = false
+        bare = false
+        logallrefupdates = true
+        symlinks = false
+        ignorecase = true
+[remote "origin"]
+        url = D:/1acumulacion-ftp/z-repositories/1lectures-r/
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+~
+~
+
+
+
+le creo id de usuario local al repositorio local:
+	local: se relaciona con el repositorio en particular, debes crearlo por cada repositorio que crees. 
+	git config --local user.name "Miguel"
+	git config --local user.email "miguelepst@hotmail.com"
+vuelvo y verifico listando la informacion: 
+	git config --local -e
+
+[core]
+        repositoryformatversion = 0
+        filemode = false
+        bare = false
+        logallrefupdates = true
+        symlinks = false
+        ignorecase = true
+[remote "origin"]
+        url = D:/1acumulacion-ftp/z-repositories/1lectures-r/
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+[user]
+        name = Miguel
+        email = miguelepst@hotmail.com
+~
+
+
+
+
+no: git init .
+             # "Es como inicializar un repositorio pero en la misma carpeta del proyecto 
+
+
+
+ok: que nos ofrece git cuando ya hemos creado el repositorio: 
+
+git status  : "letras en color rojo" cosas que existen en el folder(carpeta repositorio, proyecto) pero no han sido registradas en ningun lugar.
+git add .   : agregar todo lo que esta en la carpeta para que git sepa que se va a introducir en el repositorio.
+
+
+error warning:
+warning: LF will be replaced by CRLF.
+Depending on the editor you are using, a text file with LF wouldn't necessary be saved with CRLF: recent editors can preserve eol style. But that git config setting insists on changing those...
+
+Simply make sure that (as I recommend here):
+
+git config --global core.autocrlf false
+or
+ok(elegido): git config --local core.autocrlf false
+
+
+
+$ git add .
+error: open("Sena/L10/Actividades evidencias/Calificables/L10 - 2 - L10 AA1-EV02 Foro Situa
+ciones laborales y personales (Writing)/L10 AA1-EV02 Actividad de aprendizaje 1Foro Situaci
+ones laborales y personales (Writing) AA1-EV02 Vencimiento lunes 10 de junio de 2024.txt"):
+Filename too long
+
+ok: se acorta el nombre del archivo a: L10 AA1-EV02 Actividad de aprendizaje 1Foro.txt
+
+ok: $ git add .   : todo el testo en verde.
+
+Miguel G@DESKTOP-0ASVSI9 MINGW64 /d/1acumulacion-ftp/1practica-diaria/1learn/1english/1lectures (master)
+$ git status
+On branch master
+No commits yet
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+... files ...
+... files ...
+etc...
+
+ok: vuelvo a configurar la carpeta "1lectures-r" (r: ya posee repositorio) para "auto-up-load-tera" copia de segurida en la nube (servidor terabox)
+
+git commit -m "Mi primer commit"
+ok: git commit -am "Mi primer commit" : mi primera imagen del proyecto en el repositorio.
+
+ok: rutaX/> git push
+             # "Coje mis cambios locales y me los envia a mi remote
+               (Para este caso la carpeta remota en el mismo pc)"
+
+Enumerating objects: 189, done.
+Counting objects: 100% (189/189), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (181/181), done.
+Writing objects: 100% (189/189), 28.67 MiB | 6.62 MiB/s, done.
+Total 189 (delta 9), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (9/9), done.
+To D:/1acumulacion-ftp/z-repositories/1lectures-r/
+ * [new branch]      master -> master
+
+
+
+git status  : nada que hacer commit, trabajando en un arbol limpio.
+git log     : ver informacion de los commits
+
+git commit -am "pue mas contexto"
+
+vincular nuestro repositorio remoto que tenemos en GitHub con nuestro repositorio local en GIT.
+
+git remote add origin https://github.com/Miguelepst/1lectures-r.git
+
+error:
+$ git remote add origin https://github.com/Miguelepst/1lectures-r.git
+error: remote origin already exists.
+
+soluciones:
+git remote -v
+    origin  D:/1acumulacion-ftp/z-repositories/1lectures-r/ (fetch)
+    origin  D:/1acumulacion-ftp/z-repositories/1lectures-r/ (push)
+
+
+You should just update the existing remote:
+git remote set-url origin https://github.com/Miguelepst/1lectures-r.git
+
+or:
+
+To add a new remote, called for example github instead of origin (which obviously already exists in your system), do the following:
+git remote add github https://github.com/Miguelepst/1lectures-r.git
+
+git push github master
+
+ok: Authentication Succeeded
+You may now close this tab and return to the application.
+
+$ git push github master
+Enumerating objects: 189, done.
+Counting objects: 100% (189/189), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (181/181), done.
+Writing objects: 100% (189/189), 28.67 MiB | 4.47 MiB/s, done.
+Total 189 (delta 9), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (9/9), done.
+To https://github.com/Miguelepst/1lectures-r.git
+ * [new branch]      master -> master
+
+
+
+
+ok: ya esta vinculado nuesto git en el local con nuestro github que es el remoto.
+
+git push origin main : con esto estamos subiendo todo lo que tenemos en la rama main(rama principal: los commits) a nuestra rama principal de github. o repositorio en la nube(remoto)
+ok:  git push github master
+
+al darle enter se estaran subiendo las cosas de nuestro repositorio local al remoto de github.
+
+ya podemos ir a nuestro github y refrescar la pagina para ver que ya se ha subido nuestro repositorio.
+
+ok: repositorio bare en local y repositorio github relacionados a nuestro carpeta 1lectures
+
+
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean        "10:47 pm 24 08 2024 "
+
+
+
+
+
+
+
+seguir las etiquetas con "ok:" fueron las opciones elejidas a plicar y que funcionaron.
+
+
+
+
+
+
+2-
+
+ok: cada commit debe representar algo especifico, lo que sea pero debe representar algo especifico.
+ok: debes escribir de que se trata ese commit, .
+
+ok: se trabaja con la rama dev, la rama master se cuida, solo los admin del proyecto pueden modificarla 
+ok: en los MERGES (merges) pueden haber conflictos y eso es reiesgozo.
+
+clientes graficos GIT: GitKraken, Sourcetree, Github desktop : te muestran las figuritas, los graficos.
+
+ok: rama remota suele llamarse ORIGEN y puedes estar en una de las siguientes empresas  
+ok: plataformas para usar repositorios en la nube son empresas: las tres mas comunes Github, BitBuket, GitLab "esta cogiendo fuerza"   
+ok: Rama local suele llamrse MASTER. Y la remota ORIGEN puede apuntar a: Github(una de las tantas empresas que dan repos en la nube), BitBuket, GitLab, para empesar usa repos publicos. 
+
+-1
+
+
+_______
+Base
+¿Qué es Git y cómo funciona? - La mejor explicación en español
+https://www.youtube.com/watch?v=jGehuhFhtnE

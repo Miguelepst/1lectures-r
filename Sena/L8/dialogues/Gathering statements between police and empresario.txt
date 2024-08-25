@@ -1,0 +1,30 @@
+#
+March 7th - 18:30 - Dialog Gathering statements
+
+
+Police: Good afternoon, sir. We're here to gather statements regarding the incident that occurred at your establishment last night.
+
+Entrepreneur: Oh, hello officers. Of course, I'll do my best to assist you. What do you need to know?
+
+Police: We need a detailed account of what happened from your perspective. Can you walk us through the events leading up to the incident?
+
+Entrepreneur: Certainly. It was a busy night, as usual, and everything was going smoothly until a group of unruly customers started causing trouble near the bar.
+
+Police: Did you notice anything specific about the group or what might have triggered their behavior?
+
+Entrepreneur: Well, they seemed to be quite intoxicated, and there was some argument over a spilled drink that escalated quickly.
+
+Police: Did you or your staff attempt to intervene or defuse the situation?
+
+Entrepreneur: Yes, we tried to calm them down and asked them to leave peacefully, but unfortunately, things got out of hand.
+
+Police: Were there any injuries or damage to property?
+
+Entrepreneur: Thankfully, no one was seriously hurt, but there was some minor damage to furniture and glasses.
+
+Police: Thank you for your cooperation. Your statement will be valuable for our investigation. If you think of anything else that might be relevant, please let us know.
+
+Entrepreneur: Of course, officers. I'll inform my staff to be on the lookout for any suspicious behavior in the future.
+
+#
+#

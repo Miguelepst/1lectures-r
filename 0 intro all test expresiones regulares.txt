@@ -1,0 +1,9 @@
+
+#
+limit Speechify: Ln 32, Col 1 (18082 selected) Spaces: 4 UTF-8 CRLF Markdown 7485 words (3415 selected)
+#
+Ln 155, Col 1 (4936 selected) Spaces: 4 UTF-8 CRLF Markdown 7691 words (967 selected)
+#
+([0-9]+(:[0-9]+)+)    -->	1:24:07
+#
+[0-9]+:[0-9]+         -->	00:00

@@ -1,0 +1,664 @@
+D:\1acumulacion-ftp\practica-diaria\1english\1 lectures\eng rutine 1 pc.txt
+
+
+ok: Microphone USBAudi01.O Default Device (wifi 2.5Hz) como default
+ok: configurar linea 1(virtual Audio Calbe) por defecto en el sonido de windows
+
+
+ok: AudioRelay configurar Audio device, como linea 1(virtual Audio Calbe) o Speakers (2 High Definition Audio Device)
+de lo contrario no escucharas el audio del pc y conectar el plug de los audifonos para silenciar los speaker 
+de esta manera escucharas solo en el manos libres blutooth del celular que este conectado a AudioReplay.
+
+
+ok:modificar ruta de guardado OBS a(D:/1acumulacion-ftp/info-windows/para-enviar-a-la-nube-terabox/Videos/obs)
+
+descargar clonezilla para arquitectura de pc UFI
+
+ok: como eliminar hitorial de navegacion para algunas paninas.
+o como no crear historial de navegacion: nevega desde el perfil de invitado.
+
+ok: EzUnlock: descargar software opensource que permita eliminar archivos o carpetas que no se dejan eliminar en windows 
+    pero si no permite borrar por motivo de alerta devirus en el sistema operativo windows 
+    debes crear una excepcion en la proteccion del antivirus. 
+
+
+ok: EDGE no permite vervideos desde la pagina de youtube "restriccion ADS", solucion(Stands AdBlocker) extension
+Stands AdBlocker: extencion navegador Chrome and Edge Microsoft: 
+https://chromewebstore.google.com/detail/stands-adblocker/lgblnfidahcdcjddiepkckcfdhpknnjh?utm_source=google&utm_medium=cpc&utm_campaign=21161271820&utm_content=169150839028&utm_term=yt+ad+blocker&gad_source=2&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnBhwSkxiG18gBiQJuRDPWTFoly-EP7mUuSj91QYJhCmJiUwLNnAwfAaAloEEALw_wcB
+fue la unica encontrada que soluciono la ventana de restriccion de ver video de youtube en el navegador Edge.
+
+
+ok: eliminar archivos y carpetas que no se dejan eliminar desde la linea de comandos:
+rd /s {nombre de carpeta a borrar} 
+
+
+11-
+
+Comprar un disco duro solido como herramienta de trabajo para guardar imagenes de particiones y no usar uno mecanico y lento para cloneZilla.
+
+CloneZilla: crear imagen del disco despues de la configuracion de los gavegadores cuentas y la instalacion y configuracion de extensiones.
+
+ok:(v1) terminar de introducir las cuentas de gmail en (EDGE y Chrome portable en C) navegadores web he instalar extenciones a cada perfil de cuenta
+esto me tomo casi todo un dia, toma muchas horas y es agotador, despues de esto crear imagen del disco con cloneZilla.
+
+ok: establecer carpetas auto up tera carpetas letter and info-windows (y sub carpetas videos, pictures, audio, doc, etc... )
+
+ok: configurar accesos directos he instalar cliente windows: WhatsApp, Telegram, emailWeb Hotmail y Gmail con el perfil miguelepst@hotmail.com y miguelepst@gmail.com 
+
+ejercitar uso de preposiciones: de, la, en, por, en inglish, hacer oraciones que contengan muchas de estas preposiosiones. 
+
+
+This is the ULTIMATE SUPER USB Tool to REPAIR *Any Windows*
+https://www.youtube.com/watch?v=TPaVPodTK84
+si sobra almacenamiento podemos particionarlo he instalar una ultima herramienta que recomiendo mucho: windows live USB puede ser un win 10 , un win 8., win7 el que querais, la idea de esto es tener un windows portable gravado en nuestro pendrive para usar sus herramientas y reparar otro equipo.  
+
+
+OK: Clona tus discos duros o maquina virtuales con Clonezilla
+https://www.youtube.com/watch?v=viqZMQ7Ms28
+como tener un respaldo de la particion del sistema operativo para recuperacion repida y efectiva que herramienta sirbe para esto, 
+que no solo sea wiondows restaurar te ha quedado mal este tipo de herramientas.
+
+
+
+ok: FTP fillaZilla: install and configurar, configurar IP estatica: 192.168.1.84 cable de red ethernet, 
+puerta de elace predeterminada: 192.168.1.1, dar los permisos al firewall de windows para la aplicacion FileZilla FTP.
+eliminar accesos directos de Filezilla en el escritorio
+
+
+
+10-
+
+ok: instalar configuracion de particiones pero dejarlo desactivado y solo activarlo cuando quieres probar algun nuevo programa que no requiera reinstalacion.
+solucion rapida para crear copia deseguridad de particion de sistema operativo(mantener toda la configuracion de cuentas)
+-mantener el congelador de particiones desactivado, solo congelar particines para instalar aplicaciones con el fin de que se borren cuando se reinicie el portatil. (Pyton, Vlc, Vscode, etc) windows debe trabajar lo mas liviano posible en lo probable solo dos navegadores edge and chrome
+
+ok: OBS cambiar ruta de guardado  particion D  (D:/1acumulacion-ftp/info-windows/para enviar a la nube terabox/Videos)
+
+ok: ShareX: cambiar ruta de guardado a particion D, D:\1acumulacion-ftp\info-windows\para enviar a la nube terabox\ShareX\Screenshots
+ShareX\Screenshots\2024-08
+
+ok: crear accesos directos: auto-up-terabox, para enviar a la nube terabox, ya-enviado-a-terabox-para-borrar "administrar contenido que se sube a la nube tera box"
+
+
+ok: IriunWebcam Celular to WebCam by wifi 5m: instalar, servidor 
+
+ok: Audiorelay: audio y microfono del pc al celular, instalar, configurar tema dark,  este es bueno porque tengo de manera inalambric microfono y audion de ambos dispositivos Portatil y Celular, y ya lo entiendes y lo sabes manejar, es buena opcion de microfono pero debes asercar el microfono del celular a tu boca.
+
+
+ok: F. lux,  instalar el filtro protecto de vista en pantalla
+
+
+ok: zoomIt: instalar dibujar y escribir en windows over all y configurar: Run Zoomlt when Windows starts
+
+ok: OBS: descargar e instalar y configurar remux to mp4, area de grabar en Ai Pi, Microfino por defecto.
+
+ok: Zoom: installar e iniciar session y mantenerla iniciada.
+
+ok: ShareX: configurarlo para que grave videos con el audio interno del pc "para esto ya debe estar funcionando el cable virtual (debe estar emitiendo sonido, como predeterminado en windows)"
+Install recorder devices... probar haciendo una grabacion de youtube
+
+ok: VIRTUAL_AUDIO_CABLE_4.10.rar : descargar e instalar, el truco esta enla pestaña que activa y desactiva escuchar el microfono, debes seleccionar la salida del parlante para que ingrese por el microfono
+
+
+ok: Winrar: descargar  mas key de tera 
+
+ok: ShareX-15.0.0-portable : ShareX-16.1 .O-setup.exe 39.15 MB 986,384  configurar teclas de acceso rapido, y OCR text.
+https://getsharex.com/downloads 
+configurar control + e para abrir la carpeta de capturas
+
+ok:terabox, instalacion (C:\Users\Miguel G\AppData\Roaming\TeraBox)
+
+
+ok: los manos libres inalambricos debes desactivarle su microfono desde windows en configuracion de sonido del sistema. 
+y configurar como predeterminado el Microfono USB, para usar esta configuracion primero activas el microfono y lo ensayas 
+en la pagina Web de Ai Pi, una vez el mic esta ok, prendes los manolibres bluetooth cualquiera de los dos.
+
+
+ok: ejercitacion con Ai Pi: 55 minutos
+donde silencio el microfono, 
+
+ok: blutooth-csr4-harmony-drives-soft, se crea copia de seguridad drivers y software adaptador Bluetooth
+Se instala y funciona bien con: hands free audio se escucha bien y se coloca la Dongle antena bluetooth 
+en una estenxion usb para posicionarla en alto y tener mas cobertura de esta señal.
+ 
+
+ok: Computador daño no carga el S.O. se formatio "se daño"
+
+9--
+
+
+Cómo poner GOOGLE en Nueva Pestaña Microsoft Edge Chromium
+Pagina principal: 
+https://www.bing.com/
+pasandote para navegador EDGE de Microsoft
+
+8--
+
+
+ok: instalar microfone level real time: SetupDigitalLevelMeter190
+
+ok: Como ELIMINAR el icono del TIEMPO y Noticias de la Barra Tareas Windows 10
+https://www.youtube.com/watch?v=xVrTSodJ8Us
+
+
+ok: Como dibujar sobre la pantalla de tu Pc o Laptop
+https://www.youtube.com/watch?v=o3BPboJWi80
+ZOOMIT AQUI
+https://docs.microsoft.com/en-us/sysinternals/downloads/zoomit
+?: Run Zoomlt when Windows starts
+
+ok: extension chrome 1VPN y pinearla : cuenta general miguelepst@gmail.com
+https://chromewebstore.google.com/detail/free-vpn-adblock-1vpn/akcocjjpkmlniicdeemdceeajlmoabhg
+
+
+
+
+
+ok: Digital lelvel meter, app que muestre estado del microfono activo o desactivo, fijarlo en escritorio. 
+https://www.darkwooddesigns.co.uk/pc2/meters.html#Digital
+https://softwarerecs.stackexchange.com/questions/80714/system-tray-microphone-meter
+
+
+ok: instalar IriunWebCam to beacome your smartphone on a webcam for you PC by wifi 5M, pero que no cargue automaticamente con SO, y crearle acceso directo al scritorio
+
+
+
+
+ok: extension chrome instalar en perfil adecuado para test (Ai Pi, Ai ChatGPT): perfil general miguelepst@
+Weava Highlighter - PDF & Web
+https://chromewebstore.google.com/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei
+
+
+ok: instalar extencion en el perfil Ai Pi @ y desistalar el que fallo: Weava Highlighter - PDF & Web
+extencion marcador esta borrando las palabras de Ai Pi cuando marco 2 palabras, me obliga a actualizar la pagina para que se puedan ver
+extencion marcador fallo en cuenta Ai Pi, se borraron todas las palabras marcadas, toco buscarlas nuevamente, buscar otra extension a probar.
+
+
+
+ok:desistalar micMute reiniciar y volver a instalars
+
+ok:desactivar todos los microfonos menos la AutoRelay y USB Audio 1.0 y dejar por defecto el microfono en off en MuteMic y en mute mic el dispositivo es: microfono AutoRelay, y desconectar el microfono alambrico, que solo se active cuando se conecte.
+ 
+
+ok: crear acceso directo: Screenshots D  Shortcut en documents particion C (D:\1acumulacion-ftp\temporal\Apps\ShareX\Screenshots\folder\docs)
+
+ok: XShared: cambiar el tiempo de inicio de la gravacion a 2 secons.
+
+-
+ok: tool on line
+	https://charactercalculator.com/es/text-compare/
+-
+
+2.4 GHz connection USB-C dongle lightweight design Neckband Sport Wireless gaming headset
+https://www.globalsources.com/Gaming-headset/dongle-Wireless-gaming-headset-1205473596p.htm
+Modelo: HWS-002G-#7896
+Feature: Comfortable & Lightweight Sport Open Ear Stereo Wireless  Gaming Earbuds with Dongle/Dual model  /with  Detachable Microphone  /ENC dual mic /dongle&bluetooth /button control      
+*IPX5 waterproof
+*Dual Mic noise reduction for clear call
+*Detachable Microphone with omnidirectional microphone
+*Support Bluetooth and 2.4G connected
+
+
+opcion 2:
+https://www.globalsources.com/product/high-quality-oem-bc10-headphone_1208080873f.htm?source=Search_Product_to_PP
+2.4 GHz Connection USB-C Dongle Surround Sound Lightweight Design BC23 Wireless Gaming Headset for PS4 Xbox
+US$ 19.99 - 29.99 / 1 Piece
+1 Piece Minimum order
+
+
+
+
+
+ok: crear acceso directo de (D:\1acumulacion-ftp\temporal\Apps\ShareX\Screenshots) "ShareX-Screenshots-Shortcut" en carpeta videos de particion congelada C
+
+ok: tera box configurarlo para que arranque con el sistema operativo windows
+
+7-- 
+
+
+
+
+
+ok:descargar instalkador VSCODE 
+
+--
+Miguel's gmail accounts: 
+1: Speechify text to speech
+conmiguel.col@gmail.com : +57 312 4872877
+
+2: NaturalReader text to speech
+errores.sys@gmail.com
+NaturalReader errores.sys@
+
+3: Pronounce
+libertymiguel@gmail.com
+        https://chromewebstore.google.com/detail/pronounce-speech-and-pron/fbjmlmabammiejnfkmgjhdcnjdahblaj?hl=en-US&utm_source=ext_sidebar
+Pronounce libertymiguel@
+
+
+4: Grammarly: AI Writing and Grammar Checker App: 
+https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en-US&utm_source=ext_sidebar
+miguelepst03@gmail.com
+
+Grammarly miguelepst03@
+
+
+5: https://www.perplexity.ai/
+https://chromewebstore.google.com/detail/ai-speakeasy-microphone-f/aoiogfieipljfbeapbfaegmngkoiclbf?hl=en-US&utm_source=ext_sidebar
+miguelepst1@gmail.com
+Ai perplexity miguelepst1@
+
+6: General Miguelepst
+miguelepst@gmail.com
+Miguelepst miguelepst@
+
+
+7: Ai claude
+https://claude.ai/login?returnTo=%2F%3F
+https://chromewebstore.google.com/detail/ai-speakeasy-microphone-f/aoiogfieipljfbeapbfaegmngkoiclbf?hl=en-US&utm_source=ext_sidebar
+payzamiguel@gmail.com
+Ai claude payzamiguel@
+8: payzamiguel@gmail.com
+
+9: Ai chatgpt
+so.miguel.ai.chatgpt@gmail.com
+Ai chatgpt so.miguel.ai.chatgpt@
+
+10: Ai Pi
+so.miguel.ai.pi@gmail.com
+Ai Pi so.miguel.ai.pi@
+
+11:
+solucionando-aux@gmail.com
+--
+
+
+
+
+6--
+
+perfiles de cuentas "Who's using Chrome":
+Ai Pi Miguel: 
+so.miguel.ai.pi@gmail.com
+
+Ai ChatGpt Miguel: 
+so.miguel.ai.chatgpt@gmail.com
+Ai ChatGpt so.miguel.ai.chatgpt@
+
+So Miguel ok empty: 
+so.miguel.ok@gmail.com
+So Miguel ok empty so.miguel.ok@
+
+
+General Miguel Gmail: miguelepst@gmail.com
+
+
+
+cambiar configuracion de microfono a una tecla "F4" on/off
+
+
+crear acceso directo TeraBox en escritorio y en access refresh automatic Uploads ya no inica con el sistema operativo 
+
+ok: crear Quick Access> Desktop en el explorador de windows
+
+--
+ok: creacion cuenta gmail segun el perfil del profesor "Ai Pi" : so.miguel.ai.pi@gmail.com
+y adicionarle y configurar las app extenciones relacionadas a este perfil que trabajen bien y activar la sincronizacion 
+el navegador solo posees las caracteristicas minimas para trabajar bien con este asistente virtual Pi.
+despues de esto volver a congelar particiones.
+--
+
+ok: OBS: estableser area de grabacion para Ai Pi tecla Alt plus seleccion mouse
+ok: OBS: actualizar ruta D:\1acumulacion-ftp\temporal\ya-enviados-a-tarabox\temporal-para enviar-a-terabox
+ok: zoom iniciar session: en modo unfrezer 
+--
+ok: encontral appweb que permita eliminar los silencios en los videos, puede ser filmora app android ?."instalar en frezen"
+https://www.youtube.com/watch?v=IENbktZtjXQ
+C:\Users\Miguel G>python --version
+auto-editor D:\1acumulacion-ftp\temporal\ya enviados a tarabox\temporal para enviar a terabox\2024-08-01-04-48-46.mp4
+auto-editor 2024-08-01-04-48-46.mp4 
+auto-editor 2024-08-01-04-48-46.mp4 --margin 0.2sec
+--
+
+ok: OBS configurar para que guarde temporalmente en partiicon descongelada "D": D:\1acumulacion-ftp\temporal\ya enviados a tarabox\temporal para enviar a terabox
+
+ok: descargar el instalador de cupcut he iniciar sesion con miguelepst@gmail.com se instala con particion congelada se que toma mas tiempo pero, es solo de uso temporal, se necesita el ps lo mas liviano posible. 
+esta en la carpeta: D:\1acumulacion-ftp\temporal\Downloads in D\apps
+cupcut minar manera de exportar o guardar file cupcut.
+
+
+---
+ok: whisper ai online upload audio file: Speech to Text Free Tool: https://whisperapi.com/speech-to-text-free-tool 
+adicionarla a los accesos directo y a los marcadores de miguelepst@gmail.com
+busqueda google: whisper ai online upload audio file free online
+---
+
+
+
+
+
+ok: fijar teclado spanish`por defecto en windows
+
+
+
+5--
+
+ok:activar segunda cuenta navegador so.miguel.ok@gmail.com e aberiguar como borrar un hilo en Pi Ai.
+
+descargar instaladores de clientes Whatsapp y telegram para trabajarlos en particion congelada.
+whatsapp portable: https://portapps.io/download/whatsapp-portable-win64-2.2134.10-32-setup.exe/
+ok: telegram portable: https://desktop.telegram.org/
+
+
+ok: info:PI AI: text to speech powered by inflection.ai https://inflection.ai/
+
+ok: Smooth Key Scroll: desactivar la extension, no funciona con AI Pi, buscar otra alternativa.
+off tambien: Scroll smoothly on all websites with your mouse and keyboard.: instalar esta: https://chromewebstore.google.com/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj?hl=en 
+off: on en prebas,  Hand Tool for browser
+ok: test ok, ScrollAnywhere: Drag scrollbar with your middle mouse button anywhere on the page. Supports also "grab and draa- stvle. link: https://chromewebstore.google.com/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi?hl=es-419&gl=MX
+
+
+ok: instalar MicMute windows 
+
+ok: descargar: NewFileTime_x64.exe - Shortcut "cambia las fechas de los archivos"
+
+
+ok: En la session de windows: Si beben estar en el scritorio los siguientes accesos directos: "My Mistakes into the test english by apps.txt - Shortcut", "My Interesting Phrases that I like in English.txt - Shortcut", "1 lectures - Shortcut", "temporal.txt", "1 BASE DE DATOS Miguel Gutierrez.txt - Shortcut", "The always and RAM to DELETE", 
+-
+ok:
+ShareX captures: C:\Users\Miguel G\Documents\ShareX\Screenshots: I've been forgetting to select the images to upload to the cloud, and they've been getting deleted when I turn off the computer. I need to change the location to the unfrozen partition 'D,' and once I've uploaded them to the cloud, I can delete them.
+Explanation of this phrase: This sentence talks about the user's habit of forgetting to upload screenshots taken by ShareX to the cloud. As a result, the screenshots get deleted when the computer is turned off. To solve this, the user plans to change the save location to a partition that doesn't get wiped when the computer is restarted. After the images are uploaded to the cloud, they can be safely deleted from the computer.
+D:\1acumulacion-ftp\temporal\Apps\ShareX\Screenshots
+-
+
+programa triner 1111 ideas:
+-
+incluir en la descripcion de una palabra una sentencia que incluya la palabra aprendender 
+pero que tenga real relacion con Miguel, ejemplo: yo soy miguel gutierrez y he usado esta palabra o frace en mi vida real 
+para expresar lo siguiente: ... . 
+-
+
+
+---
+******
+extensiones google chrome clasificadas:
+ok: Download the offline installer for Google Chrome extensions to use them in frozen partition mode, or get a list of download links.
+-
+ads block:
+Adblock for YouTube & Chrome - 1Block: 
+https://chromewebstore.google.com/detail/adblock-for-youtube-chrom/jajikjbellknnfcomfjjinfjokihcfoi?hl=en-US&utm_source=ext_sidebar
+Autoskip for Youtube™ Ads: 
+https://chromewebstore.google.com/detail/autoskip-for-youtube-ads/hmbnhhcgiecenbbkgdoaoafjpeaboine?hl=en-US&utm_source=ext_sidebar
+ok: Stands AdBlocker,soluciona en navegador edge, restriccion Youtube ADs, ,extencion navegador Chrome and Edge Microsoft: 
+https://chromewebstore.google.com/detail/stands-adblocker/lgblnfidahcdcjddiepkckcfdhpknnjh?utm_source=google&utm_medium=cpc&utm_campaign=21161271820&utm_content=169150839028&utm_term=yt+ad+blocker&gad_source=2&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnBhwSkxiG18gBiQJuRDPWTFoly-EP7mUuSj91QYJhCmJiUwLNnAwfAaAloEEALw_wcB
+
+
+-
+English:
+6: Read Pronunciation: English & French: English & French: 
+https://chromewebstore.google.com/detail/read-pronunciation-englis/ieimachclakgpglmhafclnfklklomfeh?hl=en-US&utm_source=ext_sidebar
+	Pronounce: Speech and Pronunciation Checker: 
+        https://chromewebstore.google.com/detail/pronounce-speech-and-pron/fbjmlmabammiejnfkmgjhdcnjdahblaj?hl=en-US&utm_source=ext_sidebar
+	Read Aloud: A Text to Speech Voice Reader: https://chromewebstore.google.com/detail/read-aloud-a-text-to-spee/hdhinadidafjejdhmfkjgnolgimiaplp?hl=en-US&utm_source=ext_sidebar
+5: WhisperAI - AI driven Speech-to-text: 
+https://chromewebstore.google.com/detail/whisperai-ai-driven-speec/klhcnkknganbneegjihbcfjoifiomhfn?hl=en-US&utm_source=ext_sidebar
+	Voice In - Speech-To-Text Dictation: https://chromewebstore.google.com/detail/voice-in-speech-to-text-d/pjnefijmagpdjfhhkpljicbbpicelgko?hl=en-US&utm_source=ext_sidebar
+	Speechify Text to Speech Voice Reader: 
+     https://chromewebstore.google.com/detail/speechify-text-to-speech/ljflmlehinmoeknoonhibbjpldiijjmm?hl=en-US&utm_source=ext_sidebar
+	NaturalReader - AI Text to Speech: 
+     https://chromewebstore.google.com/detail/naturalreader-ai-text-to/kohfgcgbkjodfcfkcackpagifgbcmimk?hl=en-US&utm_source=ext_sidebar
+7: Tiktok Voice Generator: 
+https://chromewebstore.google.com/detail/tiktok-voice-generator/dkgmjefaaffbdcjlfelfjgfnddckcokf?hl=en-US&utm_source=ext_sidebar
+	Grammarly: AI Writing and Grammar Checker App: https://chromewebstore.google.com/detail/grammarly-ai-writing-and/kbfnbcaeplbcioakkpcpgfkobkghlhen?hl=en-US&utm_source=ext_sidebar
+	AI Speakeasy Microphone for ChatGPT, Perplexity and Claude: 
+        https://chromewebstore.google.com/detail/ai-speakeasy-microphone-f/aoiogfieipljfbeapbfaegmngkoiclbf?hl=en-US&utm_source=ext_sidebar
+	AI Grammar Checker & Paraphraser – LanguageTool: https://chromewebstore.google.com/detail/ai-grammar-checker-paraph/oldceeleldhonbafppcapldpdifcinji?hl=en-US&utm_source=ext_sidebar
+-
+AI assisten:
+2: Say, Pi: 
+https://chromewebstore.google.com/detail/say-pi/glhhgglpalmjjkoiigojligncepccdei?hl=en-US&utm_source=ext_sidebar
+1. -: Voice Control for ChatGPT x Mia AI: 
+https://chromewebstore.google.com/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn?hl=en-US&utm_source=ext_sidebar
+	Claude AI: https://chromewebstore.google.com/detail/claude-ai/nlhpidbjmmffhoogcennoiopekbiglbp?hl=en-US&utm_source=ext_sidebar
+-
+Musica:
+	Transpose ▲▼ pitch ▹ speed ▹ loop for videos: https://chromewebstore.google.com/detail/transpose-%E2%96%B2%E2%96%BC-pitch-%E2%96%B9-spee/ioimlbgefgadofblnajllknopjboejda?hl=en-US&utm_source=ext_sidebar
+-
+General tools:
+	errors(off): 4: Web Highlights - PDF & Web Highlighter: 
+	https://chromewebstore.google.com/detail/web-highlights-pdf-web-hi/hldjnlbobkdkghfidgoecgmklcemanhm?hl=en-US&utm_source=ext_sidebar
+	Glasp Web Highlighter - PDF & Web Highlights: https://chromewebstore.google.com/detail/glasp-web-highlighter-pdf/blillmbchncajnhkjfdnincfndboieik?hl=en-US&utm_source=ext_sidebar
+	Highlighter for Google ChromeTM
+	https://chromewebstore.google.com/detail/highlighter-for-google-ch/lebapnohkilocjiocfcaljckcdoaciae
+test:
+Weava Highlighter - PDF & Web
+https://chromewebstore.google.com/detail/weava-highlighter-pdf-web/cbnaodkpfinfiipjblikofhlhlcickei
+
+
+3: ok: test ok, ScrollAnywhere: link: 
+https://chromewebstore.google.com/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi?hl=en&pli=1
+
+otras:
+Chrome extension source viewer (CRX): https://chromewebstore.google.com/detail/chrome-extension-source-v/jifpbeccnghkjeaalbbjmodiffmgedin
+
+******
+---
+
+descargar extensiones google chrome para instalar offline
+I was able to do this on a regular chrome installation by doing the following:
+1- Download the extension in crx format - how to download a crx file from the chrome web store for a given id
+2- Unzip the crx file
+3- I had to rename the _metadata folder to metadata
+4- Open the chrome extensions page
+5- Enable Developer mode
+6- Click "Load unpacked extension..."
+7- Select the unzipped folder
+This worked for me when I needed to install Advanced REST client.
+-
+
+
+
+add "c.ai character.ai" a marcadores favoritos en el navegador chrome e iniciar sesion como so.miguel.ok@gmail.com
+
+
+ok: activar mirror cast portatipara compartir la pantalla del celular por el bluetooth
+https://www.youtube.com/watch?v=7AflaNquSN4
+
+ok: DroidCam webcam desde el celular "descargar y tenerlo listo para instalar pc local y en terabox remoto", instalarlo solo en particion congelada, convertir camara del celular en webcam para el portatil por wifi (cliente para pc windows y servidor para celular android)
+https://www.adslzone.net/noticias/windows/convertir-movil-android-camara-web-windows-11/
+descarga del programa para pc: https://www.dev47apps.com/
+
+
+ok: crear carpeta "downloads in D" para poner acceso directo en particion congelata downloads C, es un temporal para subir a terabox que no se borrara al apagar el pc. 
+
+
+4-- 
+on unfreezen set up the folowing:
+
+ok: cambiar esta pagina principal de chrome "https://calendar.google.com/calendar/u/0/r" por solo google
+
+ok: cambiar nombre a Videos - Shortcut por Shortcut - Videos, son solo los accesos directos a los videos subidos a terabox carpeta C
+
+ok: eliminar carpeta "enviar a terabox" ubicada en videos de unidad C remplazarla por acceso directo a particion descongelada unidad D "temporal para enviar a terabox - Shortcut"
+
+ok: before to Sync, you must to have the links before,  Log in to ChatGPT in the browser and set the theme to dark mode.
+https://chatgpt.com/
+
+ok: before to Sync, you must to have the links before, Log in to AI PI. Actually, no, just log in only when you need to. Otherwise, use it as a guest.
+https://pi.ai/threads
+
+ok: iniciar session copilot: https://www.bing.com/chat?form=CONVRD
+ok: iniciar session: https://www.perplexity.ai/
+ok: iniciar session: https://claude.ai/login?returnTo=%2F%3F
+
+ok: poner en book mark los AI asisten, sin sincronizacion
+
+ok: ShareX configurar el tamaño de la imagen de previsializacion a: Thumbnail size: 430
+
+ok: desistalar extencion: Hand Tool : Use your Mouse or Stylus to grab and pan web pages chrome
+
+ok: desistalar extencion: Google Keep Chrome Extension Save to Google Keep in a single click!
+
+ok: habilitar extencion: Adblock for YouTube & Chrome - 1Block Powerful Adblocking, Enhance Privacy, Improve Security, Easy to Use, Faster Loading Speeds, and Longer Battery Life.
+
+ok: no habilitar y configurar(no configurar aun) extencion: Read Pronunciation: English & French Be native in pronunciation using text modifications. Hover over a word to open a pop- up with info bv ChatGPT. Web. PDF. Video. Anki 
+
+ok: habilitar extencion: Smooth Key Scroll Smooth scroll with the keyboard
+
+solo tres extenciones activas las otras desactivadas y cuando requiera usarlas las activo o dessistalo 
+
+ok: desactivar extension: WhisperAl - A1 driven Speech-to-text An A1-driven Speech-to-text extension leveraging OpenAl's Whisper API for efficient and accurate conversion in web input fields.
+
+Could you bring your microphone closer to your mouth?
+
+3--
+
+ok: borrar la carpeta "2024-07" screen ShareX para que quede en cero 
+ok: y direccionar carpeta auto up ShareX a la particion D para compartir por FTP y para indicar que ya se han subido a la nube.
+ok: ShareX auto Up enviado a terabox - Shortcut  ruta real : D:\1acumulacion-ftp\temporal\ShareX auto UP enviado  a terabox
+
+ok: se borra la carpeta auto load de particion C videos 
+
+para que no se apage: Solución PC Windows 10 se apaga solo, 2019 cuando esta en stan by 
+
+ok: ya enviados a tarabox: crear carpeta acceso directo ya enviados para estudiar o borrar esta almacenados en D. y avilitarlos como FTP (D:\1acumulacion-ftp\temporal\ya enviados a tarabox). 
+
+ok: magnifier: poner accesodirecto de la lupa en el escritorio dentro de la carpeta access
+ok: Narrator: install narrator on the descktop short-accesinside of the carpter access. (C:\Users\Miguel G\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility)
+
+
+
+Grammarly: para practicar escritura en ingles, instalar corrector gramaticar recomendado extencion para practicar la escritura en ingles el te va ayudando mientras escribes
+Grammarly: AI Writing and Grammar Checker App extension chrome, Instantly find and fix mistakes, Rewrite sentences for clarity and conciseness
+opcion2 Grammarly: ProWritingAid: Grammar Checker & Paraphrasing Tool, www.prowritingaid.com Destacado 4,8 (6,5 mil valoraciones)
+
+
+instalar copilot CHATGPT Microsoft. only particion freezer on
+
+instalar VLC reproductor de video only particion frezer in on.
+
+
+----
+ok: EDGE: lector de texto: navegador EDGE de microsoft: voces muy reales, texto de lectuta.txt en escritorio navegador edge en la carpeta acces
+ok:configurar EDGE para que cargue en primera pagina el archivo de leccturas.txt
+ok: Speech EDGE Text : archivo fuente de texto, es donde ecrivimos lo que deamos que el navegado EDGE lea
+ok: Speech Microsoft Edge: Acceso directo al archivo Speech EDGE Text para leer
+
+
+voices EDGE chose:
+**Microsoft AvaMultilingual Online (Natural) - English (United States)
+Microsoft Libby Online (Natural) - English (United Kingdom)
+Microsoft Maisie Online (Natural) - English (United Kingdom)
+Microsoft Ryan Online (Natural) - English (United Kingdom)
+Microsoft Sonia Online (Natural) - English (United Kingdom)
+Microsoft Thomas Online (Natural) - English (United Kingdom)
+**Microsoft AvaMultilingual Online (Natural) - English (United States)
+Microsoft AndrewMuItiIinguaI Online (Natural) - English (United States)
+Microsoft EmmaMuItiIinguaI Online (Natural) - English (United States)
+Microsoft BrianMuItiIinguaI Online (Natural) - English (United States)
+Microsoft Ava Online (Natural) - English (United States)
+Microsoft Andrew Online (Natural) - English (United States)
+Microsoft Emma Online (Natural) - English (United States)
+Microsoft Brian Online (Natural) - English (United States)
+Microsoft Ana Online (Natural) - English (United States)
+Microsoft Aria Online (Natural) - English (United States)
+Microsoft Christopher Online (Natural) - English (United States)
+Microsoft Eric Online (Natural) - English (United States)
+Microsoft Guy Online (Natural) - English (United States)
+Microsoft Jenny Online (Natural) - English (IJnited States)
+Microsoft Michelle Online (Natural) - English (United States)
+Microsoft Roger Online (Natural) - English (United States)
+Microsoft Steffan Online (Natural) - English (United States)
+-----
+
+
+
+ok: eSpeak: speech synthesis, app "SAPI5 TTSAPP" installar para realizar lecturas de texto escojer la voz: Microsoft David Desktop - English (United St) y ubicar acceso directo en la carpeta acces "Speech TTSApp" configurar fortmat: 22kHz 16 Bit Mono, https://sourceforge.net/projects/espeak/, se crea acceso directo specch sspeak en acces 
+
+
+-------
+ok: instalacion de Piper TTS natural voices
+Piper TTS natural voices
+TEXT TO SPEECH | Piper TTS on Windows 🚀 AI voice 10x faster Realtime!
+https://www.youtube.com/watch?v=GGvdq3giiTQ
+https://github.com/rhasspy/piper/releases/tag/2023.11.14-2
+piper_windows_amd64.zip
+
+PS D:\ echo "Hello, this is a test using Piper TTS. "
+
+echo "Hello, this is a test using Piper TTS." | .\piper.exe -m .\en_US-ryan-high.onnx -f test1.wav
+
+para archivos de texto grandes:
+Get-Content .\speech-demo.txt
+cat .\speech-demo.txt
+PS D:\Youtube\piper> cat .\speech-demo.txt | .\piper.exe -m .\en_US-ryan-high.onnx -f test3.wav
+se crearon dos accesos directos en acces spee comandos speech power shell windos ejecuta la app por CMD
+-------
+
+
+2--
+
+ok: Configurar FTP:  instalar y configurar FTP tres redes diferentes (ip diferentes) inalambriva por cable y por adaptador usb. solo una ip la del pc y se configura como statica 192.168.1.84, las otras emite error al tratar de configurarlas gateway duplicado
+
+ok: Videos - Shortcut: crear carpeta crear carpeta accesos directos de videos enviados a la nube en la ubicacion videos con la ruta real "D:\1acumulacion-ftp\folder\Shortcut Videos"
+ok ya enviados a tera: crear carpeta videos ya enviadoa a la nube tera y que estan temporalmete para estudio y compartir por red FTP
+ok: enviar a terabox: crear carpeta enviar a la nube en seccion videos para terabox update  crear archivo bandra (si-no.txt)
+ok: auto up terabox : crear carpeta auto up cloude terabox
+
+
+
+ok: alt + t: configurar hotkey shareX, Catura de texto OCR 
+ok: shareX: configurar tiempo de inicio de grabacion despues de 5 segundos, 
+ok: shareX: preguntar por confirmacion cuando aborte la grabacion.
+
+ok:shareX: crear arpeta up ok: videos and fotos auto up load shareX 
+C:\Users\Miguel G\Documents\ShareX\Screenshots, es lo auq seleccionas a subir en la nube
+C:\Users\Miguel G\Documents\ShareX\Screenshots\auto up load
+ok: debes desabilitar Screenshots como auto up load, para evitar que se suba contenido sin previa revision
+ok: The same for the carpeta video en particion c
+
+
+ok: iniciar sesiones qr code watsapp, telegram 
+
+ok: telegram: configurar para que no realice descargas automaticas, configurarlo en dark mode apariencia de la app.
+no: tiene estas opciones, whatapps: configurar whatsapp para que no realice descargas automaticas
+
+
+ok: configuracion de sonido en recorring set default virtual mic for Audio relay
+
+
+ok: Descargar el instalador CapCut "capcut installer offline" y guardalor en USB pendrive:
+    como G:\apps, pero es muy lento, toma mucho tiempo instalarlo y demora en cargar 
+    lento pero funciona
+
+ok: buscar alternativa cutcap online free y crear acceso directo en la carpeta acces de escritorio
+RebootRestoreRx3: E:\para borrar\escritorio pc\app instalacion temporal\RebootRestoreRx3 congelador de particiones\RebootRestoreRx33-20201014
+
+ok: limpiar carpeta de descargas 
+ok: vaciar papelera de reciclaje.
+
+
+
+
+
+
+
+
+1---
+ok: acceso directo al archivo records class in the carpeta videos particion c.
+ok:instalar filtro de pantalla software.
+ok:colocar acceso directo escritorio pc - shartcut en el escritorio
+ok:colocar acceso directo a la carpeta acces en el escritorio (gmail, hotmail)
+ok: carpeta access adicionar rutas de WhatsApp web, Telegram Web. and otros link de acces ?
+ok: configurar audi relay cerrar aplicacion minimice y skill dark.
+
+# instalaciones
+ok: instalar Audio virtual 4.0 para mixer record
+ok: instalar winrar
+
+#
+requiere internet:
+ok: configurar captura de video en shareX with Audio virtual cable. "requiere instalar paquete windows"
+ok: carpeta de screenshot de shareX configurar auto upload in tera. 
+ok: carpeta 1 lectures - Shortcut configurar auto upload in tera. 
+

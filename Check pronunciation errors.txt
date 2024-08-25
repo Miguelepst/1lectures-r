@@ -1,0 +1,53 @@
+Check pronunciation errors.txt
+##
+Mispronounced word
+
+
+
+crown, crown, crown,
+undefeated, undefeated, undefeated,   
+jokester, jokester, jokester,
+trickster, trickster, trickster,
+synonyms, synonyms, synonyms,   
+infamous, infamous, infamous,
+transcended, transcended, transcended, 
+purpose, purpose, purpose, 
+culture, culture, culture,
+uncouth, uncouth, uncouth, *uncouth*, In the meeting, I meant to say 'uncouth,' but everyone heard me say 'uncle', 'course'
+unparalleled, unparalleled , unparalleled  
+EARnestly, EARnestly, EARnestly
+Diligently, Diligently, Diligently
+subject, subJECT, subject
+repeating, repeating, repeating, 
+presumptuous, presumptuous, presumptuous, *presumptuous*, I mean to say "presumptuous" but they hear me as "present to as."
+frivolous, frivolous, frivolous.   
+connoisseur, connoisseur, connoisseur,
+product, product, product.
+young, young, young,
+handle, handle, handle,  
+identify , identify, identify,   
+definitely, definitely, definitely,   
+
+
+
+
+
+    ^
+   ^^^
+  ^ ^ ^
+ ^  ^  ^
+    ^  
+    ^
+    ^
+Check pronunciation errors.txt
+
+
+It's easy to see how "uncouth" and "uncle" can sound similar when spoken quickly or without clear pronunciation. Here are a few tips to help you pronounce "uncouth" more clearly:
+
+1. **Break it down**: Say it slowly and in parts: un-couth.
+2. **Emphasize the "th"**: Make sure to pronounce the "th" sound at the end clearly. It’s like the sound in "think" or "thought."
+3. **Practice with sentences**: Use the word in simple sentences to practice the pronunciation in context. For example:
+   - "His behavior was quite uncouth."
+   - "The party became uncouth as the night went on."
+
+Try saying these sentences slowly at first, then gradually increase your speed as you become more comfortable with the pronunciation.

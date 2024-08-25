@@ -1,0 +1,105 @@
+
+source 1: Irecord app android
+00:01
+And he, he, he, he was able to speak his mind because he didn't have to depend on being elected to his job, 
+because in politics, whatever you say, you gotta always watch what you say because you don't wanna lose a vote. 
+Trump didn't, grow, up, like,
+00:16
+That's why it's really difficult for him to be a politician. 
+You remember when he was a celebrity, remember in the eighties, 
+he grew up during the time of Wall Street. With, the? um.
+00:27
+With the greed is good culture and he was a celebrity and he, but he was a celebrity, not because he was a pretender, on, the, movie, set,
+00:36
+Or because he was a social he was a celebrity because of what he did and he and he had a really big ego you remember all that, right, I remember all that, but here's the, jesse, you're, you're right, except up, to this, point.
+00:49
+Donald Trump has been in government, he was President the United States.
+
+
+
+source 2: extension chrome whisper:
+
+Break down by Miguel in short sentences the whole dialogue:
+
+or they were fired, 
+and he was able to speak his mind, 
+because he didn't have to depend on being elected to his job, 
+because in politics, 
+whatever you say, 
+you got to always watch what you say, 
+because you don't want to lose a vote, 
+Trump didn't grow up like that, 
+
+and that's why it's really difficult for him to be a politician, 
+you remember when he was a celebrity, 
+remember in the 80s, 
+he grew up during the time of Wall Street, 
+
+with the, 
+with the greed of good culture, 
+and he was a celebrity, 
+and he but he was a celebrity, 
+not because he was a pretender on the movie set, 
+or because he was a socialite, 
+he was a celebrity because of what, 
+he did and he and he had a really big ego, 
+you remember all that, right?, 
+
+I remember all that, 
+but here's the Jesse you're you're right except up to this point, 
+Donald Trump has been in government he was president of the United States, 
+
+
+Source 3: web : https://whisperapi.com/speech-to-text-free-tool
+
+where they were fired. And he was able to speak his mind because he didn't have to depend on being elected to his job because in politics, whatever you say, you've got to always watch what you say because you don't want to lose a vote. Trump didn't grow up like that, and that's why it's really difficult for him to be a politician. You remember when he was a celebrity, remember in the 80s? He grew up during the time of Wall Street with the... with the greed of good culture. And he was a celebrity. And he, but he was a celebrity, not because he was a pretender on the movie set or because he was a socialized. He was a celebrity because of what he did. And he had a really big ego. You remember all that, right? I remember all that. But here's the, Jesse, you're right, except up to this point. Donald Trump has been in government. He was president of the United States.
+
+
+Source 4:
+
+Without changing the paragraph, break it down into short sentences and number them:
+
+1. Where they were fired.  
+2. And he was able to speak his mind because he didn't have to depend on being elected to his job.  
+3. Because in politics, whatever you say, you've got to always watch what you say.  
+4. Because you don't want to lose a vote.  
+5. Trump didn't grow up like that.  
+6. And that's why it's really difficult for him to be a politician.  
+7. You remember when he was a celebrity, remember in the 80s?  
+8. He grew up during the time of Wall Street with the... with the greed of good culture.  
+9. And he was a celebrity.  
+10. And he, but he was a celebrity, not because he was a pretender on the movie set or because he was a socialized.  
+11. He was a celebrity because of what he did.  
+12. And he had a really big ego.  
+13. You remember all that, right?  
+14. I remember all that.  
+15. But here's the, Jesse, you're right, except up to this point.  
+16. Donald Trump has been in government.  
+17. He was president of the United States.
+
+
+
+Give me different ways to say the same thing with the words in a different order, playing with the grammar. Use the same words: 
+"Without changing the paragraph, break it down into short sentences and number them"
+
+Sure! Here are different ways to convey the same instruction with the words rearranged:
+
+1. **"Break the paragraph down into short sentences and number them, without changing it."**
+   - **Explanation:** This variation places the instruction to break down and number the sentences first, with the constraint about not changing the paragraph following it.
+
+2. **"Without changing it, break the paragraph into short sentences and number them."**
+   - **Explanation:** Here, the constraint about not changing the paragraph is presented upfront, followed by the actions of breaking down and numbering the sentences.
+
+3. **"Number them and break down the paragraph into short sentences, without changing it."**
+   - **Explanation:** This structure emphasizes the actions of numbering and breaking down first, and then states that the paragraph should not be altered.
+
+
+--
+
+
+1. "Break the paragraph down into short sentences and number them, without changing it."
+
+2. "Number the short sentences after breaking down the paragraph, without making any changes."
+
+3. "Without altering the paragraph, number and break it down into short sentences."
+
